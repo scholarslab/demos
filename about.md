@@ -3,36 +3,4 @@ layout: page
 title: About
 ---
 
-One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
-
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' in one academic semester, allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle!
-
-
-## Sample Ed editions.
-
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
-
-
-## Current Features
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwitdh scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our [documentation page](http://minicomp.github.io/ed/documentation/).
+On January 1, 2019, material published in the United States in 1923 entered the public domain after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music is [Robert Frost's *New Hampshire*](https://archive.org/details/NewHampshireRobertFrost1923/page/n9) , the collection of poetry that won him a Pulitzer Prize the following year. The poems in this [now-iconic collection](https://everybodyslibraries.com/2018/12/31/public-domain-day-advent-calendar-31-new-hampshire-by-robert-frost/) evoke a place with rocky soils, harsh winters, and the humble, yet determined, Americans who lived there. However, long before New Hampshire was part of the United States,  it comprised part of indigenous Abenaki territory. The Abenaki refer to the land they belong to as ndakinna, meaning "our land." Its abundant plants and animals nourished Abenaki peoples, and its rivers and streams linked together kin across the vast region. The landscape served as the setting for stories that gave people a common identity, entertained them during long winter nights, and instructed the next generation how to live properly.  This project addresses the silencing of Abenaki voices in the literary, geographical, and metaphorical *New Hampshire* through a variety of digital projects,presented together in a website designed with low barriers to entry and access (ie. minimal computing). By putting voices of New Hampshire’s native people in conversation with Robert Frost’s *New Hampshire*, we hope to engage Abenaki poets, scholars, artists, storytellers, language specialists, and culture carriers. In the spirit of digital humanities projects, ours will be a collaborative effort and will take its shape from the varied interests of Praxis team members and collaborators. For example, contemporary indigenous poets could  record themselves reading excerpts of poems, which will then be integrated into digital editions. Language specialists might then translate those poems into Abenaki for presentation online using typeface reconstructed from the original 1923 edition. An interactive map could  overlay the Abenaki and English names for places referenced in Frost's poems. In addition to a digital format, we plan to engage the public through programming such as readings of both newly commissioned poems and Frost's poetry by Abenaki authors held at the University of Virginia and local public libraries. Each project will also be explained step-by-step in a teaching guide that will include advice on navigating copyright law. As we believe that the cultural commons should be protected and expanded, we hope to empower scholars and members of the general public to engage the variety of public-domain material now widely available online.
