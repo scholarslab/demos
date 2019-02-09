@@ -1,20 +1,20 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               Dêmos
+tagline:             'Expanding the Public Domain.'
+description:         'Pithy etymological statement on the connection between title, content and form.'
+url:                 'http://mathildaeliza.github.io'
+baseurl:             '/ed-1'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Praxis
+  url:               https://praxis.scholarslab.org/
+  email:             mes2tf@virginia.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: green 
 
 # Permalinks
 permalink: pretty
