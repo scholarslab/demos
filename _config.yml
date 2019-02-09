@@ -46,4 +46,4 @@ exclude:
   - vendor
 
 # Theme
-remote_theme: "ed."
+#theme: "ed."
