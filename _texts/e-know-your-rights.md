@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: default
 title:  Know your rights!
 toc:
 - What is the Public Domain?
