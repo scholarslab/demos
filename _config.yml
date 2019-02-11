@@ -3,7 +3,7 @@
 # Setup
 title:               Dêmos
 tagline:             'Expanding the Public Domain.'
-description:         'Pithy etymological statement on the connection between title, content and form.'
+description:         'A Public Domain Resource.'
 url:                 'http://scholarslab.github.io'
 baseurl:             '/demos'
 
