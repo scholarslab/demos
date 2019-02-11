@@ -4,8 +4,8 @@
 title:               Dêmos
 tagline:             'Expanding the Public Domain.'
 description:         'Pithy etymological statement on the connection between title, content and form.'
-url:                 'http://mathildaeliza.github.io'
-baseurl:             '/ed-1'
+url:                 'http://scholarslab.github.io'
+baseurl:             '/demos'
 
 # About/contact
 author:
