@@ -11,26 +11,11 @@ sitemap: false
 
 /* FONTS */
 $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$new-hampshire: "new_hampshireregular";
 $heading-font: sans-serif;
 $regular-font-size: 20px;
-$new_hampshireregular: "new_hampshireregular"
-
-@font-face {
-  font-family: 'new_hampshireregular';
-  src: url('newhampshire-regular-webfont.woff2') format('woff2'),
-       url('newhampshire-regular-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
 
 
-@font-face {
-  font-family: 'new_hampshireregular';
-  src: url('newhampshire-regular-webfont.woff2') format('woff2'),
-       url('newhampshire-regular-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
 
 
 /*
@@ -45,3 +30,4 @@ $link-color: #841212;
 
 @import "ed";
 @import "syntax";
+@import "stylesheet"
