@@ -261,29 +261,18 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title small {
-  font-family: $main-font;
+  font-family: $mast-font;
   font-size: .88rem;
   font-weight: 300;
   color: $text-color;
   letter-spacing: .05rem;
-  font-family: $heading-font;
+  font-family: $mast-font;
 }
 
 h3.masthead-title {
   font-family: $mast-font;
   font-size: 1.8rem;
   margin-top: 2px;
-}
-
-@font-face {
-  .masthead-title {
-  font-family: 'new_hampshireregular';
-  src: url('newhampshire-regular-webfont.woff2') format('woff2'),
-       url('newhampshire-regular-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  }
-
 }
 
 @media (max-width: 48em) {
