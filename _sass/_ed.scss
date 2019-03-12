@@ -275,6 +275,17 @@ h3.masthead-title {
   margin-top: 2px;
 }
 
+@font-face {
+  .h3.masthead-title {
+  font-family: 'new_hampshireregular';
+  src: url('newhampshire-regular-webfont.woff2') format('woff2'),
+       url('newhampshire-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  }
+
+}
+
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
