@@ -9,8 +9,6 @@ sitemap: false
   Feel free to change!
 */
 
-@include font-face(new_hampshireregular, assets/new_hampshireregular);
-
 /* FONTS */
 $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 $mast-font: new_hampshireregular;
@@ -32,4 +30,5 @@ $link-color: #841212;
 
 @import "ed";
 @import "syntax";
+@import "/Users/mathildashepard/Documents/GitHub/demos/assets/new_hampshireregular/stylesheet.css";
 
