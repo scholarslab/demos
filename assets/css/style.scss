@@ -11,7 +11,7 @@ sitemap: false
 
 /* FONTS */
 $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$mast-font: new_hampshireregular;
+$mast-font: "new_hampshireregular";
 $heading-font: sans-serif;
 $regular-font-size: 20px;
 
@@ -30,5 +30,6 @@ $link-color: #841212;
 
 @import "ed";
 @import "syntax";
-@import "/Users/mathildashepard/Documents/GitHub/demos/assets/new_hampshireregular/stylesheet.css";
+@import "fontface";
+@include fontFace('new_hampshireregular','"/Users/mathildashepard/Documents/GitHub/demos/assets/new_hampshireregular');
 
