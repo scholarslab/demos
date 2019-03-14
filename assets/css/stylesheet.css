@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'new_hampshireregular';
-    src: url('newhampshire-regular-webfont.woff2') format('woff2'),
-         url('newhampshire-regular-webfont.woff') format('woff');
+    src: url("{{site.url}}/assets/fonts/newhampshire-regular-webfont.woff2") format("woff2"),
+         url("{{site.url}}/assets/fonts/newhampshire-regular-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 
@@ -13,4 +13,13 @@
 
 
 
+
+@font-face {
+    font-family: 'new_hampshireregular';
+    src: url("{{site.url}}/assets/fonts/newhampshire-regular-webfont.ttf") format("tiff"),
+         url('newhampshire-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
