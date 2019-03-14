@@ -16,8 +16,6 @@ $heading-font: sans-serif;
 $regular-font-size: 20px;
 
 
-
-
 /*
   COLOR.
 
@@ -30,6 +28,6 @@ $link-color: #841212;
 
 @import "ed";
 @import "syntax";
-@import "fontface";
-@include fontFace('new_hampshireregular','"/Users/mathildashepard/Documents/GitHub/demos/assets/new_hampshireregular');
+@import url(stylesheet.css)
+
 
