@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Font Reconstruction Tutorial
 by Catherine Addington
 
