@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: 'new_hampshireregular';
-    src: url("assets/fonts/newhampshire-regular-webfont.woff2") format("woff2"),
-         url("assets/fonts/newhampshire-regular-webfont.woff") format("woff");
+    src: url("../fonts/newhampshire-regular-webfont.woff2") format("woff2"),
+         url("../fonts/newhampshire-regular-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 
