@@ -14,12 +14,5 @@
 
 
 
-@font-face {
-    font-family: 'new_hampshireregular';
-    src: url("{{site.url}}/assets/fonts/newhampshire-regular-webfont.ttf") format("tiff"),
-         url('newhampshire-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
-}
 
