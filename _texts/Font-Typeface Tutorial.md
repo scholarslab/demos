@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Typeface Tutorial
 ---
 
 #Font Reconstruction Tutorial
