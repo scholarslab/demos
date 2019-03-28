@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Abenaki Voices
+title: Abenaki Responses
 toc:
 - Response 1
 - Response 2
