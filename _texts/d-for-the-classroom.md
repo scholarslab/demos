@@ -1,5 +1,0 @@
----
-layout: narrative
-title: Pedagogy
-
----
