@@ -1,9 +1,9 @@
 
-.sidebar {
+.storymap-sidebar {
    /* display: none;*/
 }
 @media (min-width: 768px) {
-    .sidebar {
+    .storymap-sidebar {
         position: fixed;
         top: 0;
         bottom: 0;
@@ -18,18 +18,18 @@
     }
 }
 
-.main {
+.storymap-main {
     padding: 20px;
 
     padding-bottom: 500px;
 }
 @media (min-width: 768px) {
-    .main {
+    .storymap-main {
         padding-right: 40px;
         padding-left: 40px;
     }
 }
-.main .page-header {
+.storymap-main .page-header {
     margin-top: 0;
 }
 
@@ -47,7 +47,7 @@
     background: #eee;
 }
 
-section {
+.storymap-main section{
     padding: 5px 10px 10px 10px;
     border-radius: 10px;
 }
