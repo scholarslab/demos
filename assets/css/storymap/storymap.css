@@ -5,10 +5,11 @@
 @media (min-width: 768px) {
     .storymap-sidebar {
         position: fixed;
-        top: 0;
+        top: 8rem;
         bottom: 0;
-        right: 0;
-        z-index: 1000;
+        right: 1rem;
+        width: 25%;
+        z-index: -1;
         display: block;
         padding: 20px;
         overflow-x: hidden;
@@ -20,8 +21,8 @@
 
 .storymap-main {
     padding: 20px;
-
-    padding-bottom: 500px;
+    padding-bottom: 50%;
+    padding-right: 30%;
 }
 @media (min-width: 768px) {
     .storymap-main {
