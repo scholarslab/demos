@@ -6,7 +6,6 @@
 
         var defaults = {
             selector: '[data-place]',
-            breakpointPos: '33.333%',
             createMap: function () {
                 // create a map in the "map" div, set the view to a given place and zoom
                 var map = L.map('map').setView([28, 0], 2);
@@ -77,11 +76,7 @@
         }
 
         var makeStoryMap = function (element, markers, paths) {
-            var topElem = $('<div class="breakpoint-current"></div>')
-                .css('top', settings.breakpointPos);
-            $('body').append(topElem);
-
-            var top = topElem.offset().top - $(window).scrollTop();
+            var top = $(window).height()/3;
             var searchfor = settings.selector;
             var paragraphs = element.find(searchfor);
             paragraphs.on('viewing', function () {
@@ -91,9 +86,9 @@
             paragraphs.on('notviewing', function () {
                 $(this).removeClass('viewing');
             });
-            
-            watchHighlight(element, searchfor, top);
 
+            watchHighlight(element, searchfor, top);
+            
             var map = settings.createMap();
             map.on('zoomend', onMapZoomEnd);
             map.on('zoomstart', onMapZoomStart);

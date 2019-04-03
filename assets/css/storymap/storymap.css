@@ -14,15 +14,6 @@
     width:50vw !important;
 }
 
-.breakpoint-current {
-    left: 0;
-    margin-top: -10px;
-    position: fixed;
-   /* top: 33.3333%; */
-    width: 3px;
-    height: 3px;
-}
-
 .viewing {
     background: #eee;
 }
