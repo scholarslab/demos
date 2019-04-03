@@ -127,7 +127,7 @@
                       fg.addLayer(layer);
                     };
                     zoomTo = marker.zoom;
-                    fg.addLayer(L.marker([marker.lat, marker.lon]));
+                    //fg.addLayer(L.marker([marker.lat, marker.lon]));
                     map.flyTo([marker.lat, marker.lon], marker.zoom);
                 }
             }

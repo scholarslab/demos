@@ -12,19 +12,16 @@ title: Storymap
                 <p>This is a storymap!</p>
             </section>
 
-            <section data-place="south">
+            <section>
                 <h2>NEW HAMPSHIRE</h2>
-                <p>I met a lady from the South who said (You won't believe she said it, but she said it): "None of my family ever worked, or had A thing to sell." I don't suppose the work Much matters. You may work for all of me. I've seen the time I've had to work myself. The having anything to sell (1) is what Is the disgrace in man or state or nation.</p>
-                <p>I met a traveller from Arkansas Who boasted of his state as beautiful For diamonds and apples. "Diamonds And apples in commercial quantities?" I asked him, on my guard. "Oh yes," he answered, Off his. The time was evening in the Pullman. "I see the porter's made your bed," I told him.</p>
+                <p><span data-place="south">I met a lady from the South who said (You won't believe she said it, but she said it): "None of my family ever worked, or had A thing to sell."</span> <span data-place="constantinople">I don't suppose the work Much matters. You may work for all of me. I've seen the time I've had to work myself. The having anything to sell (1) is what Is the disgrace in man or state or nation.</span></p>
                 <p>I met a Californian who would Talk California — a state so blessed, He said, in climate none had ever died there A natural death, and Vigilance Committees Had had to organize to stock the graveyards And vindicate the state's humanity. "Just the way Steffanson runs on," I murmured, "About the British Arctic. That's what comes Of being in the market with a climate."</p>
                 <p>1 Cf. page 37, <a href="https://babel.hathitrust.org/cgi/pt?id=uva.x000888807;view=1up;seq=51">"The Axe-helve."</a></p>
             </section>
-
-            <section  data-place="constantinople">
                 <p>I met a poet from another state, A zealot full of fluid inspiration, Who in the name of fluid inspiration, But in the best style of bad salesmanship, Angrily tried to make me write a protest (In verse I think) against the Volstead Act. He didn't even offer me a drink Until I asked for one to steady him. This is called having an idea to sell.</p>
                 <p>It never could have happened in New Hampshire.</p>
                 <p>The only person really soiled with trade I ever stumbled on in old New Hampshire Was someone who had just come back ashamed From selling things in California. He'd built a noble mansard roof with balls On turrets like Constantinople, deep In woods some ten miles from a railroad station, As if to put forever out of mind The hope of being, as we say, received. I found him standing at the close of day Inside the threshold of his open barn, Like a lone actor on a gloomy stage — And recognized him through the iron grey In which his face was muffled to the eyes As an old boyhood friend, and once indeed A drover with me on the road to Brighton. His farm was "grounds," and not a farm at all; His house among the local sheds and shanties Rose like a factor's at a trading station. And he was rich, and I was still a rascal. I couldn't keep from asking impolitely, Where had he been and what had he been doing?</p>
-            </section>
+            
 
             <section  data-place="sanfrancisco">
                 <p>How did he get so? (Rich was understood.) In dealing in "old rags" in San Francisco. Oh it was terrible as well could be. We both of us turned over in our graves.</p>
@@ -151,3 +148,99 @@ title: Storymap
     <div id="map" class=".col-md-4 storymap-sidebar">
     </div>
 </div>
+
+<script type="text/javascript" src="/demos/assets/js/storymap/storymap.js"></script>
+<script type="text/javascript" src="/demos/assets/js/storymap/counties.js"></script>
+<script type="text/javascript">
+    (function () {
+        'use strict';
+
+        /* var counties = $.ajax({
+          url:"counties.json",
+          dataType: "json",
+        }) */
+
+        var paths = [
+            L.marker([33, -88]).bindTooltip("The South"),
+            L.marker([34.8, -92.2]).bindTooltip("Arksansas"),
+            L.marker([37, -120]).bindTooltip("California"),
+            L.marker([75, -90]).bindTooltip("British Arctic"),
+            L.marker([44, -71.5]),
+            L.marker([41.013611, 28.955]),
+            L.marker([44.808889, -71.869444]),
+            L.marker([37.783333, -122.416667]),
+            L.marker([43.703333, -72.288333]),
+            L.marker([42.981389, -70.611389]),
+            L.marker([52.95, -1.15]),
+            L.marker([39.952778, -75.163611]),
+            L.marker([51.234, -0.3318]),
+            L.marker([51, 0]),
+            L.marker([44.468611, -71.183889]),
+            L.marker([43.436389, -71.823333]),
+            L.marker([43.646667, -72.010278]),
+            L.marker([44.894444, -71.495833]),
+            L.marker([42.358056, -71.063611]),
+            L.marker([40.777453, -73.975903]),
+            L.marker([42.374, -71.117]),
+            L.marker([42.788333, -71.200833]),
+            L.marker([44, -72.7]),
+            L.marker([41.272222, -72.334167]),
+            L.marker([60, -95]),
+            L.marker([44.488889, -71.569167]),
+            L.marker([44.877778, -71.514167]),
+            L.marker([42.990833, -71.1425]),
+            L.marker([44.227222, -71.748333]),
+            L.marker([44.146111, -71.79]),
+            L.marker([40.7127, -74.0059]),
+            L.marker([42.990833, -71.463611]),
+            L.marker([44.306111, -71.77]),
+            L.marker([44.271, -71.305]),
+            L.marker([44.791667, -72.582778]),
+            L.marker([42.3, -71.8]),
+            L.marker([42.905833, -72.060833]),
+            L.marker([-13.583333, -172.333333]),
+            L.marker([60, 90]),
+            L.marker([53.416667, -8]),
+            L.marker([51.5, -0.116667]),
+            L.marker([47, 2]),
+            L.marker([43, 12]),
+            L.marker([41.7, -71.5]),
+            L.marker([42.800556, -71.304167]),
+            L.marker([42.838333, -71.146944]),
+            L.marker([43.036111, -71.183333]),
+            L.marker([39, -105.5]),
+            L.marker([42.880556, -71.327222]),
+            L.marker([44.280278, -71.688056]),
+            L.marker([46.5, 9.316667]),
+            L.marker([56.564341, -3.584886]),
+            L.marker([44.034167, -72.063889]),
+            L.marker([44.103953, -72.121759]),
+            L.marker([44.2705, -71.30325]),
+            L.marker([43.924722, -71.891667]),
+            L.marker([43.868889, -71.91]),
+            L.marker([44.024511, -71.830917]),
+            L.geoJSON(counties)
+        ];
+
+        var views = {
+            overview: { lat: 44, lon: -71.5, zoom: 8 },
+            south: { lat: 33, lon: -88, zoom: 5.5 },
+            constantinople: { lat: 41.013611, lon: 28.955, zoom: 8 },
+            sanfrancisco: { lat: 37.783333, lon: -122.416667, zoom: 8 },
+            philadelphia: { lat: 39.952778, lon: -75.163611, zoom: 8 },
+            andover: { lat: 43.436389, lon: -71.823333, zoom: 11 },
+            union: { lat: 40, lon: -100, zoom: 4 },
+            newyorkcity: { lat: 40.7127, lon: -74.0059, zoom: 8 },
+            littleton: { lat: 44.306111, lon: -71.77, zoom: 11 },
+            samoa: { lat: -13.583333, lon: -172.333333, zoom: 7 },
+            warren: { lat: 43.924722, lon: -71.891667, zoom: 11 },
+            moosilauke: { lat: 44.024511, lon: -71.830917, zoom: 11 },
+            birnam: { lat: 56.564341, lon: -3.584886, zoom: 12 },
+            coos: { lat: 44.69, lon: -71.3, zoom: 9 },
+            wentworth: { lat: 43.868889, lon: -71.91, zoom: 11 },
+            grafton: { lat: 43.93, lon: -71.84, zoom: 9 },
+        };
+
+        $('.storymap-main').storymap({ markers: views, paths: paths });
+    }());
+</script>
