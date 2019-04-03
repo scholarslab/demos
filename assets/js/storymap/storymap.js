@@ -77,25 +77,21 @@
         }
 
         var makeStoryMap = function (element, markers, paths) {
-
             var topElem = $('<div class="breakpoint-current"></div>')
                 .css('top', settings.breakpointPos);
             $('body').append(topElem);
 
             var top = topElem.offset().top - $(window).scrollTop();
-
             var searchfor = settings.selector;
-
             var paragraphs = element.find(searchfor);
-
             paragraphs.on('viewing', function () {
                 $(this).addClass('viewing');
             });
-
+            
             paragraphs.on('notviewing', function () {
                 $(this).removeClass('viewing');
             });
-
+            
             watchHighlight(element, searchfor, top);
 
             var map = settings.createMap();
