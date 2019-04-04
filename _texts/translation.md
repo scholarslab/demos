@@ -6,7 +6,7 @@ title: Translation
 <br/>
 <br/>
 <br/>
-**_Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
+**_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
 Translated by Chris Whitehead & Eric Brier
 
 **Nodkazôwadjik**<br/>
