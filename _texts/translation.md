@@ -9,7 +9,7 @@ Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;III. In Italiano<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;IV. Emily's reflections on language and translation<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;V. Teaching translation<br/>
-<br/>
+
 <br/>
 <br/>
 ## I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
@@ -39,7 +39,7 @@ _Unless in bitterness to mock_<br/>
 Only/ she will find/ while she digs/ there are many rocks<br/>
 All she will find when she digs is that the rocks are more.<br/>
 _At having cultivated rock._<br/>
-<br/>
+
 <br/>
 <br/>
 ## II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
@@ -66,12 +66,12 @@ aiaga = unless, if not
 **wzômi/ ‘lakahoji/ senal**<br/>
 because/ she will dig something, hoe something/ stones<br/>
 _At having cultivated rock._<br/>
-<br/>
+
 <br/>
 Next, Chris posted his initial translation to the Western Abenaki-Abénaquis de l'Ouest Facebook group, soliciting feedback:<br/>
 
 >Kwai nidôbak (Hello/ friends)! I was wondering if any of you would like to help with a project that I am working on with some colleagues at the University of Virginia. We are making a website to demonstrate the ways that people can use materials in the public domain, using Robert Frost’s 1923 book New Hampshire as a case study. Among the many things people can do with materials in the public domain is translate them and post them online for others to enjoy free of charge. Since Frost’s New Hampshire takes place in Abenaki country, I thought I would put my own learning to the test and try translating one of his poems into Abenaki. I selected the poem “Plowmen” because I thought it illuminates the fundamentally different worldview the Abenaki language reveals about working the earth than the sort of farming Frost describes. It was a challenge and a lot of fun. That said, I am at the beginning of my journey learning Abenaki and am sure I made many, many mistakes. Would any of you like to help? I’d appreciate feedback of any variety: edits, suggestions for alternative words, corrections to conjugations, different ways of breaking down the original poem…or telling me I’m flat-out wrong! Of course, anyone who wishes to participate will be credited on the website once the project is finished.
-<br/>
+
 <br/>
 Eric Brier replied, offering a much more nuanced translation. Eric is an experienced speaker, and was generous in sharing his time and knowledge:
 
@@ -150,7 +150,7 @@ only/she will find/while she digs/there are many rocks<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senika = there are many rocks<br/>				
 All she will find when she digs is that the rocks are more.<br/>
 _At having cultivated rock._<br/>
-<br/>
+
 <br/>
 Chris followed up with Eric, asking clarifying questions about his translations:<br/>
 
@@ -161,7 +161,7 @@ Chris followed up with Eric, asking clarifying questions about his translations:
 2. In the first line, could you please explain the conjugation of "lakahôd," specifically the ending "ôd"? Looking at the Gordon Day dictionary, I've seen that other words with similar endings are designated as "TA pt," Transitive Animate participles. Is that correct? Would the TA pt form be necessary because it follows "kizi," rendering "kizi lakahôd" a compound verb?
 
 3. Could you please explain the formation of mamessanimogôhôditji in the third line? I see that "mamessanim" comes from the verb mamessanimômek, "one ridicules someone." I believe that the ending "ji" renders the verb into future tense. However, I haven't been able to figure out the significance of "ogôhôdit."
-<br/>
+
 <br/>
 Eric answered Chris's questions, explaining in detail how the Western Abenaki language works:
 >Sure, no problem.
@@ -171,10 +171,10 @@ Eric answered Chris's questions, explaining in detail how the Western Abenaki la
 2. Sure, I've never seen (but this doesn't mean it doesn't/can't happen) where the construction of "waji kizi" (in order to, to be able to) doesn't take a conjunct verb after it. "Waji kizi laka-hô-d" = in order that he(central)-hoes-him(obviate) (Wazôli-a being na/nihi and taking animate verbs). So you will see -ô-d = "that-he-VERBS-him."
 
 3. I'm pretty sure I said that I am not 100% certain on this one, however, allow me to explain it anyways:Mamessanim-egw-ôhôdit is: Ridicule-obivate.acts.on.central-him-them. "That they ridicule him". The -ôhôdit is often a "That they (3rd pers.plural) VERB him/them". Perhaps -egw- isn't needed, and you can just skip right to mamessanimôhôdit, which might be a safer, although potentially more ambiguous, construction. Some speakers will write the intervocalic -h-, to wit an -h- between any two consecutive vowels a-h-a, ô-h-ô, i-h-i, etc; some speakers will not write these h’s (aa, ôô, ii). It doesn't make a difference really if you write it or not, as it is pronounced therewith (from what I've heard). Therefore, ôôdit and ôhôdit are the same suffix.
-<br/>
+
 <br/>
 Using Eric's explanations, Chris made minor edits to the final version of the translation, presented above in section I.
-<br/>
+
 <br/>
 <br/>
 ## III. In Italiano
@@ -194,7 +194,7 @@ _Unless in bitterness to mock_<br/>
 
 **L’aver coltivato la pietra grezza**<br/>
 _At having cultivated rock._<br/>
-<br/>
+
 <br/>
 <br/>
 ## III. Emily's reflections on language and translation<br/>
