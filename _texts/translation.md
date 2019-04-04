@@ -12,7 +12,7 @@ Project Table of Contents<br/>
 <br/>
 <br/>
 <br/>
-__I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"__<br/>
+**_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
 Translated by Chris Whitehead & Eric Brier
 <br/>
 <br/>
