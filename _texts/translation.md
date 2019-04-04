@@ -3,11 +3,17 @@ layout: default
 title: Translation
 ---
 **Translation and the Public Domain**
+Project Table of Contents<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1. Alnôbaiwi, In the Abenaki way, particularly in the Abenaki language<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;2. Nd’awighonanob lintowôganiz, We wrote it/ the little song (poem): The process of translation & reflections on language<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;3. In Italiano, In Italian<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;4. Emily's reflections on language<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;4. Teaching translation<br/>
 <br/>
 <br/>
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Translated by Chris Whitehead & Eric Brier
+**_Alnôbaiwi, In the Abenaki way, particularly in the Abenaki language_**<br/>
+Translated by Chris Whitehead & Eric Brier
 <br/>
 <br/>
 **Nodkazôwadjik**<br/>
