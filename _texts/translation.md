@@ -13,9 +13,8 @@ Project Table of Contents<br/>
 <br/>
 <br/>
 **_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
-Translated by Chris Whitehead & Eric Brier
-<br/>
-<br/>
+Translated by Chris Whitehead & Eric Brier<br/>
+
 **Nodkazôwadjik**<br/>
 People whose profession or specialty is cutting and throwing earth<br/>
 Plowmen<br/>
@@ -44,8 +43,7 @@ _At having cultivated rock._<br/>
 <br/>
 <br/>
 **_II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"_**<br/>
-<br/>
-<br/>
+
 First, Chris attempted translating “Plowmen” into Western Abenaki:<br/>
 
 **nodkazôwadjik**<br/>	
@@ -72,7 +70,33 @@ _At having cultivated rock._<br/>
 <br/>
 Next, Chris posted his initial translation to the Western Abenaki-Abénaquis de l'Ouest Facebook group, soliciting feedback:<br/>
 
-"Kwai nidôbak (Hello/ friends)! I was wondering if any of you would like to help with a project that I am working on with some colleagues at the University of Virginia. We are making a website to demonstrate the ways that people can use materials in the public domain, using Robert Frost’s 1923 book New Hampshire as a case study. Among the many things people can do with materials in the public domain is translate them and post them online for others to enjoy free of charge. Since Frost’s New Hampshire takes place in Abenaki country, I thought I would put my own learning to the test and try translating one of his poems into Abenaki. I selected the poem “Plowmen” because I thought it illuminates the fundamentally different worldview the Abenaki language reveals about working the earth than the sort of farming Frost describes. It was a challenge and a lot of fun. That said, I am at the beginning of my journey learning Abenaki and am sure I made many, many mistakes. Would any of you like to help? I’d appreciate feedback of any variety: edits, suggestions for alternative words, corrections to conjugations, different ways of breaking down the original poem…or telling me I’m flat-out wrong! Of course, anyone who wishes to participate will be credited on the website once the project is finished."
+_"Kwai nidôbak (Hello/ friends)! I was wondering if any of you would like to help with a project that I am working on with some colleagues at the University of Virginia. We are making a website to demonstrate the ways that people can use materials in the public domain, using Robert Frost’s 1923 book New Hampshire as a case study. Among the many things people can do with materials in the public domain is translate them and post them online for others to enjoy free of charge. Since Frost’s New Hampshire takes place in Abenaki country, I thought I would put my own learning to the test and try translating one of his poems into Abenaki. I selected the poem “Plowmen” because I thought it illuminates the fundamentally different worldview the Abenaki language reveals about working the earth than the sort of farming Frost describes. It was a challenge and a lot of fun. That said, I am at the beginning of my journey learning Abenaki and am sure I made many, many mistakes. Would any of you like to help? I’d appreciate feedback of any variety: edits, suggestions for alternative words, corrections to conjugations, different ways of breaking down the original poem…or telling me I’m flat-out wrong! Of course, anyone who wishes to participate will be credited on the website once the project is finished."_<br/>
+
+Eric Brier replied, offering a much more nuanced translation. Eric is an experienced speaker, and was generous in sharing his time and knowledge:<br/>
+
+_"I might offer this as an alternative while we wait for the others, I tried to keep to your general structure as I don't know enough about the poem to know what is going on. I also tried to get it to have kind of rhyming scheme in both languages. Taking a few liberties with English. This isn't a proper reflection of poetry in Abenaki, that is something I am very bad at and currently trying to learn more about. It is important to note that because our ancestors had a great way with these words, and one that I have yet to attain, and I will not paint a picture as an expert in that regard."_<br/>
+
+**Ôzokak w'kizawakakto lakahigan waji kizi lakahôd wazôlia**<br/> 
+They say/she can use something/a hoe/in order to/hoe/snow<br/>
+They say that one can use a hoe to hoe snow<br/>
+_A plow, they say, to plow the snow._<br/>
+
+**Adagidahômgwad gadawidamodit nôdkikamek wji wazôlia**<br/>
+It is thought doubtful/that they want to say/one plants/for/snow<br/>
+It's doubtful they want to say that one goes and tills for snow<br/>
+_They cannot mean to plant it, no—_<br/>
+
+**Aiaga adoji mamessanimogôhôditji wji alitta**<br/>
+Otherwise/then/they will mock her/because<br/>
+Otherwise then they will mock her, for<br/>
+_Unless in bitterness to mock_<br/>
+
+**wibiwi w'meskamenji adalôkad senika**<br/>
+only/she will find/while she digs/there are many rocks<br/>
+All she will find when she digs is that the rocks are more.<br/>
+_At having cultivated rock._<br/>
+
+
 
 
 
