@@ -4,6 +4,8 @@ title: Translation
 ---
 **Translation and the Public Domain**
 
+
+
 **_Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**
 
 TRANSLATION
