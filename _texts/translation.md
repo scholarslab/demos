@@ -3,9 +3,9 @@ layout: default
 title: Translation
 ---
 **Translation and the Public Domain**
-
-
-
+<br/>
+<br/>
+<br/>
 **_Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**
 
 TRANSLATION
