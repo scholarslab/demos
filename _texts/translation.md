@@ -6,10 +6,9 @@ title: Translation
 Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;III. In Italiano, "In Italian"<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;III. In Italiano<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;IV. Emily's reflections on language<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;V. Teaching translation<br/>
-<br/>
 <br/>
 <br/>
 **_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
