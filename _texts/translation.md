@@ -4,15 +4,15 @@ title: Translation
 ---
 **Translation and the Public Domain**<br/>
 Project Table of Contents<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;1. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;2. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;3. In Italiano, "In Italian"<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;4. Emily's reflections on language<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;5. Teaching translation<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;II Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;III In Italiano, "In Italian"<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;IV Emily's reflections on language<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;V Teaching translation<br/>
 <br/>
 <br/>
 <br/>
-**_Alnôbaiwi, In the Abenaki way, particularly in the Abenaki language_**<br/>
+**_I Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
 Translated by Chris Whitehead & Eric Brier
 <br/>
 <br/>
@@ -40,15 +40,58 @@ _Unless in bitterness to mock_<br/>
 Only/ she will find/ while she digs/ there are many rocks<br/>
 All she will find when she digs is that the rocks are more.<br/>
 _At having cultivated rock._<br/>
+<br/>
+<br/>
+<br/>
+**_II Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"_**<br/>
+<br/>
+<br/>
+1. Chris Whitehead attempts translating “Plowmen” into Western Abenaki<br/>
+
+**nodkazôwadjik**<br/>	
+people whose profession or specialty is cutting and throwing earth<br/>
+_Plowmen_<br/>
+
+**wd’idambok/ wd’awakakto/ lakazôwôgan/ waji/ ‘lakazôwa/ wazôlia.**<br/>
+they say something/ she uses something/ a plow/ in order to/ she plows (cuts and throws) someone/ snow<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;wd’idambok = they say something<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;idôzik = one says something<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;wd’awakakto = she uses something<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;awakatôzik = one uses something, one employs something<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;lakazôwôgan = a plow<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;waji = for purpose of, in order to, so that<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;‘lakazôwa = she plows (cuts and throws) someone<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lakazôwômek = laka (throw) + lezôwa (cut) = one plows someone<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;wazôlia = snow<br/>
+_A plow, they say, to plow the snow._<br/>
+
+adagigen/ wd’idamenô/ wd’akika/ wazôlia
+It is doubtful/ that they say/ she plants/ snow
+They cannot mean to plant it, no—
+adagigen = it is uncertain, it is doubtful 
+wd’idamenô = that they say, that they mean
+wd‘akika = she plants, sows, works the worth
+wazôlia = snow
 
 
+aiaga/ w’mamesanôbdalemôwô 
+unless/ they laugh at her with scorn
+Unless in bitterness to mock
+aiaga = unless, if not
+mamesanôbdalemômek = one laughs at someone with scorn
+	mamesan – (root) = mock, ridicule, revile
+	ôbdalemômek (TA) = one laughs at someone
 
 
-Using Robert Frost, “Plowmen”<br/>
-A plow, they say, to plow the snow.<br/>
-They cannot mean to plant it, though—<br/>
-Unless in bitterness to mock<br/>
-At having cultivated rock.<br/>
+wzômi/ ‘lakahoji/ senal
+because/ she will dig something, hoe something/ stones
+At having cultivated rock.
+	kwôgweni = since, as because; as long as, while something lasts
+	wzômi = because; too much
+	kawakwnigamek (AI) = one harvests (by pulling), one gathers in
+	senal (IN) = stones
+
+
 
 Part I: Doing Translation (Chris, Abenaki)
 Demonstrate the value of translating the public domain
