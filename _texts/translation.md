@@ -6,9 +6,8 @@ title: Translation
 <br/>
 <br/>
 <br/>
-**_Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**
-
-TRANSLATION
+**_Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
+Translated by Chris Whitehead & Eric Brier
 
 **Nodkazôwadjik**<br/>
 People whose profession or specialty is cutting and throwing earth<br/>
