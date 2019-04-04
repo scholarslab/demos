@@ -13,3 +13,12 @@
 .wrap {
     width:50vw !important;
 }
+
+.viewing {
+    background: #eee;
+}
+
+.storymap-main section {
+    padding: 5px 10px 10px 10px;
+    border-radius: 10px;
+}
