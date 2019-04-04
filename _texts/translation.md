@@ -11,7 +11,8 @@ Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;V. Teaching translation<br/>
 <br/>
 <br/>
-**_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
+<br/>
+**[I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"]**<br/>
 Translated by Chris Whitehead & Eric Brier<br/>
 
 **Nodkazôwadjik**<br/>
@@ -41,7 +42,7 @@ _At having cultivated rock._<br/>
 <br/>
 <br/>
 <br/>
-**_II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"_**<br/>
+**[II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"]**<br/>
 
 First, Chris attempted translating “Plowmen” into Western Abenaki:<br/>
 
@@ -95,6 +96,58 @@ only/she will find/while she digs/there are many rocks<br/>
 All she will find when she digs is that the rocks are more.<br/>
 _At having cultivated rock._<br/>
 
+Chris worked through Eric's suggestions, breaking down each word to understand its meaning:
+
+**Ôzokak w'kizawakakto lakahigan waji kizi lakahôd wazôlia**<br/>
+They say/she can use something/a hoe/in order to/hoe/snow<br/>
+ôzakak = they say<br/> 
+ôzaka = said, it is said, it is told<br/>
+w’kizawakakto = she can use something<br/> 
+	kiz- = can, able to<br/>
+	wd’awakakto = she uses something<br/>
+lakahigan = a hoe<br/>
+waji = in order to {introduces subordinate clause}<br/>
+kizi = can, able to<br/>
+lakahôd = hoe<br/>
+wazôlia = snow<br/>
+They say that one can use a hoe to hoe snow<br/>
+_A plow, they say, to plow the snow._<br/>
+
+**Adagidahômgwad gadawidamodit nôdkikamek wji wazôlia**<br/>
+It is thought doubtful/that they want to say/one plants/for/snow<br/>
+	adagidahômgwad = it is thought doubtful<br/>
+		adagidahômômek = one suspects someone<br/>
+		-gwad = Inanimate Intransitive Singular Tri-Part Adjective Ending<br/>
+	gadawidamodit = that they want to say<br/>
+		kadaw- = want to<br/>
+		idamodit = that they say<br/>
+	nôdkikamek = goes to work the earth or soil<br/>
+		nôd- = be about to, going to, in process<br/>
+		kikamek = one plants, one works the earth or soil<br/>
+	wji = for<br/>
+	wazôlia = snow<br/>
+It's doubtful they want to say that one goes and tills for snow<br/>
+_They cannot mean to plant it, no—_<br/>
+
+**Aiaga adoji mamessanimogôhôditji wji alitta**<br/>
+Otherwise/then/they will mock her/because<br/>
+	aiga = unless, if not<br/>
+	adoji = then, there, so much {introduces subordinate clause}<br/>
+	mamessanimogôhôditji = they will mock her<br/>
+		mamessanimômek = one ridicules or rails on someone<br/>
+	wji =for<br/>
+	alitta = because<br/>
+Otherwise then they will mock her, for<br/>
+_Unless in bitterness to mock_<br/>
+
+**wibiwi w'meskamenji adalôkad senika**<br/>
+only/she will find/while she digs/there are many rocks<br/>
+	wibiwi = only, just<br/>
+	w’meskamenji = she will find it<br/>
+	adalôkad = while she digs<br/>
+	senika = there are many rocks<br/>				
+All she will find when she digs is that the rocks are more.<br/>
+_At having cultivated rock._<br/>
 
 
 
