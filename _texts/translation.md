@@ -21,8 +21,8 @@ They say that one can use a plow to plow snow.<br/>
 _A plow, they say, to plow the snow._<br/>
 
 **Adagidahômgwad gadawidamodit nôdkikamek wji wazôlia**<br/>
-It is thought doubtful/ that they want to say/ one goes to work the earth/ for/ snow<br/>
-It's doubtful they want to say that one plants snow.<br/>
+It is thought doubtful/ that they want to say/ one goes working the earth/ for/ snow<br/>
+It's doubtful they want to say that one goes and plants snow.<br/>
 _They cannot mean to plant it, no—_<br/>
 
 **Aiaga adoji mamessanimôhôditji wji alitta**<br/>
