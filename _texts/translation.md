@@ -4,13 +4,11 @@ title: Translation
 ---
 Translation & the Public Domain
 
-Using Robert Frost, “Plowmen”
-
-A plow, they say, to plow the snow.
-
-They cannot mean to plant it, though—
-Unless in bitterness to mock
-At having cultivated rock.
+Using Robert Frost, “Plowmen”<br/>
+A plow, they say, to plow the snow.<br/>
+They cannot mean to plant it, though—<br/>
+Unless in bitterness to mock<br/>
+At having cultivated rock.<br/>
 
 Part I: Doing Translation (Chris, Abenaki)
 Demonstrate the value of translating the public domain
