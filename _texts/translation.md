@@ -42,7 +42,7 @@ _At having cultivated rock._<br/>
 <br/>
 <br/>
 <br/>
-##II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
+## II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
 
 First, Chris attempted translating “Plowmen” into Western Abenaki:<br/>
 
