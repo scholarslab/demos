@@ -7,7 +7,7 @@ Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;III. In Italiano<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;IV. Emily's reflections on language<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Emily's reflections on language and translation<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;V. Teaching translation<br/>
 <br/>
 <br/>
@@ -148,6 +148,44 @@ only/she will find/while she digs/there are many rocks<br/>
 	senika = there are many rocks<br/>				
 All she will find when she digs is that the rocks are more.<br/>
 _At having cultivated rock._<br/>
+
+Chris followed up with Eric, asking clarifying questions about his translations:<br/>
+
+>Wliwni mina (thank you/ again), Eric! I worked through the translations you offered - they were very helpful! Could I ask a few questions about some of the conjugations, to make sure I am learning from this exercise? No rush in answering these questions -- you have already been very generous with your time!
+
+1. In the first line, why do you include the "w' " before "kizawakakto"? As I understand it, the verb is Transitive Inanimate with a corresponding Indefinite Object. From the pattern I can discern from Laurent's example conjugations, the Transitive Inanimate with Indefinite Object does not take a "w' " at the beginning (unless the verb begins with a vowel, in which case it takes "wd' "). Is that correct? If so, does the prefix "kiz-" change something?
+
+2. In the first line, could you please explain the conjugation of "lakahôd," specifically the ending "ôd"? Looking at the Gordon Day dictionary, I've seen that other words with similar endings are designated as "TA pt," Transitive Animate participles. Is that correct? Would the TA pt form be necessary because it follows "kizi," rendering "kizi lakahôd" a compound verb?
+
+3. Could you please explain the formation of mamessanimogôhôditji in the third line? I see that "mamessanim" comes from the verb mamessanimômek, "one ridicules someone." I believe that the ending "ji" renders the verb into future tense. However, I haven't been able to figure out the significance of "ogôhôdit."
+
+<br/>
+<br/>
+<br/>
+## III. In Italiano
+Translated by Emily Mellen
+
+**Aratore**<br/>
+_Plowmen_<br/>
+
+**Un aratro, dicono, per la neve arar**<br/>
+_A plow, they say, to plow the snow_<br/>
+
+**Ma non è possibile che la intendono piantar--**<br/>
+_They cannot mean to plant it, though—_<br/>
+
+**Se non per deridere in amarezza**<br/>
+_Unless in bitterness to mock_<br/>
+
+**L’aver coltivato la pietra grezza**<br/>
+_At having cultivated rock._<br/>
+<br/>
+<br/>
+<br/>
+## III. Emily's reflections on language and translation
+ 
+ 
+
 
 
 
