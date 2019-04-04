@@ -61,7 +61,6 @@ _They cannot mean to plant it, no—_<br/>
 **aiaga/ w’mamesanôbdalemôwô**<br/> 
 unless/ they laugh at her with scorn<br/>
 _Unless in bitterness to mock_<br/>
-aiaga = unless, if not
 
 **wzômi/ ‘lakahoji/ senal**<br/>
 because/ she will dig something, hoe something/ stones<br/>
