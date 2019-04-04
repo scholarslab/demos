@@ -220,19 +220,28 @@ After trying my list of rock names and realizing they wouldn’t work, I started
 The last part of my translation was to try to think about the meter of the poem. Again, I know nothing about poetic meter, so I asked for help from my brilliant colleague Catherine Addington, who advised that English use of stress probably does not have an easy equivalent in Italian. As long as none of my lines were awkwardly long, the poem’s sense of meter was probably fine, she advised. Through reading the translation out loud several times, I determined that I could easily read it in a way in which all the lines lasted equivalently long, which I, as a music scholar, of course measure in 4/4 time. This is almost certainly an imperfect method for incorporating meter and could doubtlessly be improved upon by someone who knows more about poetry, but I hope it will be helpful.
  
 
+<br/>
+<br/>
+## V. Teaching Translation<br/>
+Catherine Addington<br/>
+WORK IN PROGRESS<br/>
 
-
-
-
-
-Part II: Translation in Teaching (Catherine, Spanish; Emily, Italian)
 Empower others to do the same task
+
 Teaching translation not as a way to produce good Spanish/lo que sea translations but rather as a point to demonstrate what is lost in translation, what you have to prioritize, teaching students how to isolate elements of rhetorical style (rhyming, puns, diction) and consider them in two languages. What is specific to each language, what works in both, what is most important to preserve, what are you willing to sacrifice?
+
 Using a short poem that has simple diction (easy to translate) but difficult structure (rhyme, iambic tetrameter, pun: plowing the earth, snow-plowing are not the same in other languages) is a good way to teach students about the difficulties of translation, the priorities you need to set. Rhyme, meter, and wordplay are the primary challenges when it comes to translation and depending on the poem they may have varying levels of importance to the poem’s meaning.
+
 First you have to understand / analyze the poem.
+
 Meaning: it’s a joke based on the shared use of “plow” for plowing the earth (digging deep and planting) and plowing snow (clearing it away). New Hampshire soil is rocky, so you wouldn’t plant snow in it except as a joke.
+
 Rhyme: consonant (i.e. both vowels and consonant endings rhyme)
+
 Meter: iambic tetrameter
+
 Wordplay: plow (the earth) / (snow)plow
+
 Then you rank your priorities. Which elements are essential for the translation? Given that it’s a short joke poem about rocky New Hampshire soil, to what extent are we comfortable preserving a certain foreignness/localness in our translations?
+
 End product = lesson plan, some annotated translation variants
