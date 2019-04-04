@@ -2,7 +2,7 @@
 layout: default
 title: Translation
 ---
-**Translation and the Public Domain**<br/>
+# H2 Translation and the Public Domain<br/>
 Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"<br/>
@@ -11,8 +11,8 @@ Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;V. Teaching translation<br/>
 <br/>
 <br/>
----
-**_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
+<br/>
+#H3 I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_<br/>
 Translated by Chris Whitehead & Eric Brier<br/>
 
 **Nodkazôwadjik**<br/>
@@ -41,8 +41,8 @@ All she will find when she digs is that the rocks are more.<br/>
 _At having cultivated rock._<br/>
 <br/>
 <br/>
----
-**[II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"]**<br/>
+<br/>
+**_II. Nd’awighonanob lintowôganiz, "We wrote it/ the little song (poem)"_**<br/>
 
 First, Chris attempted translating “Plowmen” into Western Abenaki:<br/>
 
