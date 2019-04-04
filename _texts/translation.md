@@ -8,7 +8,8 @@ title: Translation
 <br/>
 **_I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"_**<br/>
 Translated by Chris Whitehead & Eric Brier
-
+<br/>
+<br/>
 **Nodkazôwadjik**<br/>
 People whose profession or specialty is cutting and throwing earth<br/>
 Plowmen<br/>
