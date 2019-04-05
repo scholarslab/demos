@@ -14,11 +14,13 @@ I staid the night for shelter at a farm <br/>
 </span> 
 <br/>
 <br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="9000" data-end="24243" data-plays="1">
  *Mother.* Folks think a witch who has familiar spirits<br/>
  She could call up to pass a winter evening,<br/>
  But won't, should be burned at the stake or something.<br/>
  Summoning spirits isn't "Button, button,<br/>
  Who's got the button," I would have them know.<br/>
+ </span>
 <br/>
  *Son.* Mother can make a common table rear<br/>
  And kick with two legs like an army mule.<br/>
