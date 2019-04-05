@@ -29,7 +29,7 @@ I staid the night for shelter at a farm <br/>
  </span>
 <br/>
 <br/>
-<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="24000" data-end="46000" data-plays="1">
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="25600" data-end="46500" data-plays="1">
  *Mother.* And when I've done it, what good have I
  done?
  <br/>
