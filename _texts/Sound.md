@@ -1,6 +1,6 @@
 ---
 layout: default
-title: #The Witch of Coos
+title: The Witch of Cöös
 ---
 by Robert Frost
 
