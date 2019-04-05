@@ -2,10 +2,12 @@
 layout: default
 title: Sound
 ---
+<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
 
 # The Witch of Cöös
 ## by Robert Frost
 <br/>
+<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
 I staid the night for shelter at a farm <br/>
  Behind the mountains, with a mother and son,<br/>
  Two old-believers. They did all the talking.<br/>
