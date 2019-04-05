@@ -16,7 +16,7 @@ I staid the night for shelter at a farm <br/>
  Summoning spirits isn't "Button, button,<br/>
  Who's got the button," I would have them know.<br/>
 <br/>
- *Son:* Mother can make a common table rear<br/>
+ *Son.* Mother can make a common table rear<br/>
  And kick with two legs like an army mule.<br/>
 <br/>
  *Mother.* And when I've done it, what good have I
