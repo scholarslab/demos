@@ -23,7 +23,7 @@ I staid the night for shelter at a farm <br/>
  </span>
 <br/>
 <br/>
-<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="21000" data-end="24000" data-plays="1">
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="21300" data-end="25750" data-plays="1">
  *Son.* Mother can make a common table rear<br/>
  And kick with two legs like an army mule.<br/>
  </span>
