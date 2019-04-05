@@ -13,7 +13,7 @@ Project Table of Contents<br/>
 <br/>
 <br/>
 ## I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>
-Translated by Chris Whitehead & Eric Brier<br/>
+Translated by Eric Brier & Chris Whitehead<br/>
 
 **Nodkazôwadjik**<br/>
 People whose profession or specialty is cutting and throwing earth<br/>
