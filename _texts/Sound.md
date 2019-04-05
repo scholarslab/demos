@@ -23,11 +23,18 @@ I staid the night for shelter at a farm <br/>
  </span>
 <br/>
 <br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="24000" data-end="25500" data-plays="1">
  *Son.* Mother can make a common table rear<br/>
  And kick with two legs like an army mule.<br/>
+ </span>
 <br/>
+<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="25500" data-end="46500" data-plays="1">
  *Mother.* And when I've done it, what good have I
- done? <br/>
+ done? </span>
+ <br/>
+ <br/>
+ <span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="46500" data-end="50000" data-plays="1">
  Rather than tip a table for you, let me <br/>
  Tell you what Ralle the Sioux Control once told me.<br/>
  He said the dead had souls, but when I asked him <br/>
@@ -35,9 +42,13 @@ I staid the night for shelter at a farm <br/>
  He broke my trance. Don't that make you suspicious<br/>
  That there's something the dead are keeping back?<br/>
  Yes, there's something the dead are keeping back.<br/>
+</span>
 <br/>
+<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="50000" data-end="52500" data-plays="1">
  *Son.* You wouldn't want to tell him what we have
- Up attic, mother?<br/>
+ Up attic, mother?</span>
+ <br/>
 <br/>
  *Mother.* Bones -- a skeleton.<br/>
 <br/>
