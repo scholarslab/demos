@@ -14,7 +14,7 @@ I staid the night for shelter at a farm <br/>
 </span> 
 <br/>
 <br/>
-<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="8000" data-end="21200" data-plays="1">listen</span>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="8000" data-end="21200" data-plays="1">
  *Mother.* Folks think a witch who has familiar spirits<br/>
  She could call up to pass a winter evening,<br/>
  But won't, should be burned at the stake or something.<br/>
@@ -23,18 +23,16 @@ I staid the night for shelter at a farm <br/>
  </span>
 <br/>
 <br/>
-<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="24000" data-end="25500" data-plays="1">
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="21000" data-end="24000" data-plays="1">
  *Son.* Mother can make a common table rear<br/>
  And kick with two legs like an army mule.<br/>
  </span>
 <br/>
 <br/>
-<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="25500" data-end="46500" data-plays="1">
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="24000" data-end="46000" data-plays="1">
  *Mother.* And when I've done it, what good have I
- done? </span>
+ done?
  <br/>
- <br/>
- <span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="46500" data-end="50000" data-plays="1">
  Rather than tip a table for you, let me <br/>
  Tell you what Ralle the Sioux Control once told me.<br/>
  He said the dead had souls, but when I asked him <br/>
@@ -45,23 +43,30 @@ I staid the night for shelter at a farm <br/>
 </span>
 <br/>
 <br/>
-<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="50000" data-end="52500" data-plays="1">
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="46000" data-end="49000" data-plays="1">
  *Son.* You wouldn't want to tell him what we have
  Up attic, mother?</span>
  <br/>
 <br/>
- *Mother.* Bones -- a skeleton.<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="49000" data-end="51000" data-plays="1">
+ *Mother.* Bones -- a skeleton.</span>
+ <br/>
 <br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="51000" data-end="66000" data-plays="1">
  *Son.* But the headboard of mother's bed is pushed<br/>
  Against the' attic door: the door is nailed.<br/>
  It's harmless. Mother hears it in the night<br/>
  Halting perplexed behind the barrier<br/>
  Of door and headboard. Where it wants to get<br/>
- Is back into the cellar where it came from.<br/>
+ Is back into the cellar where it came from.</span>
 <br/>
+<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="66000" data-end="69000" data-plays="1">
  *Mother.* We'll never let them, will we, son? We'll
- never!<br/>
+ never!</span>
+ <br/>
 <br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="68000" data-end="87000" data-plays="1">
  *Son.* It left the cellar forty years ago<br/>
  And carried itself like a pile of dishes<br/>
  Up one flight from the cellar to the kitchen,<br/>
@@ -70,8 +75,10 @@ I staid the night for shelter at a farm <br/>
  Right past both father and mother, and neither stopped
  it.<br/>
  Father had gone upstairs; mother was downstairs.<br/>
- I was a baby: I don't know where I was.<br/>
+ I was a baby: I don't know where I was.</span>
 <br/>
+<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="87000" data-end="339000" data-plays="1">
  *Mother.* The only fault my husband found with me -- <br/>
  I went to sleep before I went to bed,<br/>
  Especially in winter when the bed<br/>
@@ -171,14 +178,22 @@ I staid the night for shelter at a farm <br/>
  To no one any more since Toffile died.<br/>
  Let them stay in the attic since they went there.<br/>
  I promised Toffile to be cruel to them<br/>
- For helping them be cruel once to him.<br/>
+ For helping them be cruel once to him. </span>
 <br/>
- *Son.* We think they had a grave down in the cellar.<br/>
 <br/>
- *Mother.* We know they had a grave down in the cellar.<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="339000" data-end="341000" data-plays="1">
+ *Son.* We think they had a grave down in the cellar.</span>
+ <br/>
 <br/>
- *Son.* We never could find out whose bones they were.<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="341000" data-end="343000" data-plays="1">
+ *Mother.* We know they had a grave down in the cellar.</span>
+ <br/>
 <br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="343000" data-end="346000" data-plays="1">
+ *Son.* We never could find out whose bones they were.</span>
+ <br/>
+<br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="345000" data-end="378000" data-plays="1">
  *Mother.* Yes, we could too, son. Tell the truth for 
  once.<br/>
  They were a man's his father killed for me.<br/>
@@ -193,9 +208,11 @@ I staid the night for shelter at a farm <br/>
  But tonight I don't care enough to lie -- <br/>
  I don't remember why I ever cared. <br/>
  Toffile, if he were here, I don't believe <br/>
- Could tell you why he ever cared himself... <br/>
+ Could tell you why he ever cared himself... </span>
+ <br/>
 <br/>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="379000" data-end="389000" data-plays="1">
  She hadn't found the finger-bone she wanted <br/>
  Among the buttons poured out in her lap. <br/>
  I verified the name next morning: Toffile. <br/>
- The rural letter-box said Toffile Lajway. <br/>
+ The rural letter-box said Toffile Lajway.</span> <br/>
