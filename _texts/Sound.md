@@ -7,7 +7,7 @@ title: Sound
 # The Witch of Cöös
 ## by Robert Frost
 <br/>
-<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+<span class="soundcite" data-url="https://scholarslab.github.io/demos/texts/Witch of Coos 2.mp3" data-start="0" data-end="9000" data-plays="1">listen</span>
 I staid the night for shelter at a farm <br/>
  Behind the mountains, with a mother and son,<br/>
  Two old-believers. They did all the talking.<br/>
