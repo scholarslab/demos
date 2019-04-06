@@ -12,7 +12,8 @@ While conceding that the paradigm of ‘data’, coupled with other developments
 ## The New Hampshire corpus
 The New Hampshire corpus provides easy access to a collection of the book. Through “reading” the individual poems, the analysis enables us to uncover the untold stories of the literature. 
 
-### Word Trends using The New Hampshire corpus - poem *The New Hampshire*
+### Word Trends using The New Hampshire corpus 
+#### *The New Hampshire*
 
 The tool below was created using Voyant Tools and the document added to the corpus in April 2019.
 <iframe src='https://voyant-tools.org/tool/Trends/?corpus=f404ffaa01c94901f820cf22f0f7eaeb'
