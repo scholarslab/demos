@@ -27,3 +27,8 @@ Use it with poem *The New Hampshire* to look at the occurence of word 'mountains
 
 <iframe src='https://voyant-tools.org/?corpus=f404ffaa01c94901f820cf22f0f7eaeb&query=mountains&docIndex=0&view=Contexts'
     style='width: 100%; height: 600px'></iframe>
+
+## **Government Documents corpus**
+The Government Documents corpus provides easy access to a collection of public domain relevant government documents, including a variety of document types, such as speeches, testimonies, laws, and hearing transcripts.
+
+### **S.505 - Sonny Bono Copyright Term Extension Act**
