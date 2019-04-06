@@ -43,6 +43,23 @@ Trends: this is a sparkline graph that shows the distribution of the term within
 <iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&view=DocumentTerms'
     style='width: 100%; height: 600px'></iframe>
 
+#### Gender difference?
+If the keyword is 'man', the Contexts is like:
+<iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&query=man&view=Contexts'
+    style='width: 100%; height: 600px'></iframe>
+
+If the keyword is 'woman (women)', the Contexts shrinks:
+<iframe src='https://voyant-tools.org/?query=women&query=wom*&corpus=afaa03f057331131baa97fa4a50dd3a8&view=Contexts'
+    style='width: 100%; height: 600px'></iframe>
+
+However, we found 'mother' is mentioned 20 times:
+<iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&query=mother*&view=Contexts'
+    style='width: 100%; height: 600px'></iframe>
+
+
+#### Topics
+The Topics tool provides a rudimentary way of generating term clusters from a document or corpus and then seeing how each topic (term cluster) is distributed across the document or corpus.
+
 
 ## **Government Documents corpus**
 The Government Documents corpus provides easy access to a collection of public domain relevant government documents, including a variety of document types, such as speeches, testimonies, laws, and hearing transcripts.
