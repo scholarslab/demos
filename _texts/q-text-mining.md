@@ -32,3 +32,10 @@ Use it with poem *The New Hampshire* to look at the occurence of word 'mountains
 The Government Documents corpus provides easy access to a collection of public domain relevant government documents, including a variety of document types, such as speeches, testimonies, laws, and hearing transcripts.
 
 ### **S.505 - Sonny Bono Copyright Term Extension Act**
+
+#### Cirrus
+Cirrus is a word cloud that visualizes the top frequency words of a corpus or document. The word cloud positions the words such that the terms that occur the most frequently are positioned centrally and are sized the largest. As the algorithm goes through the list and continues to attempt to draw words as close as possible to the center of the visualization it will also include small words within spaces left by larger words that do not fit together snugly. It's important to understand that the colour of words and their absolute position are not significant (if you resize the window or reload the page, words may appear in a different location).
+
+<iframe src='https://voyant-tools.org/?corpus=915af298b348043b995335cc5d61b299&view=Cirrus'
+    style='width: 100%; height: 600px'></iframe>
+
