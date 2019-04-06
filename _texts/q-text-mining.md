@@ -47,6 +47,10 @@ Trends: this is a sparkline graph that shows the distribution of the term within
 ## **Government Documents corpus**
 The Government Documents corpus provides easy access to a collection of public domain relevant government documents, including a variety of document types, such as speeches, testimonies, laws, and hearing transcripts.
 
+As an example, we give an analysis of the themes in different types of documents in 1998 Copyright Term Extension Act. By using word frequency or topic modeling tools for analyzing the dominant themes in each type of document. The expected outcomes are, for example, in *speeches*, maybe the **fair** and **unfair** are mentioned many times, while in *hearing transcripts*, maybe the **professional** this adjective is mentioned many times, ect.
+
+Data source: congressional records online
+
 ### **S.505 - Sonny Bono Copyright Term Extension Act**
 
 #### Cirrus
@@ -60,4 +64,5 @@ Cirrus is a word cloud that visualizes the top frequency words of a corpus or do
 <iframe src='https://voyant-tools.org/?corpus=915af298b348043b995335cc5d61b299&query=copyright&query=inserting&query=title&mode=corpus&view=CollocatesGraph'
     style='width: 100%; height: 600px'></iframe>
 
+### Topic modeling
 
