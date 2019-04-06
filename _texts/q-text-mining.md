@@ -28,6 +28,22 @@ Use it with poem *The New Hampshire* to look at the occurence of word 'mountains
 <iframe src='https://voyant-tools.org/?corpus=f404ffaa01c94901f820cf22f0f7eaeb&query=mountains&docIndex=0&view=Contexts'
     style='width: 100%; height: 600px'></iframe>
 
+### **Other poems collection**
+#### Document Terms
+Document Terms is a table view of term frequencies for each document.
+
+The table view shows the following five data columns by default:
+
+#: this is the document number (the position of the term's document in the corpus)
+Term: this is the document term
+Count: this is the raw frequency of the term in the document
+Relative: this is the relative frequency (per 10 million words) of the term in the document
+Trends: this is a sparkline graph that shows the distribution of the term within the segments of the document; you can hover over the sparkline to see finer-grained results
+
+<iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&view=DocumentTerms'
+    style='width: 100%; height: 600px'></iframe>
+
+
 ## **Government Documents corpus**
 The Government Documents corpus provides easy access to a collection of public domain relevant government documents, including a variety of document types, such as speeches, testimonies, laws, and hearing transcripts.
 
