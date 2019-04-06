@@ -12,7 +12,7 @@ While conceding that the paradigm of ‘open data’, coupled with other develop
 ## **The New Hampshire corpus**
 The New Hampshire corpus provides easy access to a collection of the book. Through “reading” the individual poems, the analysis enables us to uncover the untold stories of the literature. 
 
-###*The New Hampshire*
+### *The New Hampshire*
 #### **Word Trends using The New Hampshire corpus** 
 
 The tool below was created using Voyant Tools and the document added to the corpus in April 2019.
