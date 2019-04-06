@@ -39,3 +39,7 @@ Cirrus is a word cloud that visualizes the top frequency words of a corpus or do
 <iframe src='https://voyant-tools.org/?corpus=915af298b348043b995335cc5d61b299&view=Cirrus'
     style='width: 100%; height: 600px'></iframe>
 
+#### Links
+
+https://voyant-tools.org/?corpus=915af298b348043b995335cc5d61b299&query=copyright&query=inserting&query=title&mode=corpus&view=CollocatesGraph
+
