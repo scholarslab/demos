@@ -2,7 +2,7 @@
 layout: page
 title: Credits
 ---
-_Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–2019 [Praxis][1] Fellows: [Catherine Addington][2], [Zhiqiu (Cho) Jiang][3], [Emily Mellen][4], [Eleanore Neumann][5], [Mathilda Shepard][6], and [Chris Whitehead][7]. The[Praxis Program][8]is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
+_Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–2019 [Praxis][1] Fellows: [Catherine Addington][2], [Zhiqiu (Cho) Jiang][3], [Emily Mellen][4], [Eleanore Neumann][5], [Mathilda Shepard][6], and [Chris Whitehead][7]. The [Praxis Program][8] is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
 
 First and foremost, we thank the [Scholars’ Lab][11] staff and the broader [UVA Library][12] for their technical, financial, research, and personal support throughout this project. Special thanks in particular to
 - [Brandon Walsh][13] for leading the program, and for mentoring us through the charter, pedagogy, and project-design modules that prepared us to collaborate on this project
@@ -16,8 +16,8 @@ First and foremost, we thank the [Scholars’ Lab][11] staff and the broader [UV
 - Everyone who contributed to our fall curriculum, including [Arin Bennett][21], [Alison Booth][22], [Chris Gist][23], [Laura Miller][24], [Will Rourk][25], and [Ammon Shepherd][26]
 
 This project also benefited greatly from the thoughtful feedback we received throughout the process. Our deepest thanks to
-- Allison Bigelow, Douglas Fordham, and [Lucie Stylianopoulos][27] for facilitating our roundtable at [Decolonizing DH][28] and all the participants who improved our work, including [María José Afanador-Llach][29], [Élika Ortega][30], and above all [Marge Bruchac][31], whose generosity with her time and resources profoundly impacted the intellectual development of the project
-- [Julie Gronlund][32] and [Emma Hendrix][33] for facilitating our workshop for [Humanities Week][34], and the participants who made such valuable comments, including [Sherri Brown][35] and[Sonali Majumdar][36]
+- [Allison Bigelow](http://spanitalport.as.virginia.edu/people/amb8fk), [Douglas Fordham](http://art.as.virginia.edu/douglas-fordham), and [Lucie Stylianopoulos][27] for facilitating our roundtable at [Decolonizing DH][28] and all the participants who improved our work, including [María José Afanador-Llach][29], [Élika Ortega][30], and above all [Marge Bruchac][31], whose generosity with her time and resources profoundly impacted the intellectual development of the project
+- [Julie Gronlund][32] and [Emma Hendrix][33] for facilitating our workshop for [Humanities Week][34], and the participants who made such valuable comments, including [Sherri Brown][35] and [Sonali Majumdar][36]
 - [Siobhan Senier][37] for her time discussing the [Dawnland Voices][38] project
 - [Mackenzie Brooks][39] and [Sydney Bufkin][40] for their collaboration on digital pedagogy
 - [Shawna Ross][41] and her students at TAMU for their feedback on our project framing
