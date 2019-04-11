@@ -179,13 +179,13 @@ Using Eric's explanations, Chris made minor edits to the final version of the tr
 ## III. In Italiano
 Translated by Emily Mellen
 
-**Aratore**<br/>
+**Aratori**<br/>
 _Plowmen_<br/>
 
 **Un aratro, dicono, per la neve arar**<br/>
 _A plow, they say, to plow the snow_<br/>
 
-**Ma non è possibile che la intendono piantar--**<br/>
+**Ma non è possibile che la intendano piantar--**<br/>
 _They cannot mean to plant it, though—_<br/>
 
 **Se non per deridere in amarezza**<br/>
@@ -217,6 +217,8 @@ Because I didn’t want to move the word “pietra” around, I first tried to f
 After trying my list of rock names and realizing they wouldn’t work, I started thinking of synonyms for the word “mock,” but before I got very far into this, it occured to me that I could also move “amarezza” to the end by changing the line to “Se non per deridere in amarezza,” which left me with the very common word ending “-ezza” (roughly, -ness) to rhyme. Then, I realized I could add the adjective “grezza” (course, rough) to the end of my final line, which keeps the placement of the word “pietra” and only deepens the meaning slightly, in a way that I feel is consistent with the mood of the poem.
 
 The last part of my translation was to try to think about the meter of the poem. Again, I know nothing about poetic meter, so I asked for help from my brilliant colleague Catherine Addington, who advised that English use of stress probably does not have an easy equivalent in Italian. As long as none of my lines were awkwardly long, the poem’s sense of meter was probably fine, she advised. Through reading the translation out loud several times, I determined that I could easily read it in a way in which all the lines lasted equivalently long, which I, as a music scholar, of course measure in 4/4 time. This is almost certainly an imperfect method for incorporating meter and could doubtlessly be improved upon by someone who knows more about poetry, but I hope it will be helpful.
+
+The very last part of my translation was to reach out to Italian professors at UVA for approval and correction. Thank you to Hiromi Kaneda and Stella Mattioli for reading over and providing feedback on my translation. Stella Mattioli kindly pointed out that I had forgotten to pluralize the title to "Aratori" instead of "Aratore" and that I needed to change the grammatical form of the word "intendono" (present indicative) to "intendano" (present subjunctive) because of the sentence structure.
  
 
 <br/>
