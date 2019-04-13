@@ -19,7 +19,7 @@ This project also benefited greatly from the thoughtful feedback we received thr
 - [Allison Bigelow](http://spanitalport.as.virginia.edu/people/amb8fk), [Douglas Fordham](http://art.as.virginia.edu/douglas-fordham), and [Lucie Stylianopoulos][27] for facilitating our roundtable at [Decolonizing DH][28] and all the participants who improved our work, including [María José Afanador-Llach][29], [Élika Ortega][30], and above all [Marge Bruchac][31], whose generosity with her time and resources profoundly impacted the intellectual development of the project
 - [Julie Gronlund][32] and [Emma Hendrix][33] for facilitating our workshop for [Humanities Week][34], and the participants who made such valuable comments, including [Sherri Brown][35] and [Sonali Majumdar][36]
 - [Siobhan Senier][37] for her time discussing the [Dawnland Voices][38] project
-- [Mackenzie Brooks][39] and [Sydney Bufkin][40] for their collaboration on digital pedagogy
+- [Mackenzie Brooks][39], [Sydney Bufkin][40], MaKayla Lorick, Katherine Dau, and Kellie Harra for their collaboration on digital pedagogy
 - [Shawna Ross][41] and her students at TAMU for their feedback on our project framing
 - [Brad Rittenhouse][42] and the [DH fellows][43] at Georgia Tech for their perspective early on in the process
 
