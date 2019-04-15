@@ -9,6 +9,7 @@ _Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–
 - [Eleanore Neumann][5], who worked on the [storymap](https://scholarslab.github.io/demos/texts/storymap/)
 - [Mathilda Shepard][6], who worked on the [website](https://scholarslab.github.io/demos/) and the [project narrative](https://scholarslab.github.io/demos/texts/a-Unclosure-Project-Narrative/)
 - [Chris Whitehead][7], who worked on the [project narrative](https://scholarslab.github.io/demos/texts/a-Unclosure-Project-Narrative/)
+
 The [Praxis Program][8] is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
 
 First and foremost, we thank the [Scholars’ Lab][11] staff and the broader [UVA Library][12] for their technical, financial, research, and personal support throughout this project. Special thanks in particular to
