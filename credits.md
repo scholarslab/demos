@@ -2,7 +2,14 @@
 layout: page
 title: Credits
 ---
-_Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–2019 [Praxis][1] Fellows: [Catherine Addington][2], [Zhiqiu (Cho) Jiang][3], [Emily Mellen][4], [Eleanore Neumann][5], [Mathilda Shepard][6], and [Chris Whitehead][7]. The [Praxis Program][8] is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
+_Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–2019 [Praxis][1] Fellows:
+- [Catherine Addington][2], who worked on the [typeface](https://scholarslab.github.io/demos/texts/z-Font-Typeface%20Tutorial/) and [translation](https://scholarslab.github.io/demos/texts/translation/)
+- [Zhiqiu (Cho) Jiang][3], who worked on [text mining](https://scholarslab.github.io/demos/texts/q-text-mining/)
+- [Emily Mellen][4], who worked on sound and [translation](https://scholarslab.github.io/demos/texts/translation/)
+- [Eleanore Neumann][5], who worked on the [storymap](https://scholarslab.github.io/demos/texts/storymap/)
+- [Mathilda Shepard][6], who worked on the [website](https://scholarslab.github.io/demos/) and the [project narrative](https://scholarslab.github.io/demos/texts/a-Unclosure-Project-Narrative/)
+- [Chris Whitehead][7], who worked on the [project narrative](https://scholarslab.github.io/demos/texts/a-Unclosure-Project-Narrative/)
+The [Praxis Program][8] is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
 
 First and foremost, we thank the [Scholars’ Lab][11] staff and the broader [UVA Library][12] for their technical, financial, research, and personal support throughout this project. Special thanks in particular to
 - [Brandon Walsh][13] for leading the program, and for mentoring us through the charter, pedagogy, and project-design modules that prepared us to collaborate on this project
