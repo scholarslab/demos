@@ -11,7 +11,11 @@
 }
 
 
-
+.notelink:after {
+    content: "*";
+    font-size: 75%;
+    vertical-align: super;
+}
 
 
 
