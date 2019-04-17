@@ -7,14 +7,16 @@
          url("../fonts/newhampshire-regular-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
-
 }
 
+.storymap-main a[href^="#"]{
+    color: #4682B4 !important;
+    font-weight: 500;
+}
 
-.notelink:after {
-    content: "*";
-    font-size: 75%;
-    vertical-align: super;
+.storymap-main h2a[href^="#"]{
+    color: #4682B4 !important;
+    font-weight: 400;
 }
 
 
