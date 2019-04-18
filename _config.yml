@@ -4,8 +4,8 @@
 title:               Unclosure
 tagline:             'An Act for the Encouragement of Learning.'
 description:         'Public Domain Resources.'
-url:                 'http://scholarslab.github.io'
-baseurl:             '/demos'
+url:                 'http://unclosure.scholarslab.org'
+baseurl:             ''
 
 # About/contact
 author:
