@@ -36,6 +36,8 @@ We also thank those who assisted with each intervention. In addition to those me
 - [Stella Mattioli][45], for her assistance with the Italian translation
 - Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Name2, and Name3 for participating
 
+This site was built using the [Ed.][46] theme for [Jekyll][47]. The "unlock" icon was designed by [Freepik][48] from [Flaticon][49].
+
 [1]:	http://praxis.scholarslab.org/
 [2]:	http://spanitalport.as.virginia.edu/people/profile/ca2bb
 [3]:	https://dh.virginia.edu/people/zhiqiu-jiang
@@ -81,3 +83,7 @@ We also thank those who assisted with each intervention. In addition to those me
 [43]:	https://dilac.iac.gatech.edu/people/graduate-fellows
 [44]:	https://www.library.virginia.edu/staff/sd3gz
 [45]:	http://spanitalport.as.virginia.edu/people/sm6dn
+[46]:   https://elotroalex.github.io/ed/
+[47]:   https://jekyllrb.com/
+[48]:   https://www.freepik.com/
+[49]:   https://www.flaticon.com/free-icon/lock_1716807#term=unlock&page=1&position=58
