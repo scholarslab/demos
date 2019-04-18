@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Typeface Tutorial
 ---
 # **Typeface Reconstruction Tutorial**

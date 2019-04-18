@@ -40,6 +40,10 @@ We also thank those who assisted with each intervention. In addition to those me
 
 This site was built using the [Ed.][46] theme for [Jekyll][47]. The "unlock" icon was designed by [Freepik][48] from [Flaticon][49].
 
+## How to Cite
+
+This project is the product of intense and ongoing collaboration.
+
 [1]:	http://praxis.scholarslab.org/
 [2]:	http://spanitalport.as.virginia.edu/people/profile/ca2bb
 [3]:	https://dh.virginia.edu/people/zhiqiu-jiang

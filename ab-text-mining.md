@@ -1,5 +1,5 @@
 ---
-layout: page
+layout:
 title: Mining the Second Enclosure Movement
 ---
 # **Mining the Second Enclosure Movement**
