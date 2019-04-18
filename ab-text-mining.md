@@ -6,7 +6,7 @@ title: Mining the Second Enclosure Movement
 
 Through different ways to explore the materials, this data mining intervention seeks a better understanding about *The New Hampshire* as well as public domain legal documents by using text mining tools. 
 
-## **Data mining**
+## **Text mining**
 
 While conceding that the paradigm of ‘open data’, coupled with other developments such as the Internet of Things, data mining and deep learning, indeed gives rise to changed sociotechnical formations, building on arguments made in connection with the proposal for a ‘open computing’ for humanities in the digital age. 
 
@@ -85,4 +85,8 @@ Cirrus is a word cloud that visualizes the top frequency words of a corpus or do
     style='width: 100%; height: 600px'></iframe>
 
 ### Topic modeling
+
+### Public Domain Corpus
+
+*Add a description of what public domain corpus means
 
