@@ -4,21 +4,21 @@ title: Translation
 ---
 # **Translation and the Public Domain**
 <br/>
-## III. In Italiano
+## III. In Italiano <br/>
 Translated by Emily Mellen
 
 
-_Plowmen_<br/>
+**Plowmen** <br/>
 _A plow, they say, to plow the snow_<br/>
 _They cannot mean to plant it, though—_<br/>
 _Unless in bitterness to mock_<br/>
 _At having cultivated rock._<br/>
 
-**Aratori**<br/>
-**Un aratro, dicono, per la neve arar**<br/>
-**Ma non è possibile che la intendano piantar--**<br/>
-**Se non per deridere in amarezza**<br/>
-**L’aver coltivato la pietra grezza**<br/>
+**Aratori** <br/>
+_Un aratro, dicono, per la neve arar_<br/>
+_Ma non è possibile che la intendano piantar--_<br/>
+_Se non per deridere in amarezza_<br/>
+_L’aver coltivato la pietra grezza_<br/>
 
 
 <br/>
