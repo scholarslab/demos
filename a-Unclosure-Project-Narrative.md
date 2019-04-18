@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Narrative
+order: 1
 ---
 # **Project Narrative**
 

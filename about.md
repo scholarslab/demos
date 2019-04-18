@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tutorials
+order: 2
 ---
 # **About this website**
 

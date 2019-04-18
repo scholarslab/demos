@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Translation 
 ---
 # **Translation and the Public Domain**
