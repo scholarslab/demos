@@ -5,12 +5,12 @@ title: Credits
 # **Credits**
 
 _Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–2019 [Praxis][1] Fellows:
-- [Catherine Addington][2], who worked on the [typeface](https://scholarslab.github.io/demos/texts/z-Font-Typeface%20Tutorial/) and [translation](https://scholarslab.github.io/demos/texts/translation/)
-- [Zhiqiu (Cho) Jiang][3], who worked on [text mining](https://scholarslab.github.io/demos/texts/q-text-mining/)
-- [Emily Mellen][4], who worked on sound and [translation](https://scholarslab.github.io/demos/texts/translation/)
-- [Eleanore Neumann][5], who worked on the [storymap](https://scholarslab.github.io/demos/texts/storymap/)
-- [Mathilda Shepard][6], who worked on the [website](https://scholarslab.github.io/demos/) and the [project narrative](https://scholarslab.github.io/demos/texts/a-Unclosure-Project-Narrative/)
-- [Chris Whitehead][7], who worked on the [project narrative](https://scholarslab.github.io/demos/texts/a-Unclosure-Project-Narrative/)
+- [Catherine Addington][2], who worked on the [typeface]({{ site.baseurl }}/texts/z-Font-Typeface%20Tutorial/) and [translation]({{ site.baseurl }}texts/translation/)
+- [Zhiqiu (Cho) Jiang][3], who worked on [text mining]({{ site.baseurl }}/texts/q-text-mining/)
+- [Emily Mellen][4], who worked on sound and [translation]({{ site.baseurl }}/texts/translation/)
+- [Eleanore Neumann][5], who worked on the [storymap]({{ site.baseurl }}/texts/storymap/)
+- [Mathilda Shepard][6], who worked on the [website]({{ site.baseurl }}/) and the [project narrative]({{ site.baseurl }}/texts/a-Unclosure-Project-Narrative/)
+- [Chris Whitehead][7], who worked on the [project narrative]({{ site.baseurl }}/texts/a-Unclosure-Project-Narrative/)
 
 The [Praxis Program][8] is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
 
