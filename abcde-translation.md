@@ -24,7 +24,7 @@ _L’aver coltivato la pietra grezza_<br/>
 <br/>
 <br/>
 ## III. Emily's reflections on language and translation<br/>
-Emily Melen
+Emily Mellen
 
 My first obstacle in making this translation was the poem’s premise. Frost builds his poem of off the name of the machine we call a snow plow. The poem is a joke about the relationship of a snow plow to the regular work of plowing in New England. In Italian a snow plow is called a spazzaneve or “snow sweeper,” rather than using the word plow, or “aratro.” I decided, however, to use only words related to plowing in order to make clear the meaning of the poem if one knows the concept and how it relates to English. This maintains the poem’s relationship to its original language and to the context in which it was born, while (I hope) rendering it legible to an Italian-speaking reader. 
 
