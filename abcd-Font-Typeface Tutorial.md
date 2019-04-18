@@ -2,7 +2,7 @@
 layout: page
 title: Typeface Tutorial
 ---
-# Typeface Reconstruction Tutorial
+# **Typeface Reconstruction Tutorial**
 by Catherine Addington
 
 [![alt text](https://raw.githubusercontent.com/caddington11/praxis/master/Font%20Project/Font%20download%20graphic.jpg "Click to download the New Hampshire Font.")](https://github.com/caddington11/praxis/blob/master/Font%20Project/NewHampshire-Regular.otf?raw=true)

@@ -2,7 +2,7 @@
 layout: page
 title: Mining the Second Enclosure Movement
 ---
-# Mining the Second Enclosure Movement
+# **Mining the Second Enclosure Movement**
 
 Through different ways to explore the materials, this data mining intervention seeks a better understanding about *The New Hampshire* as well as public domain legal documents by using text mining tools. 
 

@@ -2,7 +2,7 @@
 layout: page
 title: Translation 
 ---
-# Translation and the Public Domain
+# **Translation and the Public Domain**
 
 <br/>
 Project Table of Contents<br/>
