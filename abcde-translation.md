@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Translation and the Public Domain
+title: Translation 
 ---
+# Translation and the Public Domain
+
 <br/>
 Project Table of Contents<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Alnôbaiwi, "In the Abenaki way, particularly in the Abenaki language"<br/>

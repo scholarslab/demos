@@ -2,6 +2,8 @@
 layout: page
 title: Credits
 ---
+# Credits
+
 _Unclosure: An Act for the Encouragement of Learning_ was created by the 2018–2019 [Praxis][1] Fellows:
 - [Catherine Addington][2], who worked on the [typeface](https://scholarslab.github.io/demos/texts/z-Font-Typeface%20Tutorial/) and [translation](https://scholarslab.github.io/demos/texts/translation/)
 - [Zhiqiu (Cho) Jiang][3], who worked on [text mining](https://scholarslab.github.io/demos/texts/q-text-mining/)

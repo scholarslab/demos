@@ -2,6 +2,7 @@
 layout: page
 title: Project Narrative
 ---
+# Project Narrative
 
 On January 1, 2019, material published in the United States in 1923 [entered the public domain](https://law.duke.edu/cspd/publicdomainday/2019/) after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music from 1923 newly released into the public domain is Robert Frost’s _New Hampshire_, the collection of poetry that won him a Pulitzer Prize the following year.
 
