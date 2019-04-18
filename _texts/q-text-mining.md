@@ -85,3 +85,7 @@ Cirrus is a word cloud that visualizes the top frequency words of a corpus or do
 
 ### Topic modeling
 
+### Public Domain Corpus
+
+*Add a paragraph describing what is public domain corpus.
+
