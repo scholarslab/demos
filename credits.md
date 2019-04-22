@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credits
-order: 3
+order: 4
 ---
 # **Credits**
 
