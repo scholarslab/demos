@@ -38,11 +38,11 @@ Siva Vaidhyanathan, [*The Anarchist in the Library: How the Clash Between Freedo
 
 ## IV. Public Domain Day Publicity
 
-- [“Class of 2019.” *The Public Domain Review*, December 29, 2018.](<https://publicdomainreview.org/collections/class-of-2019/>)
-- [Alter, Alexandra. “New Life for Old Classics, as Their Copyrights Run Out.” *The New York Times*, January 6, 2019, sec. Books.](<https://www.nytimes.com/2018/12/29/books/copyright-extension-literature-public-domain.html>)
-- [Douglas, Nick. “These 1923 Copyrighted Works Enter the Public Domain in 2019.” *Lifehacker*, April 13, 2018.](<https://lifehacker.com/these-1923-copyrighted-works-enter-the-public-domain-in-1825241296>)
-- [Fleishman, Glenn. “A Landslide of Classic Art Is About to Enter the Public Domain.” *The Atlantic*, April 8, 2018.](<https://www.theatlantic.com/technology/archive/2018/04/copywritten-so-dont-copy-me/557420/>)
-- [Fleishman, Glenn. “For the First Time in More Than 20 Years, Copyrighted Works Will Enter the Public Domain.” *Smithsonian Magazine*, January 2019.](<https://www.smithsonianmag.com/arts-culture/first-time-20-years-copyrighted-works-enter-public-domain-180971016/>)
+-[“Class of 2019.” *The Public Domain Review*, December 29, 2018.](<https://publicdomainreview.org/collections/class-of-2019/>)
+-[Alter, Alexandra. “New Life for Old Classics, as Their Copyrights Run Out.” *The New York Times*, January 6, 2019, sec. Books.](<https://www.nytimes.com/2018/12/29/books/copyright-extension-literature-public-domain.html>)
+-[Douglas, Nick. “These 1923 Copyrighted Works Enter the Public Domain in 2019.” *Lifehacker*, April 13, 2018.](<https://lifehacker.com/these-1923-copyrighted-works-enter-the-public-domain-in-1825241296>)
+-[Fleishman, Glenn. “A Landslide of Classic Art Is About to Enter the Public Domain.” *The Atlantic*, April 8, 2018.](<https://www.theatlantic.com/technology/archive/2018/04/copywritten-so-dont-copy-me/557420/>)
+-[Fleishman, Glenn. “For the First Time in More Than 20 Years, Copyrighted Works Will Enter the Public Domain.” *Smithsonian Magazine*, January 2019.](<https://www.smithsonianmag.com/arts-culture/first-time-20-years-copyrighted-works-enter-public-domain-180971016/>)
 
 
 
