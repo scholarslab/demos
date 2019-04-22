@@ -21,6 +21,9 @@ order: 3
 
 
 
+
+
+
 ## Public Domain Reading List
 
 
@@ -41,7 +44,7 @@ order: 3
 
 ### II. Books, Journals, Articles
 
-[Bell, Tom W. “Trend of Maximum U.S. General Copyright Term.” Accessed April 22, 2019.](<http://www.tomwbell.com/writings/(C)_Term.html.<)
+[Bell, Tom W. “Trend of Maximum U.S. General Copyright Term.” Accessed April 22, 2019.](<http://www.tomwbell.com/writings/(C)_Term.html.>)
 
 James Boyle, [*The Public Domain: Enclosing The Commons Of The Mind*](<https://www.thepublicdomain.org/enclosing-the-commons-of-the-mind/>)
 
