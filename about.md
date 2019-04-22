@@ -41,7 +41,7 @@ This project also benefited greatly from the thoughtful feedback we received thr
 We also thank those who assisted with each intervention. In addition to those mentioned above, we extend our gratitude to
 - [Sue Donovan][44], for consulting on the _New Hampshire_ typeface
 - [Stella Mattioli][45], for her assistance with the Italian translation
-- Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Name2, and Name3 for participating
+- Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Giselle Garbaccio, and Ella (Lastname) for participating
 
 This site was built using the [Ed.][46] theme for [Jekyll][47]. The "unlock" icon was designed by [Freepik][48] from [Flaticon][49].
 
