@@ -41,7 +41,7 @@ This project also benefited greatly from the thoughtful feedback we received thr
 We also thank those who assisted with each intervention. In addition to those mentioned above, we extend our gratitude to
 - [Sue Donovan][44], for consulting on the _New Hampshire_ typeface
 - [Stella Mattioli][45], for her assistance with the Italian translation
-- Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Giselle Garbaccio, and Ella (Lastname) for participating
+- Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Giselle Garbaccio, and Ella Duncan for participating
 
 *Denotes a project that the Praxis Fellows presented at "Decolonizing the Digital Humanities: Indigenous Arts, Histories, and Knowledges from the Material to the Screen" (Charlottesville, VA. April 6, 2019), but decided not to publish on this site. Please consult the [project narrative]({{ site.baseurl }}/texts/a-Unclosure-Project-Narrative/) for a discussion about this decision.
 
