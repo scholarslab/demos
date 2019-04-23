@@ -11,13 +11,11 @@
 
 .storymap-main a[href^="#"]{
     color: #4682B4 !important;
-    font-weight: 500;
+    font-weight: 600;
 }
 
-.storymap-main h2a[href^="#"]{
-    color: #4682B4 !important;
-    font-weight: 400;
+h1.text-title {
+    font-size: 2rem !important;
+    text-transform: uppercase;
 }
-
-
 
