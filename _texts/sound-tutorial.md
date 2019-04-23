@@ -1,4 +1,9 @@
-﻿NOTE: This tutorial was originally intended to accompany a demonstration using one of the poems from New Hampshire, however, we have decided to take down the poems and audio as we realized that 
+﻿---
+layout: default
+title: Sound Tutorial
+---
+
+NOTE: This tutorial was originally intended to accompany a demonstration using one of the poems from New Hampshire, however, we have decided to take down the poems and audio as we realized that 
 
 
 Sound Tutorial

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching Translation with the Public Domain
+---
+
 by Catherine Addington
 
 _Click here to download the Teaching Translation with the Public Domain lesson plan: [PDF](https://github.com/caddington11/praxis/blob/master/Translation%20Project/Lesson%20Plan%20-%20Teaching%20Translation%20with%20the%20Public%20Domain.pdf) | [ODT](https://github.com/caddington11/praxis/blob/master/Translation%20Project/Lesson%20Plan%20-%20Teaching%20Translation%20with%20the%20Public%20Domain.odt) | [DOCX](https://github.com/caddington11/praxis/blob/master/Translation%20Project/Lesson%20Plan%20-%20Teaching%20Translation%20with%20the%20Public%20Domain.docx)._
