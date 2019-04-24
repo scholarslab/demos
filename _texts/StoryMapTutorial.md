@@ -1,1 +1,4 @@
-#How to Build a StoryMap
+---
+layout: default
+title: How to Build a StoryMap
+---
