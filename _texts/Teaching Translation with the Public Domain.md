@@ -15,7 +15,7 @@ As Emily Mellen’s translation of “Plowmen” and reflection on her process d
 
 In addition to guiding students through the process of poetic translation and articulating their principles of translation, this lesson plan also asks students to consider how copyright and the public domain affect their work as translators. Upon finishing this lesson, students will not only be able to seek out public-domain materials they can use to build out their portfolio, but also make informed decisions about their own status as copyright holders.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 
 As such, you are encouraged to adapt this lesson plan and make any necessary changes to the texts, exercises, or languages used. Suggestions on how to do so are given in the possibilities for extension section at the end of the lesson plan.
 
