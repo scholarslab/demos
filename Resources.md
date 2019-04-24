@@ -6,7 +6,7 @@ order: 3
 
 # **Resources**
 
-## How can you intervene in the public domain?
+## How to Intervene in the Public Domain
 
 ### Art 
 
@@ -18,9 +18,6 @@ order: 3
 * Create and publish new adaptations, including translations, sequels, dramatizations, scholarly editions, illustrated or graphic novel versions, and more
 
 ### Sheet Music
-
-
-
 
 
 
