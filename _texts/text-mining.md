@@ -6,20 +6,38 @@ title: Mining the Second Enclosure Movement
 
 # **Mining the Second Enclosure Movement**
 
-Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced Natural Language Processing techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this project, 
+Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced Natural Language Processing techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this tutorial, we introduce the dataset structure, available tools, as well as two hands-on demonstrations of how we apply text mining into the *Second Enclosure Movement*.
 
-## **Unstructured Text Dataset**
+## **1. Unstructured Text Dataset**
 It is noticeable that text dataset is usually unstructured, that is, the text data is in conventional format with written content that lacks metadata and cannot readily be indexed or mapped onto standard database fields. 
 
-## **Tools**
+## **2. Tools**
 Basically, tools for text mining are involved with three performing platforms: 1) *programming applications*, 2) *open-sourced applications*, and 3) *software*. 
 
-### **Programming applications**
+### **2.1 Programming applications**
 Programming applications refer to write code using programming languages such as [Python](https://www.python.org/), [R](https://www.r-project.org/about.html), and high level programming languages like [Java](https://www.java.com/en/) and [C++](http://www.cplusplus.com/). Among all of them, [Python](https://www.python.org/) is the most popular language for text mining in current days.  
 
-### **Open-source applications**
+### **2.2 Open-source applications**
+Many open source text analytics applications have basic capabilities that are easy to learn and use. Thanks to the availability of information sharing in the open source arena, there are lots of open source text analytics tools to choose. It may take a little more time to approach text analytics in this manner, but users can still get valuable results. 
 
-### **Other software**
+Here are some popular open-source applications for text mining. Each has its own set of features and capabilities, so consider each closely before making the commitment to rely on the tool. Fortunately, because they’re open source, there’s no cost to the user to try them.
+
+#### **Voyant Tools**
+[Voyant Tools](https://voyant-tools.org/) is an open-source, web-based application for performing text analysis. It supports scholarly reading and interpretation of texts or corpus, particularly by scholars in the digital humanities, but also by students and the general public. It can be used to analyze online texts or ones uploaded by users.
+
+#### **Apache OpenNLP**
+Natural language processing (NLP) is a way for computers to examine and understand human speech and speech patterns, which is critical to text analytics. [Apache OpenNLP](http://opennlp.apache.org/index.html) is a tool set for machine learning—a computational learning capability based on pattern recognition. Machine learning is an essential element of text analytics that often allows organizations to learn from unexpected results from data because the analysis is not constrained by preconceived notions of what will be found. Instead, the tool learns patters based on a volume of data.
+
+It is noticeable that Apache OpenNLP is another open source application that was designed with ease-of-use in mind, but it doesn’t feature the graphical UI and so may require deeper programming capabilities to get up and running. As with other open source applications, however, there is a user community that’s always willing to help.
+
+#### **OpenRefine**
+[Openrefine](http://openrefine.org/) is a data manipulation tool which cleans, reshapes and intelligently edit batch messy, and unstructured data. Specifically, it can be used to “clean” messy data, transform data, and query APIs and return the results. For example, users can use Openrefine to text mine a historical textual document and extract data from an XML file. These 
+unstructured" data can be transformed it into a clean,  simple, and easily ready (by humans and computers) format. OpenRefine will allow you to work with data with no computer programming skills in a user interface. Hands-on exercises are available at [Github Openrefine Tutorials](https://oudsl.github.io/openrefine-tutorial/).
+
+
+### **2.3 Other software**
+
+
 
 
 Through different ways to explore the materials, this data mining intervention seeks a better understanding about *The New Hampshire* as well as public domain legal documents by using text mining tools. 
