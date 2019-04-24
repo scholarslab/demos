@@ -4,16 +4,6 @@ title: Mining the Second Enclosure Movement
 ---
 
 
-<script>
-var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
-var mm = today.toLocaleString('en-us', { month: 'long' }); 
-var yyyy = today.getFullYear();
-
-today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
-document.write(today);
-</script>
-
 # **Mining the Second Enclosure Movement**
 
 Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced Natural Language Processing techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this project, 
