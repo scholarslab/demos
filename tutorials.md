@@ -8,16 +8,16 @@ The following tutorials use _New Hampshire_ as raw material to explore the possi
 <ul style="margin-bottom: 0;">
   <li>Mapping
   <ul style="margin-bottom: 0;">
-    <li><a href="http://unclosure.scholarslab.org/texts/storymap/">StoryMap</a></li>
-    <li><a href="http://unclosure.scholarslab.org/texts/StoryMapTutorial/">Tutorial</a></li>
+    <li><a href="/texts/storymap/">StoryMap</a></li>
+    <li><a href="/texts/StoryMapTutorial/">Tutorial</a></li>
   </ul>
   </li>
-	<li><a href="http://unclosure.scholarslab.org/texts/sound/">Sound</a></li>
-	<li><a href="http://unclosure.scholarslab.org/texts/text-mining/">Text Mining</a></li>
+	<li><a href="/texts/sound/">Sound</a></li>
+	<li><a href="/texts/text-mining/">Text Mining</a></li>
   <li>Translation
   <ul style="margin-bottom: 0;">
   	<li>Reflection</li>
-  	<li><a href="http://unclosure.scholarslab.org/texts/Teaching%20Translation%20with%20the%20Public%20Domain/">Lesson Plan</a></li>
+  	<li><a href="/texts/Teaching%20Translation%20with%20the%20Public%20Domain/">Lesson Plan</a></li>
   </ul>
-  	<li><a href="http://unclosure.scholarslab.org/texts/Typeface/">Typeface</a></li>
-  	<li><a href="http://unclosure.scholarslab.org/texts/website-tutorial/">Website</a></li>
+  	<li><a href="/texts/Typeface/">Typeface</a></li>
+  	<li><a href="/texts/website-tutorial/">Website</a></li>
