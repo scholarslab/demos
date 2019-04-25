@@ -69,39 +69,66 @@ Analyses for the New Hampshire Corpora include word frequency lists, frequency d
 The **left** word cloud plot displays the frequency of words appearing in the whole poetry collection while the **right** plot is only for the long poem "New Hampshire".
 
 <div class="box"><iframe src='https://voyant-tools.org/?corpus=cb923928b3ec3cf00e6b8c13a4a96bc7&view=Cirrus'
-    style='width: 50%; height: 400px' align="left"></iframe>
+    style='width: 50%; height: 400px' align="left"></iframe></div>
 <div class="box"><iframe src='https://voyant-tools.org/?corpus=02af91d88d936b7e48213ebf3ad411c0&view=Cirrus'
-    style='width: 50%; height: 400px' align="right"></iframe>
+    style='width: 50%; height: 400px' align="right"></iframe></div>
 
-<br/>
+&nbsp;
+<br />
 
 For the whole poetry collection, it has 19,584 total words and 3,349 unique words. For the poem "New Hampshire", it has 3,241 total words and 1,094 unique words. The most frequent words for each corpus are shown in the table below.
-
 
 <br/>
 
 | Corpus                      | Word count | Avg words per sentence | Most frequent words                                                                                                                                                                                                  |
 |-----------------------------|------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The whole poetry collection | 19,584     | 18.8                       | like (62); know (53); say (50);  said (49); new (43); don’t (40);  make (37); way (36); day (34); night (34); paul (33); house (32); having (31); came (30); man (30); tell (30); door (29); thought (29); tree (29) |
+| The whole poetry collection | 19,584     | 18.8                       | like (62); know (53); say (50);  said (49); new (43); don’t (40);  make (37); way (36); day (34); night (34); paul (33); house (32); having (31); came (30); man (30); tell (30); door (29); thought (29); tree (29);  good (28); left (28); let (28); old (28); come (27) |
 | Poem "New Hampshire"        | 3,241      | 18.5                       | New (35); Hampshire (27); mountains (14);  say (14); said (13); like (10); people (10);  know (9); state (9); farm (8); choose (7); just (7); make (7); man (7); old (7); end (6); gold (6); little (6)              |
 
 
-### **Word Trends**
 
-The tool below was created using Voyant Tools and the document added to the corpus in April 2019.
-<iframe src='https://voyant-tools.org/tool/Trends/?corpus=f404ffaa01c94901f820cf22f0f7eaeb'
-    style='width: 100%; height: 600px'></iframe>
+<br/>
+### **3.1.3 Word Contexts**
+
+We notice that the 14 appearances of word **mountains** in the long poem "New Hampshire". This seems like an important *image* in Frost's poems as his work exploring complex ideas through scenes and images of rural life. We can go further to look at the word contexts are around the word "mountains" by using *Contexts* tool. The [Contexts](https://voyant-tools.org/docs/#!/guide/contexts) (or Keywords in Context) tool shows each occurrence of a keyword with a bit of surrounding text (the context). It can be useful for studying more closely how terms are used in different contexts. 
 
 
+<br/>
+The chart below displays the occurrence of word "mountains" with poem "New Hampshire". You can also use contexts tool with your own corpus.
+<br/>
+<iframe src='https://voyant-tools.org/?corpus=f404ffaa01c94901f820cf22f0f7eaeb&view=Contexts&query=mountains&docIndex=0&context=8&expand=20' style='width: 100%; height: 520px'></iframe>
 
-#### Word Contexts
+
+By default, contexts are shown for the most frequent in the term corpus, you can click on the plus icon to expand any given row to show more context.
+
+<br/>
+With reading the contexts of **mountains**, we could quickly capture a sense of the landscape grounded in the land and mountains of New England that Frost described in this poem. The farm of which he wrote in this poem is the property now known as the [Frost Place](https://en.wikipedia.org/wiki/The_Frost_Place) in Franconia, New Hampshire. 
+
+
+### **3.1.4 Mentioned Locations**
+
+Voyant Tools also provide an experimental exploration for the geospatial aspects of texts. Using the whole poetry collection corpus, the locations that mentioned in the texts are identified by the [Dreamscape](https://voyant-tools.org/docs/#!/guide/dreamscape) tool through reading city names, suggesting patterns of recurring connections between locations from the poems. 
+
+The chart below displays a sequent occurrence of mentioned locations. 
+
+<iframe src='https://voyant-tools.org/?corpus=c5f84e960a2443e4e04ea94826df9814&view=DreamScape'
+    style='width: 100%; height: 500px'></iframe>
+
+Generally, we could get an idea of overall geospatial context of this corpus. However, there is a primary weakness of Dreamscape tool is that current tool only can recognize about **75%** of locations. In order to make the representativeness of the geo-context more accurate, it is better to use other methods for linking the places in the texts with the maps. The [StoryMap](https://unclosure.scholarslab.org/texts/storymap/) intervention gives another example for this task.
+
+### **3.1.5 "Man" in these poems**
+
+The word "Man" mentioned in these poems are shown in the **left** plot by the poem order of the book. 
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=c5f84e960a2443e4e04ea94826df9814&query=woman&query=man&query=mother&query=men&query=women&view=Trends'
+    style='width: 50%; height: 350px' align='left'></iframe></div>
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&query=man&view=Contexts'
+    style='width: 50%; height: 350px' align='left'></iframe></div>
 
 The Contexts (or Keywords in Context) tool shows each occurrence of a keyword with a bit of surrounding text (the context). It can be useful for studying more closely how terms are used in different contexts.
 
 Use it with poem *The New Hampshire* to look at the occurence of word 'mountains':
 
-<iframe src='https://voyant-tools.org/?corpus=f404ffaa01c94901f820cf22f0f7eaeb&query=mountains&docIndex=0&view=Contexts'
-    style='width: 100%; height: 600px'></iframe>
+
 
 ### **Other poems collection**
 #### Document Terms
@@ -115,8 +142,7 @@ Count: this is the raw frequency of the term in the document
 Relative: this is the relative frequency (per 10 million words) of the term in the document
 Trends: this is a sparkline graph that shows the distribution of the term within the segments of the document; you can hover over the sparkline to see finer-grained results
 
-<iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&view=DocumentTerms'
-    style='width: 100%; height: 600px'></iframe>
+
 
 #### Gender difference?
 If the keyword is 'man', the Contexts is like:
