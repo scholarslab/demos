@@ -78,11 +78,10 @@ For the whole poetry collection, it has 19,584 total words and 3,349 unique word
 
 <br/>
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Corpus                      | Total words | Unique words | Average words per sentence | Most frequent words                                                                                                                |
+|-----------------------------|-------------|--------------|----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| The whole poetry collection | 19,584      | 3,349        | 18.8                       | like (62); know (53); say (50);  said (49); new (43); don’t (40);  make (37); way (36); day (34); night (34)                       |
+| Poem "New Hampshire"        | 3,241       | 1,094        | 18.5                       | new (35); hampshire (27); mountains (14);  say (14); said (13); like (10); people (10);  know (9); state (9); farm (8); choose (7) |
 
 
 
