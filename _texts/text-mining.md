@@ -6,12 +6,17 @@ title: Mining the Second Enclosure Movement
 
 # **Mining the Second Enclosure Movement**
 
-While conceding that the paradigm of [Open Data](https://en.wikipedia.org/wiki/Open_data), coupled with other developments such as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things), [Text Mining](https://en.wikipedia.org/wiki/Text_mining) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), indeed gives rise to changed sociotechnical formations, building on arguments made in connection with the proposal for a ‘open computing’ for humanities in the digital age. 
+While conceding that the paradigm of [Open Data](https://en.wikipedia.org/wiki/Open_data), coupled with other developments such as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things), [Text Mining](https://en.wikipedia.org/wiki/Text_mining) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), indeed gives rise to changed sociotechnical formations, building on arguments made in connection with the proposal for a *Open Computing for Humanities* in the digital age. 
 
-Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced Natural Language Processing techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this tutorial, we introduce the dataset structure, available tools, as well as two hands-on demonstrations of how we apply text mining into *The Second Enclosure Movement*.
+Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced NLP (Natural Language Processing) techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this tutorial, we introduce the dataset structure, available tools, as well as two hands-on demonstrations of how we apply text mining into *The Second Enclosure Movement*.
+
+<br/>
+
 
 ## **1. Unstructured Text Dataset**
 It is noticeable that text dataset is usually unstructured, that is, the text data is in conventional format with written content that lacks metadata and cannot readily be indexed or mapped onto standard database fields. 
+
+<br/>
 
 ## **2. Tools**
 Basically, tools for text mining are involved with three performing platforms: 1) *programming applications*, 2) *open-sourced applications*, and 3) *other software*. 
@@ -28,7 +33,7 @@ Here are some popular open-source applications for text mining. Each has its own
 [Voyant Tools](https://voyant-tools.org/) is an open-source, web-based application for performing text analysis. It supports scholarly reading and interpretation of texts or corpus, particularly by scholars in the digital humanities, but also by students and the general public. It can be used to analyze online texts or ones uploaded by users.
 
 #### **Apache OpenNLP**
-Natural language processing (NLP) is a way for computers to examine and understand human speech and speech patterns, which is critical to text analytics. [Apache OpenNLP](http://opennlp.apache.org/index.html) is a tool set for machine learning—a computational learning capability based on pattern recognition. Machine learning is an essential element of text analytics that often allows organizations to learn from unexpected results from data because the analysis is not constrained by preconceived notions of what will be found. Instead, the tool learns patters based on a volume of data.
+Natural language processing (NLP) is a way for computers to examine and understand human speech and speech patterns, which is critical to text analytics. [Apache OpenNLP](http://opennlp.apache.org/index.html) is a tool set for machine learning — a computational learning capability based on pattern recognition. Machine learning is an essential element of text analytics that often allows organizations to learn from unexpected results from data because the analysis is not constrained by preconceived notions of what will be found. Instead, the tool learns patters based on a volume of data.
 
 It is noticeable that Apache OpenNLP is another open source application that was designed with ease-of-use in mind, but it doesn’t feature the graphical UI and so may require deeper programming capabilities to get up and running. As with other open source applications, however, there is a user community that’s always willing to help.
 
@@ -41,22 +46,52 @@ unstructured" data can be transformed it into a clean,  simple, and easily ready
 
 Commercial companies and sources also provide text mining computer programs. A list of software from WiKipedia can be found [here](https://en.wikipedia.org/wiki/List_of_text_mining_software).
 
+<br/>
 
-
-## **3 Demonstrations using Voyant Tools**
+## **3 Tutorials using Voyant Tools**
  
-Through different ways to explore the materials, this text mining intervention seeks a better understanding about *The New Hampshire* as well as public domain legal documents by using an open-source application [Voyant Tools](https://voyant-tools.org/). 
+Through different ways to explore the materials, this intervention seeks to provide tutorials for demonstrating the ways to mine the whole collection of *The New Hampshire* and the public domain legal documents corpus by using [Voyant Tools](https://voyant-tools.org/). These tutorials assume no prior knowledge or experience, but aim to empower the public to participate in the public domain and build projects for their own interests. 
 
-## **3.1 Mining the New Hampshire**
-### **The New Hampshire corpus**
-The New Hampshire corpus provides easy access to a collection of the book. Through “reading” the individual poems, the analysis enables us to uncover the untold stories of the literature. 
 
-### **The New Hampshire**
-#### Word Trends using The New Hampshire corpus
+<br/>
+
+## **3.1 Mining _The New Hampshire_**
+### **3.1.1 The New Hampshire corpora**
+The New Hampshire corpora provide easy access to a collection of the book itself. The poetry collection raw file used for this tutorial is downloaded from [Project Gutenberg EBook of New Hampshire](https://www.gutenberg.org/files/58611/58611-0.txt). [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) currently provides around 58,000 e-books for legal download in the public domain. The process is relatively simple, as you can search for book titles and authors on their site or browse the catalog by author, title, language and other categories. 
+
+Since the raw file is a poetry collection with the long poem "New Hampshire" and other 45 poems, a series of analyses can be done corresponding to different text corpora. For example, we can create one corpus including all the texts of the 46 poems for analyzing the themes from the whole book. We also can create a single corpus for each poem for comparing the word count and word frequency of each poem.      
+
+Analyses for the New Hampshire Corpora include word frequency lists, frequency distribution plots, and [KWIC (Key Word In Context)](https://en.wikipedia.org/wiki/Key_Word_in_Context) displays, etc. Through “reading” the individual poems, the analysis enables us to uncover the _untold stories_ of the literature.
+
+### **3.1.2 Word Cloud**
+
+The **left** word cloud plot displays the frequency of words appearing in the whole poetry collection while the **right** plot is only for the long poem "New Hampshire".
+
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=cb923928b3ec3cf00e6b8c13a4a96bc7&view=Cirrus'
+    style='width: 50%; height: 400px' align="left"></iframe>
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=02af91d88d936b7e48213ebf3ad411c0&view=Cirrus'
+    style='width: 50%; height: 400px' align="right"></iframe>
+
+For the whole poetry collection, it has 19,584 total words and 3,349 unique words. For the poem "New Hampshire", it has 3,241 total words and 1,094 unique words.
+
+
+<br/>
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+
+
+### **Word Trends**
 
 The tool below was created using Voyant Tools and the document added to the corpus in April 2019.
 <iframe src='https://voyant-tools.org/tool/Trends/?corpus=f404ffaa01c94901f820cf22f0f7eaeb'
     style='width: 100%; height: 600px'></iframe>
+
+
 
 #### Word Contexts
 
@@ -122,7 +157,10 @@ Cirrus is a word cloud that visualizes the top frequency words of a corpus or do
 
 ### Topic modeling
 
-### Public Domain Corpus
+### Sonny Bono Copyright Term Extension Act Corpus
+
+Topic modeling result
+
 
 *Add a description of what public domain corpus means
 
