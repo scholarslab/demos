@@ -21,7 +21,7 @@ For further ideas on using sound in your own work, I will end with a list of res
 * Bernstein, Charles. *Close Listening: Poetry and the Performed Word.* New York: Oxford University Press, 1998.
 * Sterne, Jonathan. *Sound Studies Reader.* Routledge, 2012.
 * Wijfjes, Huub. "Spellbinding and Crooning: Sound Amplification, Radio, and Political Rhetoric in International Comparative Perspective, 1900–1945." *Technology and Culture* 55, no. 1 (2014): 148-185.
-* Ceraso, Steph. [Sound](https://digitalpedagogy.mla.hcommons.org/keywords/sound/)
+* Ceraso, Steph. [Sound.](https://digitalpedagogy.mla.hcommons.org/keywords/sound/)
 * [Provoke! Digital Sound Studies](http://soundboxproject.com/) 
 
 ## Using Recorded Sound and Voice, Examples 
