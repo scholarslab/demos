@@ -73,17 +73,17 @@ The **left** word cloud plot displays the frequency of words appearing in the wh
 <div class="box"><iframe src='https://voyant-tools.org/?corpus=02af91d88d936b7e48213ebf3ad411c0&view=Cirrus'
     style='width: 50%; height: 400px' align="right"></iframe></div>
 
-For the whole poetry collection, it has 19,584 total words and 3,349 unique words. For the poem "New Hampshire", it has 3,241 total words and 1,094 unique words.
+<br/>
+
+For the whole poetry collection, it has 19,584 total words and 3,349 unique words. For the poem "New Hampshire", it has 3,241 total words and 1,094 unique words. The most frequent words for each corpus are shown in the table below.
 
 
 <br/>
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
+| Corpus                      | Word count | Avg words per sentence | Most frequent words                                                                                                                                                                                                  |
+|-----------------------------|------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The whole poetry collection | 19,584     | 18.8                       | like (62); know (53); say (50);  said (49); new (43); don’t (40);  make (37); way (36); day (34); night (34); paul (33); house (32); having (31); came (30); man (30); tell (30); door (29); thought (29); tree (29) |
+| Poem "New Hampshire"        | 3,241      | 18.5                       | New (35); Hampshire (27); mountains (14);  say (14); said (13); like (10); people (10);  know (9); state (9); farm (8); choose (7); just (7); make (7); man (7); old (7); end (6); gold (6); little (6)              |
 
 
 ### **Word Trends**
