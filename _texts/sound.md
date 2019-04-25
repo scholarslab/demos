@@ -11,57 +11,57 @@ Precisely because of the evocativeness of voiced poetry, we have decided to take
 
 As a music and sound scholar, I am thrilled at the possibility for digital projects to use sound in this way. There are many forms of technology which allow one to attach sound and audio, but here I am primarily going to discuss SoundCite. SoundCite is a tool which allows you to attach an audio file to a specific part of the text of a webpage, like so. It is created by KnightLab at Northwestern University and as a piece of free, open-source software, it is in keeping with the ethos of accessibility that guides this project. Further instructions for using SoundCite can be found here.
 
-Unfortunately, sound has some of the most complex and controversial copyright restrictions of all. While sheet music has been included in the main body of works entering the public domain this year (and every year from now on), there is currently no public domain for recorded sound, but soon there will be. As of January 1, 2022 all sound recordings published before 1923 will enter the U.S. public domain and after this date, new sound recordings will be added each year. More detailed information about this and about unpublished sound recordings can be found [here] (https://copyright.cornell.edu/publicdomain)  
+Unfortunately, sound has some of the most complex and controversial copyright restrictions of all. While sheet music has been included in the main body of works entering the public domain this year (and every year from now on), there is currently no public domain for recorded sound, but soon there will be. As of January 1, 2022 all sound recordings published before 1923 will enter the U.S. public domain and after this date, new sound recordings will be added each year. More detailed information about this and about unpublished sound recordings can be found [here](https://copyright.cornell.edu/publicdomain)  
 
 Public domain sound, like all of the other works we cover here, will be eligible for any kind of intervention. It can be layered, remixed, cut into pieces, and basically utilized however you want. Text works in the public domain, such as New Hampshire, can also be recorded and those recordings used in the same way. Finally, you can use your own sound recordings in any way you see fit.
 
 For further ideas on using sound in your own work, I will end with a list of resources. These resources include conceptual readings about sound (and particularly recorded sound), examples that demonstrate how sound is currently being used in scholarship and digital print media, and, finally, a list of tools and guides to get you started.
 
 ## Thinking About Recorded Sound and Voice 
-* Bernstein, Charles. Close Listening: Poetry and the Performed Word. *
-* Ceraso, Steph. [“Sound.”] (https://digitalpedagogy.mla.hcommons.org/keywords/sound/)
-* Sterne, Jonathan. Sound Studies Reader.* 
+* Bernstein, Charles. Close Listening: Poetry and the Performed Word.
+* Ceraso, Steph. [“Sound.”](https://digitalpedagogy.mla.hcommons.org/keywords/sound/)
+* Sterne, Jonathan. Sound Studies Reader.
 * Wijfjes, Huub. "Spellbinding and Crooning: Sound Amplification, Radio, and Political Rhetoric in International Comparative Perspective, 1900–1945." Technology and Culture 55, no. 1
-(2014): 148-185.*  
-* [Provoke! Digital Sound Studies] (http://soundboxproject.com/) 
+(2014): 148-185.
+* [Provoke! Digital Sound Studies](http://soundboxproject.com/) 
 
 ## Using Recorded Sound and Voice, Examples 
-* [The Ballad of Geeshie and Elvie] * (https://www.nytimes.com/interactive/2014/04/13/magazine/blues.html)
+* [The Ballad of Geeshie and Elvie](https://www.nytimes.com/interactive/2014/04/13/magazine/blues.html)
 The Ballad of Geeshie and Elvie uses Soundcite to present musical examples overlaid onto written text of the lyrics
 
-[Treasured Island] (http://projects.aljazeera.com/2014/tangier-island/)
+[Treasured Island](http://projects.aljazeera.com/2014/tangier-island/)
 Treasured Island uses Souncite to seamlessly incorporate examples of Tangier Island’s unique accent and dialect as they are discussed.
 
-* Sounding Out! Podcasts ([website] (https://soundstudiesblog.com/podcast-editorial-statement/)/ [iTunes] (https://itunes.apple.com/us/podcast/sounding-out%21/id435193796))
+* Sounding Out! Podcasts ([website](https://soundstudiesblog.com/podcast-editorial-statement/)/ [iTunes](https://itunes.apple.com/us/podcast/sounding-out%21/id435193796))
 These are a series of podcasts designed by the sound studies website Sounding Out!, in which scholars write brief and insightful work on sound in the form of blog posts. The podcasts are similar to the blog posts, but, of course, allow for a different incorporation of sound and different listening possibilities.
 
-Ottoman History Podcast ([website] (http://www.ottomanhistorypodcast.com/) / [Soundcloud] (https://soundcloud.com/ottoman-history-podcast/robson))
+* Ottoman History Podcast ([website](http://www.ottomanhistorypodcast.com/) / [Soundcloud](https://soundcloud.com/ottoman-history-podcast/robson))
 The Ottoman history podcast puts scholars from a variety of institutions and disciplines who work on Ottoman history in conversation. Each week they delve into a different issue broadly related to this topic, often working through an author’s recent work.
 
-* [Visible Poetry Project] (https://www.visiblepoetryproject.com/)
+* [Visible Poetry Project](https://www.visiblepoetryproject.com/)
 This project presents poems from established and emerging poets and presents them as short videos.
 
-[The Roaring ‘Twenties] (http://vectorsdev.usc.edu/NYCsound/777b.html)
+* [The Roaring ‘Twenties](http://vectorsdev.usc.edu/NYCsound/777b.html)
 The Roaring Twenties is a research project about sound in New York City towards the end of the 1920s. The website includes an interactive map showing the location and contents of various noise complaints and of playable newsreels. 
 
-[Lynching in America] (https://lynchinginamerica.eji.org/)
+* [Lynching in America](https://lynchinginamerica.eji.org/)
 Lynching in America is, as the name implies, a website about the history and impact of lynching in the United States. Along with interactive maps, a film, and other resources, the website incorporates a section of oral histories taken by people affected by lynching.
 
-[London Sound Survey] (https://www.soundsurvey.org.uk/index.php/survey/soundmaps/more/37/35)
+* [London Sound Survey](https://www.soundsurvey.org.uk/index.php/survey/soundmaps/more/37/35)
 Among other thing, the London Sound Survey features an interactive map of London, broken into a grid in which each square features a series of recording taken from different locations within that area. This project imagines a different way of conceptualizing and remembering the city as it changes over time.
 
 ## Using Recorded Sound and Voice, Tools
 
-[SoundCite] (https://soundcite.knightlab.com/)
+* [SoundCite](https://soundcite.knightlab.com/)
 SoundCite is a tool which allows writers to overlay text with audio, so that with the click of a button they can listen as they read. 
 
-[Adobe Buttons] (https://helpx.adobe.com/indesign/using/interactivity-5.html) 
+* [Adobe Buttons](https://helpx.adobe.com/indesign/using/interactivity-5.html) 
 Similar to SoundCite, Adobe Buttons allows you to create buttons which can activate audio and video incorporated into text PDFs. 
 
-[GarageBand] (https://www.apple.com/mac/garageband/)
+* [GarageBand](https://www.apple.com/mac/garageband/)
 GarageBand is a sound editing software available on all Mac computers and is fairly intuitive to use.
 
-[Audacity] (https://www.audacityteam.org/)
+* [Audacity](https://www.audacityteam.org/)
 Audacity is a free download and has a less friendly interface than Garageband, but is a little more flexible and allows for more fine tuning.
 
-[Brandon Walsh’s tutorial] (https://programminghistorian.org/en/lessons/editing-audio-with-audacity) on using Audacity to edit audio.
+* [Brandon Walsh’s tutorial](https://programminghistorian.org/en/lessons/editing-audio-with-audacity) on using Audacity to edit audio.
