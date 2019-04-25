@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Credits
 order: 4
 ---
-# **About this Project**
-
 *Unclosure: An Act for the Encouragement of Learning* was created by the University of Virginia’s 2018-2019 Praxis cohort. The [Praxis Program](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/) is housed within [UVa’s Scholars’ Lab](https://scholarslab.lib.virginia.edu/), one of the university’s hubs of digital humanities. Each year, the Scholars’ Lab funds six doctoral students from across the Graduate School of Arts & Sciences to serve as Praxis Fellows for the academic year. During the fall semester, Fellows receive immersive training in digital methods and tools as well as in collaborative project management. During the spring semester, Fellows conceive, design, build, and publish a digital project. This year, the Scholars’ Lab charged the Praxis team with creating a digital project “reintroducing” the public domain.
 
 # **Credits**
