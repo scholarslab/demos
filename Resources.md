@@ -35,7 +35,7 @@ order: 3
 
 [“Public Domain Day 2019.” Center for the Study of the Public Domain, Duke University School of Law.](<https://law.duke.edu/cspd/publicdomainday/2019/>)
 
-[Smith, Balfour. “Spreadsheet of 1923 Works in the Public Domain.” Center for the Study of the Public Domain, Duke University School of Law](<https://law.duke.edu/sites/default/files/images/centers/cspd/pdd2019/1923_works_renewed_update2.xlsx>)
+[Smith, Balfour. “Spreadsheet of 1923 Works in the Public Domain.” Center for the Study of the Public Domain, Duke University School of Law.](<https://law.duke.edu/sites/default/files/images/centers/cspd/pdd2019/1923_works_renewed_update2.xlsx>)
 
 
 
@@ -43,15 +43,15 @@ order: 3
 
 [Bell, Tom W. “Trend of Maximum U.S. General Copyright Term.” Accessed April 22, 2019.](<http://www.tomwbell.com/writings/(C)_Term.html.>)
 
-James Boyle, [*The Public Domain: Enclosing The Commons Of The Mind*](<https://www.thepublicdomain.org/enclosing-the-commons-of-the-mind/>)
+[James Boyle, *The Public Domain: Enclosing The Commons Of The Mind*](<https://www.thepublicdomain.org/enclosing-the-commons-of-the-mind/>)
 
-Jessica Litman, ["The Public Domain"](<https://www.law.duke.edu/pd/papers/litman_background.pdf>)
+[Jessica Litman, "The Public Domain"](<https://www.law.duke.edu/pd/papers/litman_background.pdf>)
 
 [*Law and Contemporary Problems*, Volume 66](<https://heinonline.org/HOL/Contents?handle=hein.journals/lcp66&id=1&size=2&index=&collection=journals>) 
 
-Lawrence Lessig, [*The Future of Ideas: The Fate of the Commons in a Connected World*](<http://www.the-future-of-ideas.com/download/lessig_FOI.pdf>) and [*Remix: Making Art and Commerce Thrive in the Hybrid Economy*](<https://archive.org/details/LawrenceLessigRemix>) 
+[Lawrence Lessig, *The Future of Ideas: The Fate of the Commons in a Connected World*](<http://www.the-future-of-ideas.com/download/lessig_FOI.pdf>) and [*Remix: Making Art and Commerce Thrive in the Hybrid Economy*](<https://archive.org/details/LawrenceLessigRemix>) 
 
-Siva Vaidhyanathan, [*The Anarchist in the Library: How the Clash Between Freedom and Control Is Hacking the Real World and Crashing the System*](<https://books.google.com/books?id=xNk6xpKcAsEC&pg=PR3&lpg=PR3&dq=The+Anarchist+in+the+Library:+How+the+Clash+Between+Freedom+and+Control+Is+Hacking+the+Real+World+and+Crashing+the+System&source=bl&ots=Zf1BEsaWYp&sig=ACfU3U1v2YFUo-tX7VLGVqyLabRHZmSAnw&hl=es&sa=X&ved=2ahUKEwjF_cD49NnhAhXHrFkKHQFUAWAQ6AEwCXoECAkQAQ#v=onepage&q=The%20Anarchist%20in%20the%20Library%3A%20How%20the%20Clash%20Between%20Freedom%20and%20Control%20Is%20Hacking%20the%20Real%20World%20and%20Crashing%20the%20System&f=false>), [*Copyrights and Copywrongs: The Rise of Intellectual Property and How it Threatens Creativity*](<https://books.google.com/books/about/Copyrights_and_Copywrongs.html?id=sGjSY0rRC_wC>), and [*Intellectual Property: A Very Short Introduction*](<http://www.veryshortintroductions.com/view/10.1093/actrade/9780195372779.001.0001/actrade-9780195372779>)  
+[Siva Vaidhyanathan, *The Anarchist in the Library: How the Clash Between Freedom and Control Is Hacking the Real World and Crashing the System*](<https://books.google.com/books?id=xNk6xpKcAsEC&pg=PR3&lpg=PR3&dq=The+Anarchist+in+the+Library:+How+the+Clash+Between+Freedom+and+Control+Is+Hacking+the+Real+World+and+Crashing+the+System&source=bl&ots=Zf1BEsaWYp&sig=ACfU3U1v2YFUo-tX7VLGVqyLabRHZmSAnw&hl=es&sa=X&ved=2ahUKEwjF_cD49NnhAhXHrFkKHQFUAWAQ6AEwCXoECAkQAQ#v=onepage&q=The%20Anarchist%20in%20the%20Library%3A%20How%20the%20Clash%20Between%20Freedom%20and%20Control%20Is%20Hacking%20the%20Real%20World%20and%20Crashing%20the%20System&f=false>), [*Copyrights and Copywrongs: The Rise of Intellectual Property and How it Threatens Creativity*](<https://books.google.com/books/about/Copyrights_and_Copywrongs.html?id=sGjSY0rRC_wC>), and [*Intellectual Property: A Very Short Introduction*](<http://www.veryshortintroductions.com/view/10.1093/actrade/9780195372779.001.0001/actrade-9780195372779>)  
 
 
 
