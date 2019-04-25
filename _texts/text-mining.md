@@ -4,7 +4,8 @@ title: Mining the Second Enclosure Movement
 ---
 
 
-# **Mining the Second Enclosure Movement**
+# Mining the Second Enclosure Movement
+by Zhiqiu (Cho) Jiang
 
 While conceding that the paradigm of [Open Data](https://en.wikipedia.org/wiki/Open_data), coupled with other developments such as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things), [Text Mining](https://en.wikipedia.org/wiki/Text_mining) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), indeed gives rise to changed sociotechnical formations, building on arguments made in connection with the proposal for a ‘open computing’ for humanities in the digital age. 
 
