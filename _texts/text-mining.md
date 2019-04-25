@@ -69,9 +69,9 @@ Analyses for the New Hampshire Corpora include word frequency lists, frequency d
 The **left** word cloud plot displays the frequency of words appearing in the whole poetry collection while the **right** plot is only for the long poem "New Hampshire".
 
 <div class="box"><iframe src='https://voyant-tools.org/?corpus=cb923928b3ec3cf00e6b8c13a4a96bc7&view=Cirrus'
-    style='width: 50%; height: 400px' align="left"></iframe>
+    style='width: 50%; height: 400px' align="left"></iframe></div>
 <div class="box"><iframe src='https://voyant-tools.org/?corpus=02af91d88d936b7e48213ebf3ad411c0&view=Cirrus'
-    style='width: 50%; height: 400px' align="right"></iframe>
+    style='width: 50%; height: 400px' align="right"></iframe></div>
 
 For the whole poetry collection, it has 19,584 total words and 3,349 unique words. For the poem "New Hampshire", it has 3,241 total words and 1,094 unique words.
 
