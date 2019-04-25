@@ -27,6 +27,45 @@ Most crucially, however, the collection has a rather emblematic history when it 
 
 ***
 
+# **How to Cite**
+
+This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
+
+<p><em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = today.toLocaleString('en-us', { month: 'long' }); 
+var yyyy = today.getFullYear();
+
+today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
+document.write(today);
+</script>
+</p>
+
+And, if your style guide insists on author names, then we suggest:
+
+<p>Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. <em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = today.toLocaleString('en-us', { month: 'long' }); 
+var yyyy = today.getFullYear();
+
+today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
+document.write(today);
+</script>
+</p>
+
+You will normally also need to give the date on which you accessed the site.
+
+# **Questions?**
+
+Please contact [ScholarsLab@virginia.edu](ScholarsLab@virginia.edu) for feedback and questions.
+
+
+
+
+
+
 Things to add:
 - Address up front in the project narrative the fact that Robert Frost doesn’t have positive connotations for most Abenaki people (cf. conversation w/Siobhan Senier). Like even if you don’t do “Vanishing Red” you have to address it in your introduction.
 - Lankes’ woodcuts present an uninhabited landscape so always make sure to present the image critically. (Use Francis Jennings’ idea of New England as “virgin land” vs. “widowed land”?)

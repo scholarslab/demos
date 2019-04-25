@@ -1,54 +1,24 @@
-
-.storymap-sidebar {
-   /* display: none;*/
-}
-@media (min-width: 768px) {
-    .storymap-sidebar {
-        position: fixed;
-        top: 8rem;
-        bottom: 0;
-        right: 1rem;
-        width: 25%;
-        z-index: -1;
-        display: block;
-        padding: 20px;
-        overflow-x: hidden;
-        overflow-y: hidden;
-        background-color: #f5f5f5;
-        border-right: 1px solid #eee;
-    }
+#map {
+    width: 50vw;
+    height: 100vh;
+    position:fixed;
+    top:0;
+    right:0;
 }
 
-.storymap-main {
-    padding: 20px;
-    padding-bottom: 50%;
-    padding-right: 30%;
-}
-@media (min-width: 768px) {
-    .storymap-main {
-        padding-right: 40px;
-        padding-left: 40px;
-    }
-}
-.storymap-main .page-header {
-    margin-top: 0;
+.container {
+    max-width: 100% !important;
 }
 
-.breakpoint-current {
-    left: 0;
-    margin-top: -10px;
-    position: fixed;
-   /* top: 33.3333%; */
-    width: 3px;
-    height: 3px;
-    background: red;;
+.wrap {
+    width:50vw !important;
 }
 
 .viewing {
     background: #eee;
 }
 
-.storymap-main section{
+.storymap-main section {
     padding: 5px 10px 10px 10px;
     border-radius: 10px;
 }

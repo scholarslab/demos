@@ -6,10 +6,9 @@
 
         var defaults = {
             selector: '[data-place]',
-            breakpointPos: '33.333%',
             createMap: function () {
                 // create a map in the "map" div, set the view to a given place and zoom
-                var map = L.map('map').setView([28, 0], 2);
+                var map = L.map('map').setView([44, -71.5], 8);
 
                 L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
 	                 attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community'
@@ -77,27 +76,19 @@
         }
 
         var makeStoryMap = function (element, markers, paths) {
-
-            var topElem = $('<div class="breakpoint-current"></div>')
-                .css('top', settings.breakpointPos);
-            $('body').append(topElem);
-
-            var top = topElem.offset().top - $(window).scrollTop();
-
+            var top = $(window).height()/3;
             var searchfor = settings.selector;
-
             var paragraphs = element.find(searchfor);
-
             paragraphs.on('viewing', function () {
                 $(this).addClass('viewing');
             });
-
+            
             paragraphs.on('notviewing', function () {
                 $(this).removeClass('viewing');
             });
 
             watchHighlight(element, searchfor, top);
-
+            
             var map = settings.createMap();
             map.on('zoomend', onMapZoomEnd);
             map.on('zoomstart', onMapZoomStart);
@@ -136,7 +127,7 @@
                       fg.addLayer(layer);
                     };
                     zoomTo = marker.zoom;
-                    fg.addLayer(L.marker([marker.lat, marker.lon]));
+                    //fg.addLayer(L.marker([marker.lat, marker.lon]));
                     map.flyTo([marker.lat, marker.lon], marker.zoom);
                 }
             }
