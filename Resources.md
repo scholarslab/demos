@@ -35,7 +35,7 @@ order: 3
 
 [“Public Domain Day 2019.” Center for the Study of the Public Domain, Duke University School of Law.](<https://law.duke.edu/cspd/publicdomainday/2019/>)
 
-[Smith, Balfour. “Spreadsheet of 1923 Works in the Public Domain.” Center for the Study of the Public Domain, Duke University School of Law](<https://law.duke.edu/sites/default/files/images/centers/cspd/pdd2019/1923_works_renewed_update2.xlsx>)
+[Smith, Balfour. “Spreadsheet of 1923 Works in the Public Domain.” Center for the Study of the Public Domain, Duke University School of Law.](<https://law.duke.edu/sites/default/files/images/centers/cspd/pdd2019/1923_works_renewed_update2.xlsx>)
 
 
 
