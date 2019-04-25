@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Credits
 order: 4
 ---
-# **About this Project**
-
 *Unclosure: An Act for the Encouragement of Learning* was created by the University of Virginia’s 2018-2019 Praxis cohort. The [Praxis Program](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/) is housed within [UVa’s Scholars’ Lab](https://scholarslab.lib.virginia.edu/), one of the university’s hubs of digital humanities. Each year, the Scholars’ Lab funds six doctoral students from across the Graduate School of Arts & Sciences to serve as Praxis Fellows for the academic year. During the fall semester, Fellows receive immersive training in digital methods and tools as well as in collaborative project management. During the spring semester, Fellows conceive, design, build, and publish a digital project. This year, the Scholars’ Lab charged the Praxis team with creating a digital project “reintroducing” the public domain.
 
 # **Credits**
@@ -14,8 +12,8 @@ The 2018–2019 [Praxis][1] Fellows are:
 - [Zhiqiu (Cho) Jiang][3], who worked on [text mining]({{ site.baseurl }}/texts/q-text-mining/)
 - [Emily Mellen][4], who worked on sound* and [translation]({{ site.baseurl }}/texts/translation/)
 - [Eleanore Neumann][5], who worked on the [storymap]({{ site.baseurl }}/texts/storymap/)
-- [Mathilda Shepard][6], who worked on the [website]({{ site.baseurl }}/) and the [project narrative]({{ site.baseurl }}/texts/a-Unclosure-Project-Narrative/)
-- [Chris Whitehead][7], who worked on translation, annotation*, and the [project narrative]({{ site.baseurl }}/texts/a-Unclosure-Project-Narrative/)
+- [Mathilda Shepard][6], who worked on the [website]({{ site.baseurl }}/) and the [about page]({{ site.baseurl }}/texts/About/)
+- [Chris Whitehead][7], who worked on translation, annotation*, and the [about page]({{ site.baseurl }}/texts/About)
 
 The [Praxis Program][8] is a project of the [Scholars’ Lab][9] at the [University of Virginia Library][10].
 
@@ -43,7 +41,7 @@ We also thank those who assisted with each intervention. In addition to those me
 - [Stella Mattioli][45], for her assistance with the Italian translation
 - Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Giselle Garbaccio, and Ella Duncan for participating
 
-*Denotes a project that the Praxis Fellows presented at "Decolonizing the Digital Humanities: Indigenous Arts, Histories, and Knowledges from the Material to the Screen" (Charlottesville, VA. April 6, 2019), but decided not to publish on this site. Please consult the [project narrative]({{ site.baseurl }}/texts/a-Unclosure-Project-Narrative/) for a discussion about this decision.
+*Denotes a project that the Praxis Fellows presented at "Decolonizing the Digital Humanities: Indigenous Arts, Histories, and Knowledges from the Material to the Screen" (Charlottesville, VA. April 6, 2019), but decided not to publish on this site. Please consult the [about page]({{ site.baseurl }}/texts/About/) for a discussion about this decision.
 
 This site was built using the [Ed.][46] theme for [Jekyll][47]. The "unlock" icon was designed by [Freepik][48] from [Flaticon][49].
 
