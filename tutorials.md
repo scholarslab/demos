@@ -3,6 +3,8 @@ layout: page
 title: Tutorials
 order: 2
 ---
+These tutorials use _New Hampshire_ as raw material to explore the possibilities that the public domain holds for research, pedagogy, and play. Each tutorial also walks you through the copyright rules and digital tools that you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower you to engage the variety of public-domain materials now widely available online.
+
 <ul style="margin-bottom: 0;">
   <li>Mapping
   <ul style="margin-bottom: 0;">
@@ -19,5 +21,3 @@ order: 2
   </ul>
   	<li><a href="/texts/Typeface/">Typeface</a></li>
   	<li><a href="/texts/website-tutorial/">Website</a></li>
-
-These tutorials use _New Hampshire_ as raw material to explore the possibilities that the public domain holds for research, pedagogy, and play. Each tutorial also walks you through the copyright rules and digital tools that you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower you to engage the variety of public-domain materials now widely available online.
