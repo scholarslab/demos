@@ -116,23 +116,10 @@ cat: StoryMap
 </div>
 
 <script type="text/javascript" src="/assets/js/storymap/storymap.js"></script>
+<script type="text/javascript" src="/assets/js/storymap/abenaki.js"></script>
 <script type="text/javascript">
     (function () {
         'use strict';
-
-        var abenaki;
-        $.ajax({
-            url: "/assets/js/storymap/abenaki.json",
-            async: false,
-            datatype: 'json',
-            type: "GET",
-            success: function(json){
-                abenaki = json;
-            }
-        });
-        console.log(abenaki)
-        
-
         var paths = [
             L.marker([33, -88]).bindTooltip("The South"),
             L.marker([34.8, -92.2]).bindTooltip("Arksansas"),
