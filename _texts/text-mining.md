@@ -37,7 +37,7 @@ unstructured" data can be transformed it into a clean,  simple, and easily ready
 
 ### **2.3 Other software**
 
-
+Commercial companies and sources also provide text mining computer programs. A list of software from WiKipedia can be found [here](https://en.wikipedia.org/wiki/List_of_text_mining_software).
 
 
 Through different ways to explore the materials, this data mining intervention seeks a better understanding about *The New Hampshire* as well as public domain legal documents by using text mining tools. 
