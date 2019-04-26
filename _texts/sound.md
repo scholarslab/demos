@@ -3,7 +3,7 @@ layout: default
 title: Sound Tutorial
 ---
 # Sound Tutorial
-Emily Mellen
+by Emily Mellen
 
 Hearing voiced text is a fundamentally different experience than reading it. As scholar Charles Bernstein has noted, poetry performance, or the read word, has been an understudied but essential aspect of that genre. While reading (and inevitably reproducing the text in one’s own inner voice) can produce a sense of intimacy with the words, hearing them can produce a sense of intimacy with the speaker and, in turn, the character or story they embody. In addition, audio clips give us a chance to add sound effects (leaves rustling, the sound of a crowd, etc.), which can enliven or bring clarity to the impressions given by the text. It also gives us a chance to demonstrate musical passages or sounds mentioned so that the reader can experience these aural references, much like including the image of a painting or photograph discussed in the text.
 
