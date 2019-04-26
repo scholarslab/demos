@@ -185,3 +185,10 @@ For some more information, introductory materials, and secondary literature on t
 - Jeffrey Binder, "[Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69)" from Debates in the Digital Humanities, ed. Matthew Gold (U Minnesota Press, 2016)
 - [Text Analysis Resources](http://digitalhumanities.berkeley.edu/resources/text-analysis-resources) @ University of California Berkeley DH Lab
 - Columbia's [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/about.html)
+
+For more advanced toolboxes, which are not the easiest tools to use, but are good resource for more advanced users, please see:
+
+- [Stanford Natural Language Processing](http://www-nlp.stanford.edu/software/index.shtml)
+- [Meandre](http://www.seasr.org/meandre/)
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/), a Java-based data mining, visualization, and machine learning software.
+- [Python NLTK](http://www.nltk.org/)
