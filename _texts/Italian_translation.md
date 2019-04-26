@@ -1,3 +1,7 @@
+---
+layout: default
+title: Italian reflections
+---
 # Translating Plowmen into Italian
 
 Emily Mellen
