@@ -9,7 +9,7 @@ by Zhiqiu (Cho) Jiang
 
 While conceding that the paradigm of [Open Data](https://en.wikipedia.org/wiki/Open_data), coupled with other developments such as the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things), [Text Mining](https://en.wikipedia.org/wiki/Text_mining) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), indeed gives rise to changed sociotechnical formations, building on arguments made in connection with the proposal for a *Open Computing for Humanities* in the digital age. 
 
-Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced NLP (Natural Language Processing) techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this tutorial, we introduce the dataset structure, available tools, as well as two hands-on demonstrations of how we apply text mining into *The Second Enclosure Movement*.
+Text mining in the digital humanities usually refers to any process of analysis performed on a text dataset to extract information from it. Suppose you want to compare the frequency of the word “she” and “he” in the book *The New Hampshire*. Suppose you want to collocate these words with the phrases in which they were written and sort the results based on various factors — frequency, affective value, attribution and so on. Text mining is regarded as a technique which will lead into advanced NLP (Natural Language Processing) techniques, which implies a breakthrough for achieving a higher level of AI (Artificial Intelligence) that have machines which can process text data. There are quite a few tools that have been developed to perform analyses of unstructured texts. Text mining analyses include word counts, keyword density, frequency, and other methodologies to extract meaningful information in order to ask research questions. In this tutorial, we introduce the dataset structure, available tools, as well as two hands-on demonstrations of how we apply text mining into *The Second Enclosure Movement*.
 
 <br/>
 
@@ -51,7 +51,7 @@ Commercial companies and sources also provide text mining computer programs. A l
 
 ## **3 Tutorials using Voyant Tools**
  
-Through different ways to explore the materials, this intervention seeks to provide tutorials for demonstrating the ways to mine the whole collection of *The New Hampshire* and the public domain legal documents corpus by using [Voyant Tools](https://voyant-tools.org/). These tutorials assume no prior knowledge or experience, but aim to empower the public to participate in the public domain and build projects for their own interests. 
+Through different ways to explore the materials, this intervention seeks to provide tutorials for demonstrating the ways to mine the whole collection of *The New Hampshire* and the public domain legal documents corpus by using [Voyant Tools](https://voyant-tools.org/). Voyant Tools is a web-based reading and analysis environment for digital texts. You can paste or link to text and text corpora, and analyse and visualize the text in various ways. The following documentation give you an overview of the sorts of analysis and visualization you can do [Voyant Tools Guide Page](http://voyant-tools.org/docs/#!/guide/tools). These tutorials assume no prior knowledge or experience, but aim to empower the public to participate in the public domain and build projects for their own interests. 
 
 
 <br/>
@@ -116,78 +116,72 @@ The chart below displays a sequent occurrence of mentioned locations.
 
 Generally, we could get an idea of overall geospatial context of this corpus. However, there is a primary weakness of Dreamscape tool is that current tool only can recognize about **75%** of locations. In order to make the representativeness of the geo-context more accurate, it is better to use other methods for linking the places in the texts with the maps. The [StoryMap](https://unclosure.scholarslab.org/texts/storymap/) intervention gives another example for this task.
 
-### **3.1.5 "Man" in these poems**
+### **3.1.5 Masculine and Feminine Words in these poems**
 
-The word "Man" mentioned in these poems are shown in the **left** plot by the poem order of the book. 
-<div class="box"><iframe src='https://voyant-tools.org/?corpus=c5f84e960a2443e4e04ea94826df9814&query=woman&query=man&query=mother&query=men&query=women&view=Trends'
+Masculine words such as "He", "Man", and feminine words such as "She", "Mother", and "Woman" mentioned in these poems are shown in the **left** plot by the poem order of the book. The contexts of word "He", which has been mentioned 179 times ("She" appeared 124 times), is displayed in the **right** plot. 
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=c5f84e960a2443e4e04ea94826df9814&query=he&query=she&query=man&query=woman&query=mother&view=Trends'
     style='width: 50%; height: 350px' align='left'></iframe></div>
-<div class="box"><iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&query=man&view=Contexts'
-    style='width: 50%; height: 350px' align='left'></iframe></div>
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=3d4596987dac4e768de91f139072062c&query=He&view=Contexts'
+    style='width: 50%; height: 350px' align='right'></iframe></div>
 
-The Contexts (or Keywords in Context) tool shows each occurrence of a keyword with a bit of surrounding text (the context). It can be useful for studying more closely how terms are used in different contexts.
+&nbsp;
+<br/>
 
-Use it with poem *The New Hampshire* to look at the occurence of word 'mountains':
-
-
-
-### **Other poems collection**
-#### Document Terms
-Document Terms is a table view of term frequencies for each document.
-
-The table view shows the following five data columns by default:
-
-#: this is the document number (the position of the term's document in the corpus)
-Term: this is the document term
-Count: this is the raw frequency of the term in the document
-Relative: this is the relative frequency (per 10 million words) of the term in the document
-Trends: this is a sparkline graph that shows the distribution of the term within the segments of the document; you can hover over the sparkline to see finer-grained results
+It is easy to find that the word "He" and the word "She" both have high relative frequencies in the poem *Place for a Third*. If we take a closer look at this particular poem, we will find the *link words* that are associated with these two gender words. *Link words* represents the collocation of terms in a corpus by depicting them in a network through the use of a force directed graph. The frequency of the word in the link graphs below is indicated by relative size of the term.
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=637fb9d4444967615fd01ba42f16afca&query=He&mode=corpus&view=CollocatesGraph'
+    style='width: 50%; height: 250px' align='left'></iframe></div>
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=637fb9d4444967615fd01ba42f16afca&query=She&mode=corpus&view=CollocatesGraph'
+    style='width: 50%; height: 250px' align='right'></iframe></div>
+"He" is more likely linked with "thought" while "She" is associated with "felt". Both of them are linked with the character "Laban" and the verb "cared".
 
 
+&nbsp;
+<br/>
+## **3.2 Mining the Documents relevant to _Copyright Term Extension Act_**
+### **3.2.1 The Copyright Term Extension Act (CTEA) corpora**
 
-#### Gender difference?
-If the keyword is 'man', the Contexts is like:
-<iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&query=man&view=Contexts'
-    style='width: 100%; height: 600px'></iframe>
+The Copyright Term Extension Act corpora provide easy access to a collection of government documents that are associated with the [**S.505 - Sonny Bono Copyright Term Extension Act**](https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act). This law, also known as the Copyright Term Extension Act (CTEA) of 1998, extended copyright terms in the United States. It effectively "froze" the advancement date of the public domain in the US. 
 
-If the keyword is 'woman (women)', the Contexts shrinks:
-<iframe src='https://voyant-tools.org/?query=women&query=wom*&corpus=afaa03f057331131baa97fa4a50dd3a8&view=Contexts'
-    style='width: 100%; height: 600px'></iframe>
+Specifically, this corpora include six single corpus, each corpus represents one type of these government documents. They are (1) Bills; (2) Hearing transcripts; (3) Journals; (4) Laws; (5) CRS (Congressional Research Service) Reports; and (6) Speeches. Raw data is downloaded from [congressional.proquest.com](https://congressional.proquest.com/congressional/result/pqpresultpage?accountid=14678&groupid=95633&pgId=4d14b2d4-c956-4058-ad4d-bcffcf955ab5&rsId=169067CA78A#scrollTo) by searching keywords "**Sonny Bono Copyright Term Extension Act**". Each corpus is prepared in plain text format based on the search results. Data used for this tutorial can be request through emailing us at **ScholarsLab@Virginia.edu**.
 
-However, we found 'mother' is mentioned 20 times:
-<iframe src='https://voyant-tools.org/?corpus=afaa03f057331131baa97fa4a50dd3a8&query=mother*&view=Contexts'
-    style='width: 100%; height: 600px'></iframe>
+### **3.2.2 Topic Modeling for the CTEA Corpora**
 
+This tutorial seeks to analyze the **Themes / Topics** that are associated with different types of government documents about CTEA through [**topic modeling**](https://en.wikipedia.org/wiki/Topic_model). Topic modeling algorithms scan a corpus of documents and automatically infer a set of topics that best characterize these documents. We choose [Latent Dirichlet Allocation (LDA)](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) as our topic modeling algorithm because it is relatively straightforward, and results from other studies show it produces effective topic mixtures and coherent topics. 
 
-#### Topics
-The Topics tool provides a rudimentary way of generating term clusters from a document or corpus and then seeing how each topic (term cluster) is distributed across the document or corpus.
+### **3.2.3 Topic Modeling Results**
 
+| Document Type | Total words | Unique words | Theme                | Representative Terms                                                                                         |
+|---------------|-------------|--------------|----------------------|--------------------------------------------------------------------------------------------------------------|
+| Bills         | 19,584      | 3,349        | Rights               | Title, Subsection, Striking, Rights, United States, Code, Performance, Society, Space                        |
+| Hearings      | 1,879,692   | 131,720      | Program              | Program, Budget, Congress, Services, Law, Federal, Information, Support, Security, Provide                   |
+| Journals      | 2,351,016   | 55,930       | Dissemination        | Committee, House, State, Secretary, Rule, Transmitting, Amendment, New, Public, Agency, Department, National |
+| Laws          | 3,352       | 686          | Establishment        | Establishment, Copyright, Court, Amended, License, Effective, Extension, Act, Society                        |
+| CRS Reports   | 21,738      | 2,914        | Protection           | Protection, Author, Database, Works, Right, Public, Period, License, Business                                |
+| Speeches      | 125,572     | 7,473        | Action & Legislation | Shall, Enforcement, Commission, Legislation, Motion, Property, Trademark, Preservation                                    |
 
-## **Government Documents corpus**
-The Government Documents corpus provides easy access to a collection of public domain relevant government documents, including a variety of document types, such as speeches, testimonies, laws, and hearing transcripts.
+ Interestingly, our topic modeling findings reveal that different document types do have a variety of themes in general. For the **Hearing transcripts**, the main topic is about "Program", as a major concern towards Copyright Extension Act. Most of the **Speeches** talk about "Action & Legislation" issues, which are mainly about enforcement of copyright law and relevant practical problems. It is not surprising that **Bills** and **Laws** trend to overlap with each other since Bills is a larger collection than Laws for this case. 
 
-As an example, we give an analysis of the themes in different types of documents in 1998 Copyright Term Extension Act. By using word frequency or topic modeling tools for analyzing the dominant themes in each type of document. The expected outcomes are, for example, in *speeches*, maybe the **fair** and **unfair** are mentioned many times, while in *hearing transcripts*, maybe the **professional** this adjective is mentioned many times, ect.
+<br/>
 
-Data source: congressional records online
+Following the main theme of the **Report** corpus — "Protection", we analyze the word links to this theme. The left word cloud plot shows the word frequency mentioned from **Report** corpus. The right plot represents the linked words of the word "copyright" (305 mentions), "protection" (147 mentions), and "database" (128 mentions) in the Report corpus.
+ <div class="box"><iframe src='https://voyant-tools.org/?corpus=e0a86ba1531b668a62e410c9e7f43de2&view=Cirrus'
+    style='width: 40%; height: 300px' align='left'></iframe></div>
+<div class="box"><iframe src='https://voyant-tools.org/?corpus=e0a86ba1531b668a62e410c9e7f43de2&query=protection&query=copyright&query=database&mode=corpus&context=3&view=CollocatesGraph'
+    style='width: 60%; height: 300px' align='right'></iframe></div>
 
-### **S.505 - Sonny Bono Copyright Term Extension Act**
+&nbsp;
+<br/>
 
-#### Cirrus
-Cirrus is a word cloud that visualizes the top frequency words of a corpus or document. The word cloud positions the words such that the terms that occur the most frequently are positioned centrally and are sized the largest. As the algorithm goes through the list and continues to attempt to draw words as close as possible to the center of the visualization it will also include small words within spaces left by larger words that do not fit together snugly. It's important to understand that the colour of words and their absolute position are not significant (if you resize the window or reload the page, words may appear in a different location).
+## **4. Reflections**
+Geoffrey Rockwell’s [“What is Text Analysis?”](https://academic.oup.com/dsh/article/18/2/209/927829) is an informational article focused specifically on text analysis as a methodology in the humanities. Text as a resource, can be seen as indicating a methodological turning-point, unfolding today. A primary purpose of this text mining intervention is to provide a new way to encourage the new ways of acquiring knowledge for the humanities with the digitalization and open data movements across the world. 
 
-<iframe src='https://voyant-tools.org/?corpus=915af298b348043b995335cc5d61b299&view=Cirrus'
-    style='width: 100%; height: 600px'></iframe>
+The increasing amount of digital data in the public domain, structured or unstructured, available for research in the Humanities, makes available in this sense having two sides: (1) making data accessible for scientists (e.g. digitization, retro-digitization); and (2) providing tools which allow to dig into the data, especially into huge amounts of data, for analytical purpose (Text Mining, Data Mining). So far, different kinds of tools can be used for textual analysis. A great part of them also allows the use of Text Mining-tools without necessarily requiring a deeper or any understanding of programming or computer sciences. However, it is crucial to choose the appropriate tools as well as to design appropriate analysis strategies that can answer the research questions.    
 
-#### Links
+For some more information, introductory materials, and secondary literature on the practice of text analysis, please see:
 
-<iframe src='https://voyant-tools.org/?corpus=915af298b348043b995335cc5d61b299&query=copyright&query=inserting&query=title&mode=corpus&view=CollocatesGraph'
-    style='width: 100%; height: 600px'></iframe>
-
-### Topic modeling
-
-### Sonny Bono Copyright Term Extension Act Corpus
-
-Topic modeling result
-
-
-*Add a description of what public domain corpus means
-
+- Natalie Houston, "[Text Analysis](https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/)" in Digital Pedagogy in the Humanities (MLA Commons)
+- Temple University DH Center, "[What is Text Analysis?](http://guides.temple.edu/c.php?g=78518&p=505212)"
+- Michael Wittmore, "[Text: A Massively Addressable Object](http://dhdebates.gc.cuny.edu/debates/text/28)," in Debates in the Digital Humanities, ed. Matthew Gold (U Minnesota Press, 2012)
+- Jeffrey Binder, "[Alien Reading: Text Mining, Language Standardization, and the Humanities](http://dhdebates.gc.cuny.edu/debates/text/69)" from Debates in the Digital Humanities, ed. Matthew Gold (U Minnesota Press, 2016)
+- [Text Analysis Resources](http://digitalhumanities.berkeley.edu/resources/text-analysis-resources) @ University of California Berkeley DH Lab
+- Columbia's [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/about.html)
