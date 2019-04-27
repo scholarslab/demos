@@ -6,19 +6,19 @@ title: Italian reflections
 
 Emily Mellen
 
-ARATORE
-Un aratro, dicono, per la neve arar
-Ma non è possibile che la intendono piantar-- 
-Se non per deridere in amarezza
-L’aver coltivato la pietra grezza
+*ARATORE*<br>
+Un aratro, dicono, per la neve arar<br>
+Ma non è possibile che la intendono piantar-- <br>
+Se non per deridere in amarezza <br>
+L’aver coltivato la pietra grezza <br>
 
-PLOWMEN 
-A plow, they say, to plow the snow. 
-They cannot mean to plant it, though— 
-Unless in bitterness to mock 
-At having cultivated rock.
+*PLOWMEN* <br>
+A plow, they say, to plow the snow. <br>
+They cannot mean to plant it, though— <br>
+Unless in bitterness to mock <br>
+At having cultivated rock. <br>
 
-My first obstacle in making this translation was the poem’s premise. Frost builds his poem of off the name of the machine we call a snow plow. The poem is a joke about the relationship of a snow plow to the regular work of plowing in New England. In Italian a snow plow is called a spazzaneve or “snow sweeper,” rather than using the word plow, or “aratro.” I decided, however, to use only words related to plowing in order to make clear the meaning of the poem *if one knows the concept and how it relates to English.* This maintains the poem’s relationship to its original language and to the context in which it was born, while (I hope) rendering it legible to an Italian-speaking reader. 
+My first obstacle in making this translation was the poem’s premise. Frost builds his poem off of the name of the machine we call a snow plow. The poem is a joke about the relationship of a snow plow to the regular work of plowing in New England. In Italian a snow plow is called a spazzaneve or “snow sweeper,” rather than using the word plow, or “aratro.” I decided, however, to use only words related to plowing in order to make clear the meaning of the poem *if one knows the concept and how it relates to English.* This maintains the poem’s relationship to its original language and to the context in which it was born, while (I hope) rendering it legible to an Italian-speaking reader. 
 
 My next task, to literally translate each of the words of the poem, was not very difficult because of the relationship between English and Italian. That is to say, that most English words have a direct Italian equivalent. For example, the word bitterness is used in a metaphorical sense in English. Bitterness refers directly to a taste of food, but it also refers to a feeling of resentment and sadness at the conclusion of a situation. In this case, I believe that the bitterness Frost refers to is the bitterness of a New Hampshire farmer who has to contend with constantly rocky soil. This double sense of bitterness is shared in Italian, as is the knowledge of frustration with rocky soil, which is also a reality of the farmer in less fertile parts of Italy. The most important shared concept in the poem is the idea of plowing the land itself, which relies on a tradition of European agriculture that would presumably not exist in languages that do not use this particular tool or method.
 

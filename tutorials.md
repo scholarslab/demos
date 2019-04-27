@@ -19,7 +19,7 @@ These tutorials use _New Hampshire_ as raw material to explore the possibilities
 	<li><a href="/texts/text-mining/">Text Mining</a></li>
   <li>Translation
   <ul style="margin-bottom: 0;">
-  	<li>Reflection</li>
+  	<li><a href="/texts/Italian_translation/">Reflection</a></li>
   	<li><a href="/texts/Teaching%20Translation%20with%20the%20Public%20Domain/">Lesson Plan</a></li>
   </ul>
   	<li><a href="/texts/Typeface/">Typeface</a></li>
