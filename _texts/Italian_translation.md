@@ -6,17 +6,17 @@ title: Italian reflections
 
 Emily Mellen
 
-*ARATORE*<br>
-Un aratro, dicono, per la neve arar<br>
-Ma non è possibile che la intendono piantar-- <br>
-Se non per deridere in amarezza <br>
-L’aver coltivato la pietra grezza <br>
-
 *PLOWMEN* <br>
 A plow, they say, to plow the snow. <br>
 They cannot mean to plant it, though— <br>
 Unless in bitterness to mock <br>
 At having cultivated rock. <br>
+
+*ARATORI*<br>
+Un aratro, dicono, per la neve arar<br>
+Ma non è possibile che la intendano piantar-- <br>
+Se non per deridere in amarezza <br>
+L’aver coltivato la pietra grezza <br>
 
 My first obstacle in making this translation was the poem’s premise. Frost builds his poem off of the name of the machine we call a snow plow. The poem is a joke about the relationship of a snow plow to the regular work of plowing in New England. In Italian a snow plow is called a spazzaneve or “snow sweeper,” rather than using the word plow, or “aratro.” I decided, however, to use only words related to plowing in order to make clear the meaning of the poem *if one knows the concept and how it relates to English.* This maintains the poem’s relationship to its original language and to the context in which it was born, while (I hope) rendering it legible to an Italian-speaking reader. 
 
@@ -36,5 +36,7 @@ Because I didn’t want to move the word “pietra” around, I first tried to f
 After trying my list of rock names and realizing they wouldn’t work, I started thinking of synonyms for the word “mock,” but before I got very far into this, it occured to me that I could also move “amarezza” to the end by changing the line to “Se non per deridere in amarezza,” which left me with the very common word ending “-ezza” (roughly, -ness) to rhyme. Then, I realized I could add the adjective “grezza” (course, rough) to the end of my final line, which keeps the placement of the word “pietra” and only deepens the meaning slightly, in a way that I feel is consistent with the mood of the poem.
 
 The last part of my translation was to try to think about the meter of the poem. Again, I know nothing about poetic meter, so I asked for help from my brilliant colleague Catherine Addington, who advised that English use of stress probably does not have an easy equivalent in Italian. As long as none of my lines were awkwardly long, the poem’s sense of meter was probably fine, she advised. Through reading the translation out loud several times, I determined that I could easily read it in a way in which all the lines lasted equivalently long, which I, as a music scholar, of course measure in 4/4 time. This is almost certainly an imperfect method for incorporating meter and could doubtlessly be improved upon by someone who knows more about poetry, but I hope it will be helpful.
+
+After I finished my translation, Catherine helped me reach out to Italian professors at UVA for approval and correction. Thank you to Hiromi Kaneda and Stella Mattioli for reading over and providing feedback on my translation. Stella Mattioli kindly pointed out that I had forgotten to pluralize the title to "Aratori" instead of "Aratore" and that I needed to change the grammatical form of the word "intendono" (present indicative) to "intendano" (present subjunctive) because of the sentence structure.
 
 Translating this poem from English into Italian is not particularly difficult, because, as I mention above, English and Italian words often have a one-to-one correspondence because they are both Indo-European languages with relatively similar cultural histories. In the case of “Plowmen,” which relies on agricultural concepts for its sense and imagery, a shared history of relatively similar agricultural practices is key. As we describe in the about page, Chris also worked on a translation of this poem into Western Abenaki, which we decided not to feature on the final version of the site, and he had a very different experience, in part because the concepts that the poem relies on did not relate to Abenaki agricultural practice and the words did not have easy correspondences with Abenaki words. It is also worth noting that there are a much wider array of resources for translation from/into European languages than into many indigenous languages. Due to the scale of our project, we do not propose any solutions to this vast problem, but would like to note that it exists and that we would embrace any contributions of public domain translation resources specifically oriented towards the questions of translation into indigenous and other non-European languages.
