@@ -4,9 +4,6 @@ title: About Unclosure
 order: 1
 ---
 # About Unclosure, or Thoughtful Engagement with the Public Domain
-On January 1, 2019, material published in the United States in 1923 [entered the public domain](https://law.duke.edu/cspd/publicdomainday/2019/) after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music from 1923 newly released into the public domain is Robert Frost’s [*New Hampshire*](https://babel.hathitrust.org/cgi/pt?id=uc1.32106002108873;view=2up;seq=1), the collection of poetry that won him a Pulitzer Prize the following year.
-
-Using *New Hampshire* as our raw material, *Unclosure* seeks to explore the possibilities that the public domain holds for research, pedagogy, and play. On this website, you can view a series of projects based on material from *New Hampshire*, each accompanied by a tutorial that will walk you through the copyright rules and digital tools you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower scholars, teachers, and members of the general public to engage the variety of public-domain material now widely available online. 
 
 ## What is the Public Domain?
 
