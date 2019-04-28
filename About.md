@@ -1,89 +1,148 @@
 ---
 layout: page
-title: About
+title: About Unclosure
 order: 1
 ---
-# **About**
+# About Unclosure, or Thoughtful Engagement with the Public Domain
+On January 1, 2019, material published in the United States in 1923 [entered the public domain](https://law.duke.edu/cspd/publicdomainday/2019/) after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music from 1923 newly released into the public domain is Robert Frost’s [*New Hampshire*](https://babel.hathitrust.org/cgi/pt?id=uc1.32106002108873;view=2up;seq=1), the collection of poetry that won him a Pulitzer Prize the following year.
 
-On January 1, 2019, material published in the United States in 1923 [entered the public domain](https://law.duke.edu/cspd/publicdomainday/2019/) after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music from 1923 newly released into the public domain is Robert Frost’s _New Hampshire_, the collection of poetry that won him a Pulitzer Prize the following year.
+Using *New Hampshire* as our raw material, *Unclosure* seeks to explore the possibilities that the public domain holds for research, pedagogy, and play. On this website, you can view a series of projects based on material from *New Hampshire*, each accompanied by a tutorial that will walk you through the copyright rules and digital tools you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower scholars, teachers, and members of the general public to engage the variety of public-domain material now widely available online. 
 
-Using _New Hampshire_ as our raw material, _Unclosure_ seeks to explore the possibilities that the public domain holds for research, pedagogy, and play. On this website, you can view a series of projects based on material from _New Hampshire_, each accompanied by a tutorial that will walk you through the copyright rules and digital tools you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower scholars, teachers, and members of the general public to engage the variety of public-domain material now widely available online.
+## What is the Public Domain?
 
-# Why Unclosure: An Act for the Encouragement of Learning?
-Our project title plays on the English [enclosure][1] movement, which fenced off common land for private use. Many scholars, including [James Boyle][2], have referred to the extension of U.S. copyright terms as a “Second Enclosure Movement,” which similarly fences off intellectual property as private, at the expense of the cultural commons. As legal academics “continue to debate the wisdom and extent of cultural enclosure” (Lewis Hyde, “The Enclosure of Culture” 57), we pause to celebrate this moment of (un)closure, in which individual intellectual property rights over the 1923 corpus have been dissolved and the works opened up for public use.
+Author and cultural critic Lewis Hyde has described the public domain as “the great and ancient storehouse of human innovation” (Hyde 2012, 34). On January 1, 2019, a Congressional embargo expired and new material entered the public domain for the first time in over twenty years. Works of literature, art, sheet music, and film published or exhibited in the United States prior to 1924 now reside in the public domain. As those works are no longer under copyright, anyone could: 
 
-In addition to celebration, this project seeks to inform the general public about their rights to public-domain works. As we see it, the cultural commons is increasingly enclosed not just by expanded copyright terms, but by a lack of awareness around copyright law. By providing both legal and logistical tutorials for each of our projects, we aim to empower students, teachers, scholars, and creators to participate in the public domain—and to release their own works back into it.
+- Read an entire book online through a digital repository
+- Publish sheet music in print or online 
+- Screen a film or post it on YouTube
+- Reproduce an entire work of art in any medium
 
-Our subtitle, “An Act for the Encouragement of Learning,” is taken from the title of the 1710 law now known as the [Statute of Anne][3], which first subjected copyright to government regulation. This phrase reflects “the primary objective of copyright law,” which “is not to reward the author, but rather to secure for the public the benefits derived from the authors’ labors” (H. R. Rep. No. 100–609, p. 22, 1988, [cited by J. Breyer here][4]).
+Our project title, _Unclosure_, plays on the English [enclosure](https://en.wikipedia.org/wiki/Enclosure) movement, which fenced off common land for private use. Many scholars, including [James Boyle](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1273&context=lcp), have described the extension of U.S. copyright terms as a “Second Enclosure Movement,” similarly fencing off intellectual property as private at the expense of the cultural commons. Hyde explains that legal academics “continue to debate the wisdom and extent of cultural enclosure” (Hyde 2010, 57).  
 
-When a work is released into the public domain, it is by no means certain that the public will in fact have access to “the benefits derived from the authors’ labors.” Though organizations like [Google Books][5] and [HathiTrust][6] have made large-scale efforts to provide online access to newly public-domain works, plenty of other public domain works remain undigitized. In addition, many public-domain works are hidden behind paywalls or buried in proprietary databases—such as the government documents digitized by LexisNexis—such that nominally “free” works are not meaningfully free at all. Without diminishing the monetary and cultural value added to these free works by such information structures, _Unclosure_ envisions a cultural commons enriched by direct access to public domain works in digital space.
+We derived our subtitle, “An Act for the Encouragement of Learning,” from the Copyright Act of 1790, the United States’s first federal copyright law. During his [first State of the Union address](https://www.mountvernon.org/education/primary-sources/state-of-the-union-address/#-), President Washington encouraged Congress to exercise their Constitutional authority and craft a bill establishing the new nation’s copyright system, saying, “there is nothing, which can better deserve [its] patronage, than the promotion of Science and Literature.” Heeding Washington’s call, Congress quickly drafted and passed the Copyright Act of 1790. The law provided those who filed for copyrights a monopoly over their intellectual property for fourteen years, with the possibility of renewing the copyright for an additional fourteen years. After these twenty-eight years, however, all copyrighted work would belong to the public. Congress deemed it “An Act for the Encouragement of Learning” because that property would ultimately belong to and benefit the people of the United States. 
 
-# Why _New Hampshire_?
-Of all the works published in 1923 that were newly released into the public domain on January 1, 2019, we chose to work with Robert Frost’s poetry collection _New Hampshire_ both because the text’s history is well suited to a project on the public domain and for straightforward practical reasons.
+We envision *Unclosure: An Act for the Encouragement of Learning* as another act for the encouragement of learning. Against the backdrop of “Public Domain Day” - January 1, 2019 - this project recognizes a moment of “unclosure,” when individual intellectual property rights for materials published in the United States through 1923 reverted to public ownership. As part of its mandate to reintroduce the public domain, this project seeks to inform the general public about its rights to access, use, and publish public-domain works. We believe the cultural commons is increasingly enclosed not just by expanded copyright terms, but by a lack of awareness around copyright law. By providing both legal and logistical tutorials for each of our projects, we aim to empower students, teachers, scholars, and creators to participate in the public domain—and to release their own works back into it.
 
-On the practical side of things, the collection is so well known that we knew we could rely on major digital archives like [Project Gutenberg][7] and [HathiTrust][8] to provide immediate access to the work once it was in the public domain. As such, we would have a complete digital edition to work from as a starting point for our own project. Similarly, the work’s fame meant that we felt free from the obligation to make an intervention from a literary studies perspective, instead focusing our efforts on public-domain awareness. In addition, _New Hampshire_ provides raw material at a scale that accommodates a variety of DH projects: it can be studied at the level of the character (typeface), short poem (translation), long poem (annotation), or even the whole collection (text mining).
+For legal scholars such as James Boyle, the public domain is a necessary counterpoint to the increasingly restrictive reach of US intellectual property laws intent on fencing off the cultural commons. While we share this enthusiasm for resisting the “second enclosure movement,” the media buzz around Public Domain Day 2019 also led us to question how “common” our cultural commons really are. Cultural historian Siva Vaidhyanathan argues the intellectual property laws that confer unique status upon the public domain are informed by “a legal framework drawn up by British noblemen three centuries ago” (Vaidhyanathan 2001, 4). Furthermore, the list of “notable works” that receive attention when a new batch of materials enter the public domain are often canonical texts whose increased circulation may actually reproduce the epistemological and discursive violence of coloniality, rather than contest it. 
 
-Most crucially, however, the collection has a rather emblematic history when it comes to copyright and the public domain. Frost himself certainly engaged the cultural commons—for instance, his inclusion of “Notes” and “Grace Notes” sections in _New Hampshire_ parodies the Notes section of T.S. Eliot’s _The Waste Land_, published the previous year in 1922 (_The Robert Frost Encyclopedia_ 230). Long after the author’s death, _New Hampshire_’s copyright was vigorously defended by Frost’s estate and publisher, Henry Holt Inc., which [famously shut down][9] composer Eric Whitacre’s choral work set to the collection’s most famous poem, “Stopping by Woods on a Snowy Evening.” All the while, that poem [has circulated widely][10] through American culture, from English textbooks to John F. Kennedy’s campaign speeches. Now, it is entirely free to read, reuse, and reinterpret. To us, _New Hampshire_  exemplifies the life cycle of cultural production: even if it is codified in law as intellectual property for a time, it begins and ends with the commons.
+When a work is released into the public domain, it is by no means certain that the public will in fact have access to “the benefits derived from the authors’ labors.” Though organizations like [Google Books](https://books.google.com/) and [HathiTrust](https://www.hathitrust.org/) have made large-scale efforts to provide online access to newly public-domain works, plenty of other public domain works remain undigitized. In addition, many public-domain works are hidden behind paywalls or buried in proprietary databases—such as the government documents digitized by LexisNexis—such that nominally “free” works are not meaningfully free at all. Without diminishing the monetary and cultural value added to these free works by such information structures, *Unclosure* envisions a cultural commons enriched by direct access to public domain works in digital space.
 
-***
+In both the enclosure of land and the dedication of cultural production to the “public” there are implicit assumptions about who the possible beneficiaries are. It is no coincidence, for example, that the Disney corporation has shaped both the history of copyright in this country and benefited enormously from works that have entered the public domain. Similarly, within the digital humanities there has historically been an implicit assumption that putting something online is akin to making it accessible to a broad public. We have attempted to address these oversights and inequities in our methods throughout.
 
-# **How to Cite**
+Our mandate to create a digital humanities project intervening in the public domain left us with two questions: what does it mean for work to shed its copyright status? And how do we engage with or “reintroduce” the public domain digitally? We decided to focus on a single text published in 1923 and use it as a case study for educating instructors, scholars, and the general public about the different things they can do with public domain materials. We also wanted to offer several example projects to spark ideas for reimagining this old-but-new corpus of literature, art, music and film. We wanted to make our own learning transparent and available to others. As you can see, each of our example projects includes a tutorial describing how we made it, as well as thoughts about how instructors could incorporate such projects into the classroom. Perhaps the best way to sum up the project is as a big pedagogical experiment.
+
+*Unclosure* continues arguing that the public domain constitutes a public good. However, we also realize that public domain works in the United States date back to 1923 or before and reflect the culture(s) of their time. As works enter the public domain, they do so laden with assumptions about race, gender, and class nearly a century old. We do not indict these works for having been created in the past, yet we also do not want to bring these historical perspectives into the present unquestioned. We realized that *Unclosure* would have to instruct the public about more than their right to use public domain materials: it must also educate them about doing so thoughtfully, responsibly, and ethically. The public domain is about renewed circulation, but it also demands that we think about how works circulate, who can circulate, and what political and social injustices might be reinscribed by doing so. 
+
+We wanted to create a project using only open-source software and texts readily available to the public. Using Robert Frost allowed us to question how “common” our cultural commons really are. *Unclosure* offers tutorials at the level of the character (typeface), short poem (translation), long poem (storymap and sound), or even the whole collection (text mining). These tutorials provide introductory materials to digital approaches which could be relevant to a wide range of disciplines. They assume no prior knowledge or experience, but mean to introduce fundamental skills and critical issues in digital humanities. It should be noted that we are not literature scholars. So we will not, for example, be examining in great detail how poetry in particular raises unique questions for digital humanities work. Hopefully our tutorials will offer other scholars equipped for that work the tools necessary to intervene in those areas better than we could.
+
+## Why _New Hampshire_?
+
+*New Hampshire* has a particularly emblematic history when it comes to copyright and the public domain. It is an iconic collection featuring some of Frost's most famous poems, such as “Stopping by Woods on a Snowy Evening” and “Fire and Ice.” In writing the title poem, he drew from the cultural commons, parodying T.S. Eliot’s *The Waste Land* in his use of excessive footnotes (Tuten and Zubizarreta 2000, 230). In 1924, the collection won him the Pulitzer Prize in Poetry and he then went on to serve as Poet Laureate for Vermont. The success of *New Hampshire* led Frost’s estate and publisher to [vigorously defended its copyright](https://ericwhitacre.com/music-catalog/sleep), even as the poems circulated widely through American culture from English textbooks to John F. Kennedy’s campaign speeches. Now, the first edition with its original font and woodcut images is entirely free to read, reuse, and reinterpret, exemplifying the life cycle of cultural production which begins and ends with the commons. But how common is the commons? 
+
+In the weeks leading up to Public Domain Day, [several newspapers and websites released cherry-picked lists](http://unclosure.scholarslab.org/Resources/) of what they thought were the most notable works entering the public domain. Time and time again, they cited Frost’s *New Hampshire* (1923) as an example of a classic work that would soon shed its copyright restrictions. Rather than focusing on the historical ways in which Frost has been canonized, we saw the potential to explore how public-domain status could foster interventions in the canonical status of *New Hampshire*. Rather than contesting the epistemological and discursive violence of coloniality, the increased circulation of New Hampshire and other such canonical texts may actually reproduce it. In her critique of digital humanities’ tendency to privilege the epistemologies and ontologies of the Global North, Roopika Risam proposes that we incorporate decolonial “intellectual moves” to center “that which has traditionally been relegated to the position of subaltern in dominant narratives” (Risam 2018, 84). Such gestures could be grounded in what decolonial theorists Walter Mignolo and Madina Tlostanova call “border thinking,” which they define as an “epistemology of exteriority:” a way of thinking that responds to coloniality by denying the epistemic privilege traditionally assigned to Euro-American paradigms, drawing instead from indigenous, subaltern and other historically-excluded modes of thought (Mignolo and Tlostanova 2006, 206). 
+
+In the process of asking what can be done with a work like *New Hampshire*, we have tried to engage in our own small acts of border thinking. Frost’s poetry portrays a colonized, Euro-American landscape antithetical to the ideals of inclusivity, equal access, and hybridity underlying discourses of the “cultural commons.” Poems such as “The Gift Outright,” which Frost recited at President Kennedy’s inauguration, suggest that colonists only needed to overthrow English oppressors in order to possess the land. Native people are absent in Frost’s vision of what would become the northeastern United States, their own claims to their homelands unmentioned. When Frost does acknowledge the region’s indigenous peoples, he perpetuates the myth of the “vanishing Indian,” the idea that natives were doomed to perish rather than capable of surviving and adapting while preserving their cultures. In “The Vanishing Red,” Frost chronicles the grizzly murder of “the last Red Man in Acton [Massachusetts]” at the hands of a Euro-American miller. For the poetic speaker, this murder embodies the centuries-long conflict between natives and settlers. The death of “the last Red Man” signals the “inevitable” disappearance of native peoples from a colonized land. It is no wonder that Frost’s poetry is not well received in contemporary Abenaki communities.
+
+Long before European settlers called the place “New Hampshire,” it comprised part of *W8banaki*, the Dawnland (Bruchac and Joubert 2019, 343). This traditional homeland of Abenaki peoples spans from Lake Champlain to the coast of central Maine, and from the St. Lawrence River to northern Massachusetts. The Abenaki comprise sovereign peoples throughout New England, including the following bands and tribes: [The Cowassuck Band of the Penacook Abenaki People](http://www.cowasuck.org/), [The Elnu Abenaki Tribe](http://elnuabenakitribe.org/), [Koasek (Cowasuck) Traditional Band of the Sovereign Abenaki Nation](http://koasek-abenaki.com/), [Abenaki Nation of Missisquoi - St. Francis/Sokoki Band](https://www.abenakination.com/), and the [Nulhegan Band of Coosuck Abenaki Nation](https://abenakitribe.org/). Although Abenaki peoples have inhabited their lands for over 10,000 years, they are conspicuously absent from Robert Frost’s *New Hampshire*.
+
+## Whose domain?
+
+Abenaki peoples refer to their homeland as *nd’akinna*. The Abenaki historian Lisa Brooks explains the unique linguistic features of the Abenaki language as well as its political implications for indigenous peoples: 
+
+> "In the Abenaki language, as with many indigenous languages on this continent, the pronoun *we* (and its possessive form) is always inclusive ('kiona') or exclusive ('niona'), and thus specificity is built into the very structure of language. In the twenty-first century, as indigenous methodologies are moving into spaces from which they were previously excluded, these concepts may help 'us' to be more aware of the ways in which 'we' build a more inclusive or exclusive process of ôjmowôgan, the collective activity of (telling) history." (Lisa Brooks 2018, 266)
+
+As such the use of the exclusive plural possessive pronon *n* in *nd’akinna* means, “our land,” but distinguishes between those speaking (who possess the land) and those listening (who do not). *Nd’akinna*, then, is not the word that we non-native settlers sought to use in speaking about Abenaki homelands. Instead, the appropriate construction is *wd’akiw8*, “their land,” which distinguishes between those speaking (we, who do not possess the land) and those who it belongs to. This linguistic distinction demands we consider whose land we seek to discuss as well as the appropriate way to discuss it. Crucially, it also reminds us about the clear distinction between speakers and listeners - and that one of our main responsibilities in this project was listening to the indigenous voices that *New Hampshire* neglects.
+
+Native scholars have argued that although indigenous peoples remain in their homelands, Euro-American colonizers have tried removing them from the history of those places. The Western Abenaki anthropologist Marge Bruchac calls this process “historical erasure.” She argues that, during the nineteenth century, local antiquarians, geologists, and zoologists marginalized native oral traditions and knowledges of peoples inhabiting the Connecticut River Valley in present-day New England. Despite the survival of the region’s indigenous peoples, scholars cast them as “‘unreal’ remnants of the Native past,” believing all “real Indians” had vanished centuries earlier (Bruchac 2007, vii). The Ojibwe historian Jean O’Brien similarly traces the process by which colonizers wrote indigenous peoples out of their own lands. In her book, *Firsting and Lasting: Writing Indians out of Existence in New England*, O’Brien argues that, during the nineteenth and early twentieth-century, amateur scholars across New England wrote town histories that celebrated the “first” arrival of European colonists while claiming to chronicle the disappearance of the area’s “last” indigenous inhabitants. While colonization wrought physical violence against native peoples, colonists consolidated their claim over native homelands through the “histories” they wrote about them.
+
+However, Abenaki and other indigenous peoples have long used writing to lay claim to their lands, assert their identities, and express their cultures. The Abenaki word for the noun that English-speakers call “writing” is *awikhigan*. Lisa Brooks explains that in, “the Abenaki language, *awikhigan* first described birch-bark maps and scrolls, but it has come to include petitions, letters, maps, drawings, and especially books” (Brooks 2018, 262). Capacious in its forms, *awikhigan* is also intimately related to space. Brooks argues that, since long before colonization, *awikhigan* has conveyed “the relationships between people, between places, between nonhumans, between the waterways that joined them.” The stories recorded on these *awikhigan* “would even connect people with their relations across time, bringing the past, present, and future into the same space” (Brooks 2008, 12).
+
+A vibrant community of Abenaki poets, authors, storytellers, artists, language specialists, and other culture carriers continues both transmitting their peoples’ ancient knowledges and contributing new threads to their culture. In our effort to learn by listening to Abenaki voices, we drew from several centuries of Abenaki literature starting with [*Dawnland Voices: An Anthology of Indigenous Writing from New England*](https://www.nebraskapress.unl.edu/nebraska/9780803246867/), edited by Siobhan Senier in coordination with eleven tribal editors. The anthology contains writings from the centuries before colonization to the present day by indigenous inhabitants of present-day Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut This collection of writing complements the oral traditions of Abenaki people while suggesting the diversity of native voices that come from the Northeast.
+
+Since its publication in 2014, *Dawnland Voices* has continued online as a digital magazine, [Dawnland Voices 2.0: Indigenous Writing from New England and the Northeast](https://dawnlandvoices.org/). In the spirit of the *awikhigan* Lisa Brooks describes, Dawnland Voices 2.0 has featured writing in the forms of poems, essays, stories, memorials, reflections, photographs, nonfiction pieces, baskets, and letters. In [a recent issue](https://dawnlandvoices.org/indigenous-editing-and-the-gathering-place/), the editors describe Dawnland Voices 2.0 and the editing process by which they create it “as a kind of gathering place -- where community members come together, exchange ideas, are fed and sustained, and in turn sustain others,” (Dawnland Voices, January 2019). The two Dawnland Voices projects speak to the thriving Abenaki literary community gathered throughout *wd’akiw8* and across the country. 
+
+*Unclosure* drew inspiration from several *awikhiganal* from this community. In her poem “Looking for Indians,” the Pulitzer-prize-nominated poet [Cheryl Savageau](https://dawnlandvoices.org/abenaki-poet-cheryl-savageau/) recounts the night when she learned she was Abenaki, her father revealing on an old atlas her people’s homeland, now called “Vermont,” “New Hampshire,” “Maine,” “Massachusetts,” and “Quebec,” but soon known to her as *nd’akinna*. In “Pemigewasset,” Savageau describes her deep connection with the river valleys where her ancestors long dwelled, as well as the kinship ties linking her with other Abenaki peoples from across *wd’akiw8*. In addition to poems capturing her own sense of belonging in her ancestral homelands, the poet [Carol Bachofner](https://carolbachofner.com/) reflects on the “Land Sickness” that occurs when indigenous peoples are separated from their homes. In his prolific career, [Joseph Bruchac](http://josephbruchac.com/) reminds his readers of the vital connection between these homelands and the stories that shape indigenous identities - as well as the proper protocols for telling and hearing those stories.
+
+These *awikhiganal* encouraged us to imagine Abenaki country rather than Robert Frost’s *New Hampshire*. In order to do so, we realized that we not only needed to listen but also to engage Abenaki voices on our project. To solicit collaboration, we reached out to the editors of Dawnland Voices 2.0, excited to invite those active at the digital gathering place. Siobhan Senier generously have her advice during video call and reached out on our behalf to the Dawnland Voices community and New Hampshire Indigenous People’s Collaborative Collective. Unfortunately, members of these communities were unavailable to participate, but we forged ahead unwittingly because our own project deadline was the end the academic calendar. 
+
+In early April, the Praxis team presented a work-in-progress version of *Unclosure* at the “Decolonizing the Digital Humanities: Indigenous Arts, Histories, and Knowledges from the Material to the Screen,” held at the University of Virginia. During a roundtable discussion, conference participants offered valuable feedback about how to improve our project. The keynote speaker, Marge Bruchac, shared critical perspectives at a crucial moment that helped us learn by listening. 
+
+As part of the the translation project, Chris Whitehead translated one of Frost’s poems into Western Abenaki. He chose to translate “Plowmen” because it offered a chance to reveal the fundamental differences between how Abenaki and Euro-American peoples relate to the land. The very title, “Plowmen,” is difficult to translate into Western Abenaki because, over centuries, Abenaki people have developed methods of working the land that do not use plows. Moreover, Abenaki women rather than men have worked the land to furnish their families and kin with food. Chris is still very much a beginning learner of Western Abenaki, and benefited from the generous help of a more experienced speaker in the Western Abenaki-Abenaquis de l’Ouest Facebook group of language learners. 
+
+Similarly, the storymap project was envisioned as a digital *awikhigan*. We sought to place Frost’s *New Hampshire* in the cartographic space of *wd’akiw8*, thereby recasting Frost’s notions of literacy and place in indigenous terms. Readers would experience the written word as a physical places marked with Western Abenaki place-names. Atop this map, pop-out annotations would provide the historical context about how Euro-Americans colonized “New Hampshire.”
+
+We also hoped to feature written and sonic examples of Abenaki poetry in response to the poetry by Frost. When it became clear that this collaboration would not be possible within the time that we had, we designed an alternative intervention. We recorded the voices of local students at Western Albemarle High School and superimposed them over Frost’s text to demonstrate the potential of intermingling audio and text in digital projects to create new amplified or layered meanings. 
+
+Professor Bruchac cautioned us that one of the poems we selected for the storymap and sound projects, “The Witch of Coös,” can be read as an act of violence against native women. To broadcast it to our audience - even with the intention of interrogating and contextualizing it - would perpetuate that violence. Moreover, publishing a translation of “Plowmen” into Western Abenaki without consulting the appropriate language experts risked subverting [ongoing efforts by Abenaki leaders to preserve and teach their language](http://westernabenaki.com/). To publish *Unclosure* in its work-in-progress state risked undermining the project’s intention: in attempting decolonization, it would become an act of recolonization. As a result of this critical feedback, we ultimately decided to include variations of these projects in *Unclosure* that would not perpetrate this unintended violence. 
+
+We learned that to achieve our initial goal of reimagining Frost’s *New Hampshire* as *wd’akiw8*/*nd’akinna* would have required true collaboration. And collaboration needed time and resources beyond the scope of the Praxis Program and theacademic semester. Crucially, it entails conversations at the very beginning of the process, before arriving upon a project’s vision or setting its plan in place. We invite others interested in *Unclosure’s* mission to pick up where we left off. In addition to her thoughts on our work-in-progress website, Professor Bruchac also envisioned a path forward. She suggested casting a wide net among Abenaki communities by holding a town hall event at the [Kearsarge Indian Museum](https://www.indianmuseum.org/), another gathering place for Abenaki peoples. From that town hall, a new project could emerge.
+
+Although *Unclosure* took a different form than we had initially envisioned, we hope it still inspires you to take a fresh look at materials that now belong to all of us. Most importantly, we hope it helps you appreciate the responsibility we all have in creating a more open, respectful, and ethical public domain.
+
+## How to Cite
 
 This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
 
-<p><em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
-var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
-var mm = today.toLocaleString('en-us', { month: 'long' }); 
-var yyyy = today.getFullYear();
+- *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab. [http://unclosure.scholarslab.org](http://unclosure.scholarslab.org). Date of access.
 
-today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
-document.write(today);
-</script>
-</p>
+ And, if your style guide requires author names, then we suggest:
 
-And, if your style guide insists on author names, then we suggest:
-
-<p>Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. <em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
-var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
-var mm = today.toLocaleString('en-us', { month: 'long' }); 
-var yyyy = today.getFullYear();
-
-today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
-document.write(today);
-</script>
-</p>
-
-You will normally also need to give the date on which you accessed the site.
-
-# **Questions?**
-
-Please contact [ScholarsLab@virginia.edu](ScholarsLab@virginia.edu) for feedback and questions.
+- Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program, University of Virginia Library, Scholars’ Lab. [http://unclosure.scholarslab.org](http://unclosure.scholarslab.org). Date of access.
 
 
 
+## Questions?
 
+Please contact [ScholarsLab@virginia.edu](mailto:ScholarsLab@Virginia.edu) for feedback and questions.
 
+ 
 
-Things to add:
-- Address up front in the project narrative the fact that Robert Frost doesn’t have positive connotations for most Abenaki people (cf. conversation w/Siobhan Senier). Like even if you don’t do “Vanishing Red” you have to address it in your introduction.
-- Lankes’ woodcuts present an uninhabited landscape so always make sure to present the image critically. (Use Francis Jennings’ idea of New England as “virgin land” vs. “widowed land”?)
-- Playing around with idea of “domain” (etymology of dominion), coming from physical space, and our project is about physical space (NH, maps) in a way.
-- As we wrote in our [project charter][11], we seek to think critically about the “public domain”:
-	- Public: which public? Who benefits from accessibility? Who is harmed? Also, something about being funded/hosted by a public institution
-	- Domain: something abt colonialism
-	- What resources are needed to access this project? Can we reduce those barriers? Should we?
-- Address project sustainability: questions will stand, but tools / even law will change
+## Works Cited
 
-[1]:	https://en.wikipedia.org/wiki/Enclosure
-[2]:	https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1273&context=lcp
-[3]:	https://en.wikipedia.org/wiki/Statute_of_Anne
-[4]:	https://www.law.cornell.edu/supct/html/01-618.ZD1.html
-[5]:	https://books.google.com
-[6]:	https://www.hathitrust.org/
-[7]:	https://www.gutenberg.org/ebooks/58611
-[8]:	https://babel.hathitrust.org/cgi/pt?id=uc1.32106002108873;view=1up;seq=9
-[9]:	https://ericwhitacre.com/music-catalog/sleep
-[10]:	https://www.washingtonpost.com/history/2019/01/01/robert-frost-wrote-this-masterpiece-about-minutes-it-belongs-all-us-now/?noredirect=on&utm_term=.d599f4c5b4b1
-[11]:	http://praxis.scholarslab.org/charter/charter-2018-2019/
+Bachofner, Carol W. 2011. *I Write in the Greenhouse: Poems*. Rockland, Me.: Front Porch Editions.
+
+Bachofner, Carol W. 2012. *Native Moons, Native Days: Poems*. Greenfield Center, N.Y.: Bowman Books.
+
+Brooks, Lisa. “Awikhigawôgan Ta Pildowi Ôjmowôgan: Mapping a New History.” *The William and Mary Quarterly* 75, no. 2 (2018): 259–94.
+
+Brooks, Lisa. 2018. *Our Beloved Kin: A New History of King Philip’s War*. New Haven, CT: Yale University Press.
+
+Brooks, Lisa. 2008. *The Common Pot: The Recovery of Native Space in the Northeast*. Minneapolis, MN: University of Minnesota Press.
+
+Bruchac, Jesse and Joseph Joubert. 2019. *Abenaki Dictionary: Abenaki-English*. Greenfield Center, NY: Bowman Books.
+
+Bruchac, Joseph. 1989. *Return of the Sun: Native American Tales from the Northeast Woodlands*. Freedom, CA: Crossing Press.
+
+Bruchac, Margaret M. 2007. “Historical Erasure and Cultural Recovery:  Indigenous People in the Connecticut River Valley.” Ph.D. Dissertation, University of Massachusetts Amherst.[ ](http://search.proquest.com.proxy.its.virginia.edu/pqdtglobal/docview/304849021/abstract/3D25C9E201384DA2PQ/3)
+
+Laurent, Joseph. 1884. *New familiar Abenakis and English dialogues: the first vocabulary ever published in the Abenakis language, comprising The Abenakis alphabet, the Key to the pronunciation, and many grammatical explanations, also synoptical illustrations showing the numerous modifications of the Abenakis verb, &c., to which is added the Etymology of Indian names of certain localities, rivers, lakes, &c., &c.* Quebec: Leger Brousseau.
+
+Mignolo, Walter and Madina Tlostanova. 2006. “Theorizing from the Borders: Shifting to Geo- and Body-Politics of Knowledge,” *European Journal of Social Theory* 9, no. 2: 205-221.
+
+O’Brien, Jean M. 2010. *Firsting and Lasting: Writing Indians out of Existence in New England*. Minneapolis: University of Minnesota Press.
+
+Povinelli, Elizabeth A. “The Woman on the Other Side of the Wall: Archiving the Otherwise in Postcolonial Digital Archives.” *differences* 22, no. 1. 2011.
+
+Risam, Roopika. 2018. “Decolonizing The Digital Humanities In Theory And Practice,” *Salem State University English Faculty Publications* 7. <https://digitalcommons.salemstate.edu/cgi/viewcontent.cgi?article=1006&context=english_facpub>
+
+Risam, Roopika. *New Digital Worlds: Postcolonial Digital Humanities In Theory, Praxis, and Pedagogy*. Evanston, Illinois: Northwestern University Press, 2019. 
+
+Savageau, Cheryl. 1995. *Dirt Road Home: Poems*. Willimantic, CT: Curbstone Press.
+
+Savageau, Cheryl. 1992. *Home Country*. Cambridge, MA: Alice James Books
+
+Savageau, Cheryl. 2006.  *Mother/Land*. Cambridge, England: Salt.
+
+Senier, Siobhan. “‘All This / Is Abenaki Country’: Cheryl Savageau’s Poetic Awikhiganak.” *Studies in American Indian Literatures* 22, no. 3 (2010): 1–25.[ https://doi.org/10.5250/studamerindilite.22.3.0001](https://doi.org/10.5250/studamerindilite.22.3.0001).
+
+Senier, Siobhan, ed. 2014. *Dawnland Voices: An Anthology of Indigenous Writing from New England*. Lincoln, Nebraska: University of Nebraska Press.
+
+The Nimble Tents Toolkit. Accessed April 27, 2019. https://nimbletents.github.io/people/.
+
+Vaidhyanathan, Siva. 2001. *Copyrights and Copywrongs: The Rise of Intellectual Property and How it Threatens Creativity*. New York: New York University Press.
+
+ 
+
+ 
+
+ 

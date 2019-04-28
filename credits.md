@@ -3,14 +3,16 @@ layout: page
 title: Credits
 order: 4
 ---
-*Unclosure: An Act for the Encouragement of Learning* was created by the University of Virginia’s 2018-2019 Praxis cohort. The [Praxis Program](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/) is housed within [UVa’s Scholars’ Lab](https://scholarslab.lib.virginia.edu/), one of the university’s hubs of digital humanities. Each year, the Scholars’ Lab funds six doctoral students from across the Graduate School of Arts & Sciences to serve as Praxis Fellows for the academic year. During the fall semester, Fellows receive immersive training in digital methods and tools as well as in collaborative project management. During the spring semester, Fellows conceive, design, build, and publish a digital project. This year, the Scholars’ Lab charged the Praxis team with creating a digital project “reintroducing” the public domain.
 
 # **Credits**
+
+*Unclosure: An Act for the Encouragement of Learning* was created by the University of Virginia’s 2018-2019 Praxis cohort. The [Praxis Program](https://scholarslab.lib.virginia.edu/praxis-program-fellowships/) is housed within [UVa’s Scholars’ Lab](https://scholarslab.lib.virginia.edu/), one of the university’s hubs of digital humanities. Each year, the Scholars’ Lab funds six doctoral students from across the Graduate School of Arts & Sciences to serve as Praxis Fellows for the academic year. During the fall semester, Fellows receive immersive training in digital methods and tools as well as in collaborative project management. During the spring semester, Fellows conceive, design, build, and publish a digital project. This year, the Scholars’ Lab charged the Praxis team with creating a digital project “reintroducing” the public domain.
+
 
 The 2018–2019 [Praxis][1] Fellows are:
 - [Catherine Addington][2], who worked on the [typeface](http://unclosure.scholarslab.org/texts/Typeface/) and [translation](http://unclosure.scholarslab.org/texts/Teaching%20Translation%20with%20the%20Public%20Domain/)
 - [Zhiqiu (Cho) Jiang][3], who worked on [text mining]({{ site.baseurl }}/texts/q-text-mining/)
-- [Emily Mellen][4], who worked on sound* and [translation]({{ site.baseurl }}/texts/translation/)
+- [Emily Mellen][4], who worked on [sound]({{ site.baseurl }}/texts/sound/)* and [translation]({{ site.baseurl }}/texts/Italian_translation/)
 - [Eleanore Neumann][5], who worked on the [storymap]({{ site.baseurl }}/texts/storymap/)
 - [Mathilda Shepard][6], who worked on the [website]({{ site.baseurl }}/) and the [about page]({{ site.baseurl }}/texts/About/)
 - [Chris Whitehead][7], who worked on translation, annotation*, and the [about page]({{ site.baseurl }}/texts/About)
@@ -45,9 +47,6 @@ We also thank those who assisted with each intervention. In addition to those me
 
 This site was built using the [Ed.][46] theme for [Jekyll][47]. The "unlock" icon was designed by [Freepik][48] from [Flaticon][49].
 
-## How to Cite
-
-This project is the product of intense and ongoing collaboration.
 
 [1]:	http://praxis.scholarslab.org/
 [2]:	http://spanitalport.as.virginia.edu/people/profile/ca2bb
