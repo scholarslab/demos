@@ -14,6 +14,11 @@
     font-weight: 600;
 }
 
+.storymap-main a[href^="#A"]{
+    color: green !important;
+    font-weight: 600;
+}
+
 h1.text-title {
     font-size: 2rem !important;
     text-transform: uppercase;
