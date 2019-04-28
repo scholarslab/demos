@@ -69,7 +69,7 @@ Although *Unclosure* took a different form than we had initially envisioned, we 
 
 This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
 
-<p><em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://scholarslab.lib.virginia.edu. <script>
+<p><em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
 var today = new Date();
 var dd = String(today.getDate()).padStart(2, '0');
 var mm = today.toLocaleString('en-us', { month: 'long' }); 
@@ -82,7 +82,7 @@ document.write(today);
 
 And, if your style guide insists on author names, then we suggest:
 
-<p>Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. <em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://scholarslab.lib.virginia.edu. <script>
+<p>Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. <em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
 var today = new Date();
 var dd = String(today.getDate()).padStart(2, '0');
 var mm = today.toLocaleString('en-us', { month: 'long' }); 
