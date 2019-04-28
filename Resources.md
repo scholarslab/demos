@@ -6,13 +6,15 @@ order: 3
 
 # Public Domain Resources
 
-## Digital Repositories and Lists
+## Digital Repositories and Lists of Works
 
 [Google Books](<https://books.google.com/>)
 
 [HathiTrust Digital Library](<https://www.hathitrust.org/>)
 
 [Internet Archive](<https://archive.org/>)
+
+[“Public Domain Day.” Association of Research Libraries. Accessed April 28, 2019.](https://www.arl.org/publications-resources/4698-public-domain-day#.XL4h6RMbPOR)
 
 [“Public Domain Day 2019.” Center for the Study of the Public Domain, Duke University School of Law.](<https://law.duke.edu/cspd/publicdomainday/2019/>)
 
@@ -33,6 +35,8 @@ order: 3
 [Siva Vaidhyanathan, *The Anarchist in the Library: How the Clash Between Freedom and Control Is Hacking the Real World and Crashing the System*](<https://books.google.com/books?id=xNk6xpKcAsEC&pg=PR3&lpg=PR3&dq=The+Anarchist+in+the+Library:+How+the+Clash+Between+Freedom+and+Control+Is+Hacking+the+Real+World+and+Crashing+the+System&source=bl&ots=Zf1BEsaWYp&sig=ACfU3U1v2YFUo-tX7VLGVqyLabRHZmSAnw&hl=es&sa=X&ved=2ahUKEwjF_cD49NnhAhXHrFkKHQFUAWAQ6AEwCXoECAkQAQ#v=onepage&q=The%20Anarchist%20in%20the%20Library%3A%20How%20the%20Clash%20Between%20Freedom%20and%20Control%20Is%20Hacking%20the%20Real%20World%20and%20Crashing%20the%20System&f=false>), [*Copyrights and Copywrongs: The Rise of Intellectual Property and How it Threatens Creativity*](<https://books.google.com/books/about/Copyrights_and_Copywrongs.html?id=sGjSY0rRC_wC>), and [*Intellectual Property: A Very Short Introduction*](<http://www.veryshortintroductions.com/view/10.1093/actrade/9780195372779.001.0001/actrade-9780195372779>)  
 
 ## Information on Copyright and Fair Use
+
+[Association of Research Libraries Copyright & IP](https://www.arl.org/focus-areas/copyright-ip#)
 
 [Cornell University Library Copyright Information Center](<https://copyright.cornell.edu/>)
 
