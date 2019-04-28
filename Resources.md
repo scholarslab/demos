@@ -4,7 +4,7 @@ title: Resources
 order: 3
 ---
 
-# Resources
+# **Resources**
 
 ## How to Intervene in the Public Domain
 
