@@ -3,24 +3,21 @@ layout: page
 title: About Unclosure
 order: 1
 ---
-# **About Unclosure, or Thoughtful Engagement with the Public Domain**
-<br/>
-On January 1, 2019, material published in the United States in 1923 [entered the public domain](https://law.duke.edu/cspd/publicdomainday/2019/)after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music from 1923 newly released into the public domain is Robert Frost’s [*New Hampshire*](https://babel.hathitrust.org/cgi/pt?id=uc1.32106002108873;view=2up;seq=1), the collection of poetry that won him a Pulitzer Prize the following year.
+# About Unclosure, or Thoughtful Engagement with the Public Domain
+On January 1, 2019, material published in the United States in 1923 [entered the public domain](https://law.duke.edu/cspd/publicdomainday/2019/) after a twenty-year delay due to the extension of copyright terms by Congress. Among the many works of art, film, literature, and music from 1923 newly released into the public domain is Robert Frost’s [*New Hampshire*](https://babel.hathitrust.org/cgi/pt?id=uc1.32106002108873;view=2up;seq=1), the collection of poetry that won him a Pulitzer Prize the following year.
 
-Using *New Hampshire* as our raw material, *Unclosure*seeks to explore the possibilities that the public domain holds for research, pedagogy, and play. On this website, you can view a series of projects based on material from *New Hampshire*, each accompanied by a tutorial that will walk you through the copyright rules and digital tools you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower scholars, teachers, and members of the general public to engage the variety of public-domain material now widely available online. 
+Using *New Hampshire* as our raw material, *Unclosure* seeks to explore the possibilities that the public domain holds for research, pedagogy, and play. On this website, you can view a series of projects based on material from *New Hampshire*, each accompanied by a tutorial that will walk you through the copyright rules and digital tools you would need to replicate or remix the project on your own. As we believe that the cultural commons should be protected and expanded, we hope this exploration will empower scholars, teachers, and members of the general public to engage the variety of public-domain material now widely available online. 
 
-**What is the Public Domain?**
+## What is the Public Domain?
 
-Author and cultural critic Lewis Hyde has described the public domain as “the great and ancient storehouse of human innovation” (Hyde 2012, 34). Works of literature, art, sheet music, and film published or exhibited in the United States prior to 1924 now reside in the public domain. As those works are no longer under copyright, anyone could: 
+Author and cultural critic Lewis Hyde has described the public domain as “the great and ancient storehouse of human innovation” (Hyde 2012, 34). On January 1, 2019, a Congressional embargo expired and new material entered the public domain for the first time in over twenty years. Works of literature, art, sheet music, and film published or exhibited in the United States prior to 1924 now reside in the public domain. As those works are no longer under copyright, anyone could: 
 
 - Read an entire book online through a digital repository
 - Publish sheet music in print or online 
 - Screen a film or post it on YouTube
 - Reproduce an entire work of art in any medium
 
-On January 1, 2019, a Congressional embargo expired and new material entered the public domain for the first time in over twenty years. 
-
-The English [enclosure](https://en.wikipedia.org/wiki/Enclosure) movement, which fenced off common land for private use... Many scholars,including [James Boyle](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1273&context=lcp), have described the extension of U.S. copyright terms as a “Second Enclosure Movement,” similarly fencing off intellectual property as private at the expense of the cultural commons. Hyde explains that legal academics “continue to debate the wisdom and extent of cultural enclosure” (Hyde 2010, 57).  
+Our project title, _Unclosure_, plays on the English [enclosure](https://en.wikipedia.org/wiki/Enclosure) movement, which fenced off common land for private use. Many scholars, including [James Boyle](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1273&context=lcp), have described the extension of U.S. copyright terms as a “Second Enclosure Movement,” similarly fencing off intellectual property as private at the expense of the cultural commons. Hyde explains that legal academics “continue to debate the wisdom and extent of cultural enclosure” (Hyde 2010, 57).  
 
 We derived our subtitle, “An Act for the Encouragement of Learning,” from the Copyright Act of 1790, the United States’s first federal copyright law. During his [first State of the Union address](https://www.mountvernon.org/education/primary-sources/state-of-the-union-address/#-), President Washington encouraged Congress to exercise their Constitutional authority and craft a bill establishing the new nation’s copyright system, saying, “there is nothing, which can better deserve [its] patronage, than the promotion of Science and Literature.” Heeding Washington’s call, Congress quickly drafted and passed the Copyright Act of 1790. The law provided those who filed for copyrights a monopoly over their intellectual property for fourteen years, with the possibility of renewing the copyright for an additional fourteen years. After these twenty-eight years, however, all copyrighted work would belong to the public. Congress deemed it “An Act for the Encouragement of Learning” because that property would ultimately belong to and benefit the people of the United States. 
 
@@ -32,13 +29,13 @@ When a work is released into the public domain, it is by no means certain that t
 
 In both the enclosure of land and the dedication of cultural production to the “public” there are implicit assumptions about who the possible beneficiaries are. It is no coincidence, for example, that the Disney corporation has shaped both the history of copyright in this country and benefited enormously from works that have entered the public domain. Similarly, within the digital humanities there has historically been an implicit assumption that putting something online is akin to making it accessible to a broad public. We have attempted to address these oversights and inequities in our methods throughout.
 
-Our mandate left us with two questions: what does it mean for work to shed its copyright status? And how do we engage with or “reintroduce” the public domain digitally? We decided to focus on a single text published in 1923 and use it as a case study for educating instructors, scholars, and the general public about the different things they can do with public domain materials. We also wanted to offer several example projects to spark ideas for reimagining this old-but-new corpus of literature, art, music and film. We wanted to make our own learning transparent and available to others. As you can see, each of our example projects includes a tutorial describing how we made it, as well as thoughts about how instructors could incorporate such projects into the classroom. Perhaps the best way to sum up the project is as a big pedagogical experiment.
+Our mandate to create a digital humanities project intervening in the public domain left us with two questions: what does it mean for work to shed its copyright status? And how do we engage with or “reintroduce” the public domain digitally? We decided to focus on a single text published in 1923 and use it as a case study for educating instructors, scholars, and the general public about the different things they can do with public domain materials. We also wanted to offer several example projects to spark ideas for reimagining this old-but-new corpus of literature, art, music and film. We wanted to make our own learning transparent and available to others. As you can see, each of our example projects includes a tutorial describing how we made it, as well as thoughts about how instructors could incorporate such projects into the classroom. Perhaps the best way to sum up the project is as a big pedagogical experiment.
 
 *Unclosure* continues arguing that the public domain constitutes a public good. However, we also realize that public domain works in the United States date back to 1923 or before and reflect the culture(s) of their time. As works enter the public domain, they do so laden with assumptions about race, gender, and class nearly a century old. We do not indict these works for having been created in the past, yet we also do not want to bring these historical perspectives into the present unquestioned. We realized that *Unclosure* would have to instruct the public about more than their right to use public domain materials: it must also educate them about doing so thoughtfully, responsibly, and ethically. The public domain is about renewed circulation, but it also demands that we think about how works circulate, who can circulate, and what political and social injustices might be reinscribed by doing so. 
 
 We wanted to create a project using only open-source software and texts readily available to the public. Using Robert Frost allowed us to question how “common” our cultural commons really are. *Unclosure* offers tutorials at the level of the character (typeface), short poem (translation), long poem (storymap and sound), or even the whole collection (text mining). These tutorials provide introductory materials to digital approaches which could be relevant to a wide range of disciplines. They assume no prior knowledge or experience, but mean to introduce fundamental skills and critical issues in digital humanities. It should be noted that we are not literature scholars. So we will not, for example, be examining in great detail how poetry in particular raises unique questions for digital humanities work. Hopefully our tutorials will offer other scholars equipped for that work the tools necessary to intervene in those areas better than we could.
 
-**Why** ***New Hampshire*****?**
+## Why _New Hampshire_?
 
 *New Hampshire* has a particularly emblematic history when it comes to copyright and the public domain. It is an iconic collection featuring some of Frost's most famous poems, such as “Stopping by Woods on a Snowy Evening” and “Fire and Ice.” In writing the title poem, he drew from the cultural commons, parodying T.S. Eliot’s *The Waste Land* in his use of excessive footnotes (Tuten and Zubizarreta 2000, 230). In 1924, the collection won him the Pulitzer Prize in Poetry and he then went on to serve as Poet Laureate for Vermont. The success of *New Hampshire* led Frost’s estate and publisher to [vigorously defended its copyright](https://ericwhitacre.com/music-catalog/sleep), even as the poems circulated widely through American culture from English textbooks to John F. Kennedy’s campaign speeches. Now, the first edition with its original font and woodcut images is entirely free to read, reuse, and reinterpret, exemplifying the life cycle of cultural production which begins and ends with the commons. But how common is the commons? 
 
@@ -48,11 +45,11 @@ In the process of asking what can be done with a work like *New Hampshire*, we h
 
 Long before European settlers called the place “New Hampshire,” it comprised part of *W8banaki*, the Dawnland (Bruchac and Joubert 2019, 343). This traditional homeland of Abenaki peoples spans from Lake Champlain to the coast of central Maine, and from the St. Lawrence River to northern Massachusetts. The Abenaki comprise sovereign peoples throughout New England, including the following bands and tribes: [The Cowassuck Band of the Penacook Abenaki People](http://www.cowasuck.org/), [The Elnu Abenaki Tribe](http://elnuabenakitribe.org/), [Koasek (Cowasuck) Traditional Band of the Sovereign Abenaki Nation](http://koasek-abenaki.com/), [Abenaki Nation of Missisquoi - St. Francis/Sokoki Band](https://www.abenakination.com/), and the [Nulhegan Band of Coosuck Abenaki Nation](https://abenakitribe.org/). Although Abenaki peoples have inhabited their lands for over 10,000 years, they are conspicuously absent from Robert Frost’s *New Hampshire*.
 
-**Whose domain?**
+## Whose domain?
 
 Abenaki peoples refer to their homeland as *nd’akinna*. The Abenaki historian Lisa Brooks explains the unique linguistic features of the Abenaki language as well as its political implications for indigenous peoples: 
 
-"In the Abenaki language, as with many indigenous languages on this continent, the pronoun *we* (and its possessive form) is always inclusive ('kiona') or exclusive ('niona'), and thus specificity is built into the very structure of language. In the twenty-first century, as indigenous methodologies are moving into spaces from which they were previously excluded, these concepts may help 'us' to be more aware of the ways in which 'we' build a more inclusive or exclusive process of ôjmowôgan, the collective activity of (telling) history." (Lisa Brooks 2018, 266)
+> "In the Abenaki language, as with many indigenous languages on this continent, the pronoun *we* (and its possessive form) is always inclusive ('kiona') or exclusive ('niona'), and thus specificity is built into the very structure of language. In the twenty-first century, as indigenous methodologies are moving into spaces from which they were previously excluded, these concepts may help 'us' to be more aware of the ways in which 'we' build a more inclusive or exclusive process of ôjmowôgan, the collective activity of (telling) history." (Lisa Brooks 2018, 266)
 
 As such the use of the exclusive plural possessive pronon *n* in *nd’akinna* means, “our land,” but distinguishes between those speaking (who possess the land) and those listening (who do not). *Nd’akinna*, then, is not the word that we non-native settlers sought to use in speaking about Abenaki homelands. Instead, the appropriate construction is *wd’akiw8*, “their land,” which distinguishes between those speaking (we, who do not possess the land) and those who it belongs to. This linguistic distinction demands we consider whose land we seek to discuss as well as the appropriate way to discuss it. Crucially, it also reminds us about the clear distinction between speakers and listeners - and that one of our main responsibilities in this project was listening to the indigenous voices that *New Hampshire* neglects.
 
@@ -82,25 +79,25 @@ We learned that to achieve our initial goal of reimagining Frost’s *New Hampsh
 
 Although *Unclosure* took a different form than we had initially envisioned, we hope it still inspires you to take a fresh look at materials that now belong to all of us. Most importantly, we hope it helps you appreciate the responsibility we all have in creating a more open, respectful, and ethical public domain.
 
-**How to Cite**
+## How to Cite
 
 This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
 
-- *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab. <https://scholarslab.lib.virginia.edu/>. Accessed 29 April 2019.
+- *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab. [http://unclosure.scholarslab.org](http://unclosure.scholarslab.org). Date of access.
 
  And, if your style guide requires author names, then we suggest:
 
-- Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program, University of Virginia Library, Scholars’ Lab. <https://scholarslab.lib.virginia.edu/>. Accessed 29 April 2019.
+- Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program, University of Virginia Library, Scholars’ Lab. [http://unclosure.scholarslab.org](http://unclosure.scholarslab.org). Date of access.
 
 
 
-**Questions?**
+## Questions?
 
 Please contact [ScholarsLab@virginia.edu](mailto:ScholarsLab@Virginia.edu) for feedback and questions.
 
  
 
-**Works Cited**
+## Works Cited
 
 Bachofner, Carol W. 2011. *I Write in the Greenhouse: Poems*. Rockland, Me.: Front Porch Editions.
 
