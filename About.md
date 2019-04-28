@@ -78,6 +78,8 @@ We learned that to achieve our initial goal of reimagining Frost’s *New Hampsh
 
 Although *Unclosure* took a different form than we had initially envisioned, we hope it still inspires you to take a fresh look at materials that now belong to all of us. Most importantly, we hope it helps you appreciate the responsibility we all have in creating a more open, respectful, and ethical public domain.
 
+
+<br/>
 ## How to Cite
 
 This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
@@ -90,12 +92,14 @@ This project is the product of intense and ongoing collaboration. If your style 
 
 
 
+<br/>
 ## Questions?
 
-Please contact [ScholarsLab@virginia.edu](mailto:ScholarsLab@Virginia.edu) for feedback and questions.
+Please contact [ScholarsLab@Virginia.edu](mailto:ScholarsLab@Virginia.edu) for feedback and questions.
 
  
 
+<br/>
 ## Works Cited
 
 Bachofner, Carol W. 2011. *I Write in the Greenhouse: Poems*. Rockland, Me.: Front Porch Editions.
