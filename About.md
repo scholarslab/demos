@@ -69,11 +69,31 @@ Although *Unclosure* took a different form than we had initially envisioned, we 
 
 This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
 
-- *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab. [http://unclosure.scholarslab.org](http://unclosure.scholarslab.org). Date of access.
+<p><em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://scholarslab.lib.virginia.edu. <script>
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = today.toLocaleString('en-us', { month: 'long' }); 
+var yyyy = today.getFullYear();
 
- And, if your style guide requires author names, then we suggest:
+today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
+document.write(today);
+</script>
+</p>
 
-- Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. *Unclosure: An Act for the Encouragement of Learning*, version 1.0. Praxis Program, University of Virginia Library, Scholars’ Lab. [http://unclosure.scholarslab.org](http://unclosure.scholarslab.org). Date of access.
+And, if your style guide insists on author names, then we suggest:
+
+<p>Catherine Addington, Zhiqiu Jiang, Emily Mellen, Eleanore Neumann, Mathilda Shepard, Chris Whitehead. <em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://scholarslab.lib.virginia.edu. <script>
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = today.toLocaleString('en-us', { month: 'long' }); 
+var yyyy = today.getFullYear();
+
+today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
+document.write(today);
+</script>
+</p>
+
+You will normally also need to give the date on which you accessed the site.
 
 
 
