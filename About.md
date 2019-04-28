@@ -109,6 +109,8 @@ Bruchac, Joseph. 1989. *Return of the Sun: Native American Tales from the Northe
 
 Bruchac, Margaret M. 2007. “Historical Erasure and Cultural Recovery:  Indigenous People in the Connecticut River Valley.” Ph.D. Dissertation, University of Massachusetts Amherst.[ ](http://search.proquest.com.proxy.its.virginia.edu/pqdtglobal/docview/304849021/abstract/3D25C9E201384DA2PQ/3)
 
+Hyde, Lewis. *Common as Air: Revolution, Art, and Ownership*. London: Union Books, 2012.
+
 Laurent, Joseph. 1884. *New familiar Abenakis and English dialogues: the first vocabulary ever published in the Abenakis language, comprising The Abenakis alphabet, the Key to the pronunciation, and many grammatical explanations, also synoptical illustrations showing the numerous modifications of the Abenakis verb, &c., to which is added the Etymology of Indian names of certain localities, rivers, lakes, &c., &c.* Quebec: Leger Brousseau.
 
 Mignolo, Walter and Madina Tlostanova. 2006. “Theorizing from the Borders: Shifting to Geo- and Body-Politics of Knowledge,” *European Journal of Social Theory* 9, no. 2: 205-221.
@@ -117,7 +119,7 @@ O’Brien, Jean M. 2010. *Firsting and Lasting: Writing Indians out of Existence
 
 Povinelli, Elizabeth A. “The Woman on the Other Side of the Wall: Archiving the Otherwise in Postcolonial Digital Archives.” *differences* 22, no. 1. 2011.
 
-Risam, Roopika. 2018. “Decolonizing The Digital Humanities In Theory And Practice,” *Salem State University English Faculty Publications* 7. <https://digitalcommons.salemstate.edu/cgi/viewcontent.cgi?article=1006&context=english_facpub>
+[Risam, Roopika. 2018. “Decolonizing The Digital Humanities In Theory And Practice,” *Salem State University English Faculty Publications* 7.](https://digitalcommons.salemstate.edu/cgi/viewcontent.cgi?article=1006&context=english_facpub)
 
 Risam, Roopika. *New Digital Worlds: Postcolonial Digital Humanities In Theory, Praxis, and Pedagogy*. Evanston, Illinois: Northwestern University Press, 2019. 
 
@@ -127,7 +129,7 @@ Savageau, Cheryl. 1992. *Home Country*. Cambridge, MA: Alice James Books
 
 Savageau, Cheryl. 2006.  *Mother/Land*. Cambridge, England: Salt.
 
-Senier, Siobhan. “‘All This / Is Abenaki Country’: Cheryl Savageau’s Poetic Awikhiganak.” *Studies in American Indian Literatures* 22, no. 3 (2010): 1–25.[ https://doi.org/10.5250/studamerindilite.22.3.0001](https://doi.org/10.5250/studamerindilite.22.3.0001).
+[Senier, Siobhan. “‘All This / Is Abenaki Country’: Cheryl Savageau’s Poetic Awikhiganak.” *Studies in American Indian Literatures* 22, no. 3 (2010): 1–25.](https://doi.org/10.5250/studamerindilite.22.3.0001)
 
 Senier, Siobhan, ed. 2014. *Dawnland Voices: An Anthology of Indigenous Writing from New England*. Lincoln, Nebraska: University of Nebraska Press.
 
