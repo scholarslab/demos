@@ -13,7 +13,7 @@ The 2018–2019 [Praxis][1] Fellows are:
 - [Catherine Addington][2], who worked on the [typeface](http://unclosure.scholarslab.org/texts/Typeface/) and [translation](http://unclosure.scholarslab.org/texts/Teaching%20Translation%20with%20the%20Public%20Domain/)
 - [Zhiqiu (Cho) Jiang][3], who worked on [text mining]({{ site.baseurl }}/texts/q-text-mining/)
 - [Emily Mellen][4], who worked on [sound]({{ site.baseurl }}/texts/sound/)* and [translation]({{ site.baseurl }}/texts/Italian_translation/)
-- [Eleanore Neumann][5], who worked on the [storymap]({{ site.baseurl }}/texts/storymap/)
+- [Eleanore Neumann][5], who worked on the [storymap]({{ site.baseurl }}/texts/storymap/) and the [about page]({{ site.baseurl }}/texts/About)
 - [Mathilda Shepard][6], who worked on the [website]({{ site.baseurl }}/) and the [about page]({{ site.baseurl }}/texts/About/)
 - [Chris Whitehead][7], who worked on translation, annotation*, and the [about page]({{ site.baseurl }}/texts/About)
 
