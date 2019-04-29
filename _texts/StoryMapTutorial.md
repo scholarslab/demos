@@ -5,11 +5,11 @@ title: How to Make a StoryMap
 # How to Make a StoryMap
 by Eleanore Neumann
 
-A storymap is exactly what is sounds like: a digital storytelling tool that pairs text with a map in a progressive narrative that often includes additional multimedia. If you would like to learn how to make one like "Mapping New Hampshire," follow the steps below.
+A storymap is exactly what is sounds like: a digital storytelling tool that pairs text with a map in a progressive narrative that often includes additional multimedia. If you would like to learn how to make one like "Mapping New Hampshire," follow the steps below. This tutorial is a work is process, so stay tune for more detailed technical information.
 
 **1. Choose the right platform for your storymap**
 
-Many different storymap tools are now available online, so it is impportant to choose one that is right for your project. You may want to consider whether or not you have the programming skills required by some of the more advanced tools (and if not, then you could always learn!)? Do you want the tool to be closed source or open source? What functions should the storymap perform?
+Many different storymap tools are now available online, so it is impportant to choose one that is right for your project. You may want to consider whether you want your storymap to be closed source or open source? What functions should the storymap perform? Do you have the programming skills required by some of the more advanced tools (and if not, then you could always learn!)? 
 
 Here are a few tools to get you started along with detail how-to guides:
 
@@ -21,7 +21,7 @@ Here are a few tools to get you started along with detail how-to guides:
     * [“Neatline.” Intro to Digital Humanities, UCLA Center for Digital Humanities (blog). Accessed April 29, 2019](http://dh101.humanities.ucla.edu/?page_id=198)
 * [Storymap.org](http://storymap.org/)
     * [“How to Guides.” StoryMap.org. Accessed April 29, 2019.](http://storymap.org/index.aspx#howto)
-* [StorymapJS from Knightlabs @ Northwestern](https://storymap.knightlab.com/)
+* [StorymapJS from Knightlab @ Northwestern](https://storymap.knightlab.com/)
     * [Introduction to StoryMap. JMU Digital Communication Consulting. Accessed April 29, 2019.](https://www.youtube.com/watch?v=b_hKGk6sn5E)
     * [“StoryMap JS Tutorial.” Open Media Lab, SUNY. Accessed April 28, 2019.](9https://commons.suny.edu/openmedialab/distribute/storymap-js/)
     * [“StoryMap JS Tutorial.” Hacking the Humanities. Accessed April 28, 2019.](http://medhieval.com/hackinghumanities2015/blog/storymap-js-tutorial/)
@@ -31,26 +31,30 @@ Here are a few tools to get you started along with detail how-to guides:
     * [“Introducing TimeMapper - Create Elegant TimeMaps in Seconds.” Open Knowledge Labs. Accessed April 29, 2019.](http://okfnlabs.org)
     * [Using the TimeMapper Template. LMU Library. Accessed April 29, 2019.](https://www.youtube.com/watch?v=VPJ3iMkpBZk)
 
-If none of those tools suit your needs, then take a look at "Mapping New Hampshire"!
+I had initially planned to use StorymapJS from Kightlab at Nortwestern University because it is open source, easy to use, and had the basic functionality I needed for this particular project. However, as the project developed, I realized that I needed additional functionality that StorymapJS did not offer, such as the ability to span to many locations and sometimes multiple locations within the same paragraph. So I decided to develop my own. If none of those tools suit your needs, then take a look at "Mapping New Hampshire" below! <br><br>
+
+## Mapping New Hampshire
 
 **2. Download the files from GitHub** 
 
-*[Storymap](https://github.com/atlefren/storymap), jQuery-plugin created by Atle Frenvik Sveen and shared on GitHub
-*["Mapping New Hampshire" javascript](https://github.com/scholarslab/demos/blob/gh-pages/assets/js/storymap/storymap.js)
-*["Mapping New Hampshire" html](https://github.com/scholarslab/demos/blob/gh-pages/_texts/storymap.html)
+You can find the JavaScript file [here](https://github.com/scholarslab/demos/blob/gh-pages/assets/js/storymap/storymap.js), which is based on a storymap jQuery-plugin created by Atle Frenvik Sveen and shared [here](https://github.com/atlefren/storymap) on GitHub. The html file can be found [here](https://github.com/scholarslab/demos/blob/gh-pages/_texts/storymap.html).<br>
+
+The JavaScript uses [Leaflet](https://leafletjs.com/), an open-source JavaScript library for interactive maps. There are a number of helpful tutorials for getting started[here](https://leafletjs.com/examples.html), but they required some technical knowledge.
 
 **3. Set up GitHub Pages**
 
+Follow this guide for setting up your GitHub pages so you can host storymap: 
 [“Getting Started with GitHub Pages.” GitHub. Accessed April 29, 2019.](https://guides.github.com/features/pages/)
-
-**4. Leaflet**
-
-[Leaflet](https://leafletjs.com/)
-    -[“Tutorials." Leaflet - a JavaScript Library for Interactive Maps. Accessed April 29, 2019.](https://leafletjs.com/examples.html)
 
 **4. Add text to you storymap**
 
+Next, you can begin to add text. Here are some [tips for effective storytelling](https://storymaps.arcgis.com/en/five-principles/).
+
 **5. Add locations to your storymap**
+
+You can add markers on the map by modifying the html file. Scroll to line 141 to file the variable "path." To replace a marker or added a new one, simply copy one of the lines starting with "L.marker" and replace the information. The coordinates must be decimal coordinates, which can be found very easily by googling or going to the location's Wikipedia page and clicking on the coordinates in the upper-right-hand corner of the page. The ".bindToolTip" function assigns a popover with a name to each location, so add the name of your location in quotations marks. <br>
+
+To create locations that will be assigned to specific text, scroll down to the variable "views" on line 200. To replace or add a view, copy one of the lines and replace the information again. Give the view a name that will be easy to associate with that location, insert decimal coordinates, and finally set the zoom level. The lower the number for the zoom level, the more zoomed out; and the higher the zoom level the more zoomed in on the location. For instance, zoom level 4 for the United States shows the entire country, whereas zoom level 10 shows the small town of Brighton, New Hampshire.<br><br>
 
 ## Resources
 
@@ -66,7 +70,7 @@ Presner, Todd Samuel, David Shepard, and Yoh Kawano. *HyperCities: Thick Mapping
 
 [“Resources - Tips, Training and Community.” Esri StoryMaps. Accessed April 28, 2019.](https://storymaps.arcgis.com/en/resources/).
 
-[Thomas, Mark. “LibGuides: Web-Based Mapping Applications.” Duke University Libraries. Accessed April 28, 2019.](https://guides.library.duke.edu/webmapping/overview)
+[Thomas, Mark. “LibGuides: Web-Based Mapping Applications.” Duke University Libraries. Accessed April 28, 2019.](https://guides.library.duke.edu/webmapping/overview)<br><br>
 
 
 ## Acknowledgments
