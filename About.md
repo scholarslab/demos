@@ -55,7 +55,7 @@ Since its publication in 2014, *Dawnland Voices* has continued online as a digit
 
 These *awikhiganal* encouraged us to imagine Abenaki country rather than the colonized landscape depicted in Robert Frost’s *New Hampshire*. In order to do so, we realized that we not only needed to listen but also to engage Abenaki voices on our project. To solicit collaboration, we reached out to the editors of Dawnland Voices 2.0, excited to invite those active at the digital gathering place. Siobhan Senier generously have her advice during a video call and reached out on our behalf to the Dawnland Voices community and New Hampshire Indigenous People’s Collaborative Collective. Unfortunately, members of these communities were unavailable to participate, their schedules full with their own projects or other collaborations.
 
-Lacking Abenaki collaborators but seeking to meet our deadline at the end of the academic year, we reconceived several ongoing projects that sought to interrogate Frost’s *New Hampshire* through an indigenous lens. As part of the the translation project, Chris Whitehead translated one of Frost’s poems into Western Abenaki. He chose to translate “Plowmen” because it offered a chance to reveal the fundamental differences between how Abenaki and Euro-American peoples draw life from the. Similarly, the storymap project began as a digital *awikhigan*. We sought to place Frost’s *New Hampshire* in the cartographic space of *wd’akiw8*, thereby recasting Frost’s notions of literacy and place in indigenous terms. Readers would experience the written word as physical places marked with Western Abenaki place-names. Atop this map, pop-out annotations would provide the historical context about how Euro-Americans colonized “New Hampshire.” We also hoped to feature written and sonic examples of Abenaki poetry in response to the poetry by Frost. When it became clear that this collaboration would not be possible within the time that we had, we designed an alternative intervention. We recorded the voices of local students at Western Albemarle High School and superimposed them over Frost’s text to demonstrate the potential of intermingling audio and text in digital projects to create new amplified or layered meanings.
+Lacking Abenaki collaborators but seeking to meet our deadline at the end of the academic year, we reconceived several ongoing projects that sought to interrogate Frost’s *New Hampshire* through an indigenous lens. As part of the translation project, Chris Whitehead translated one of Frost’s poems into Western Abenaki. He chose to translate “Plowmen” because it offered a chance to reveal the fundamental differences between how Abenaki and Euro-American peoples draw life from the land. Similarly, the storymap project began as a digital *awikhigan*. We sought to place Frost’s *New Hampshire* in the cartographic space of *wd’akiw8*, thereby recasting Frost’s notions of literacy and place in indigenous terms. Readers would experience the written word as physical places marked with Western Abenaki place-names. Atop this map, pop-out annotations would provide the historical context about how Euro-Americans colonized “New Hampshire.” We also hoped to feature written and sonic examples of Abenaki poetry in response to the poetry by Frost. When it became clear that this collaboration would not be possible within the time that we had, we designed an alternative sonic intervention. We recorded the voices of local students at Western Albemarle High School and superimposed them over Frost’s text to demonstrate the potential of intermingling audio and text in digital projects to create new amplified or layered meanings.
 
 Ultimately, however, we decided not to include these projects in *Unclosure*. In early April 2019, the Praxis team presented a work-in-progress version of our site at the “Decolonizing the Digital Humanities: Indigenous Arts, Histories, and Knowledges from the Material to the Screen,” held at the University of Virginia. During a roundtable discussion, conference participants offered valuable feedback about how to improve our project. In particular, the conference’s keynote speaker, Marge Bruchac, shared critical perspectives and advice about the work-in-progress version we presented. She cautioned us that one of the poems we selected for the storymap and sound projects, “The Witch of Coös,” can be read as an act of violence against native women. To broadcast it to our audience - even with the intention of interrogating and contextualizing it - would perpetuate that violence. Moreover, publishing a translation of “Plowmen” into Western Abenaki without input from the appropriate language experts risked undermining [ongoing efforts by Abenaki leaders to preserve and teach their language](http://westernabenaki.com/). To publish *Unclosure* in its work-in-progress state risked undermining the project’s intention: in attempting decolonization, it would become an act of recolonization. As a result of this critical feedback, we ultimately decided to include variations of these projects in Unclosure that would not perpetrate this unintended violence.
 
@@ -67,7 +67,7 @@ Although *Unclosure* took a different form than we had initially envisioned, we 
 <br/>
 ## How to Cite
 
-This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend that:
+This project is the product of intense and ongoing collaboration. If your style guide prefers a single bibliography entry for this resource, we recommend:
 
 <p><em>Unclosure: An Act for the Encouragement of Learning</em>, version 1.0. Praxis Program,  University of Virginia Library, Scholars’ Lab https://unclosure.scholarslab.org. <script>
 var today = new Date();
@@ -92,9 +92,6 @@ today = 'Accessed ' + dd + ' ' + mm + ' ' + yyyy;
 document.write(today);
 </script>
 </p>
-
-You will normally also need to give the date on which you accessed the site.
-
 
 
 <br/>
@@ -123,7 +120,7 @@ Bruchac, Joseph. 1989. *Return of the Sun: Native American Tales from the Northe
 
 Bruchac, Margaret M. 2007. “Historical Erasure and Cultural Recovery:  Indigenous People in the Connecticut River Valley.” Ph.D. Dissertation, University of Massachusetts Amherst.[ ](http://search.proquest.com.proxy.its.virginia.edu/pqdtglobal/docview/304849021/abstract/3D25C9E201384DA2PQ/3)
 
-Hyde, Lewis. 2010. *Common as Air: Revolution, Art, and Ownership*. New York: Farrar, Strauss & Giroux.
+Hyde, Lewis. 2010. *Common as Air: Revolution, Art, and Ownership*. New York: Farrar, Strauss,  & Giroux.
 
 Laurent, Joseph. 1884. *New familiar Abenakis and English dialogues: the first vocabulary ever published in the Abenakis language, comprising The Abenakis alphabet, the Key to the pronunciation, and many grammatical explanations, also synoptical illustrations showing the numerous modifications of the Abenakis verb, &c., to which is added the Etymology of Indian names of certain localities, rivers, lakes, &c., &c.* Quebec: Leger Brousseau.
 
@@ -131,7 +128,7 @@ Mignolo, Walter and Madina Tlostanova. 2006. “Theorizing from the Borders: Shi
 
 O’Brien, Jean M. 2010. *Firsting and Lasting: Writing Indians out of Existence in New England*. Minneapolis: University of Minnesota Press.
 
-Povinelli, Elizabeth A. “The Woman on the Other Side of the Wall: Archiving the Otherwise in Postcolonial Digital Archives.” *differences* 22, no. 1. 2011.
+[Povinelli, Elizabeth A. “The Woman on the Other Side of the Wall: Archiving the Otherwise in Postcolonial Digital Archives.” *differences* 22, no. 1. 2011.](https://read.dukeupress.edu/differences/article-abstract/22/1/146/97727/The-Woman-on-the-Other-Side-of-the-Wall-Archiving?redirectedFrom=fulltext)
 
 [Risam, Roopika. 2018. “Decolonizing The Digital Humanities In Theory And Practice,” *Salem State University English Faculty Publications* 7.](https://digitalcommons.salemstate.edu/cgi/viewcontent.cgi?article=1006&context=english_facpub)
 
