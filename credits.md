@@ -12,7 +12,7 @@ order: 4
 The 2018–2019 [Praxis][1] Fellows are:
 - [Catherine Addington][2], who worked on the [typeface](http://unclosure.scholarslab.org/texts/Typeface/) and [translation](http://unclosure.scholarslab.org/texts/Teaching%20Translation%20with%20the%20Public%20Domain/)
 - [Zhiqiu (Cho) Jiang][3], who worked on [text mining]({{ site.baseurl }}/texts/q-text-mining/)
-- [Emily Mellen][4], who worked on [sound]({{ site.baseurl }}/texts/sound/)* and [translation]({{ site.baseurl }}/texts/Italian_translation/)
+- [Emily Mellen][4], who worked on [sound]({{ site.baseurl }}/texts/sound/) and [translation]({{ site.baseurl }}/texts/Italian_translation/)
 - [Eleanore Neumann][5], who worked on the [storymap]({{ site.baseurl }}/texts/storymap/) and the [about page]({{ site.baseurl }}/texts/About)
 - [Mathilda Shepard][6], who worked on the [website]({{ site.baseurl }}/) and the [about page]({{ site.baseurl }}/texts/About/)
 - [Chris Whitehead][7], who worked on translation, annotation*, and the [about page]({{ site.baseurl }}/texts/About)
@@ -40,8 +40,8 @@ This project also benefited greatly from the thoughtful feedback we received thr
 
 We also thank those who assisted with each intervention. In addition to those mentioned above, we extend our gratitude to
 - [Sue Donovan][44], for consulting on the _New Hampshire_ typeface
-- [Stella Mattioli][45], for her assistance with the Italian translation
-- Paula Archey (School Librarian, Western Albemarle High School) for collaborating on the sound project, and students Brayden Crickenberger, Giselle Garbaccio, and Ella Duncan for participating
+- [Stella Mattioli][45] and [Hiromi Kaneda](http://spanitalport.as.virginia.edu/people/profile/hk2wn), for their assistance with the Italian translation
+- Paula Archey (School Librarian, Western Albemarle High School) and students Brayden Crickenberger, Giselle Garbaccio, and Ella Duncan for their collaboration on the sound project*
 
 *Denotes a project that the Praxis Fellows presented at "Decolonizing the Digital Humanities: Indigenous Arts, Histories, and Knowledges from the Material to the Screen" (Charlottesville, VA. April 6, 2019), but decided not to publish on this site. Please consult the [about page]({{ site.baseurl }}/texts/About/) for a discussion about this decision.
 
