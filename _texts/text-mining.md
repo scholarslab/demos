@@ -98,7 +98,7 @@ For the whole poetry collection, it has 19,584 total words and 3,349 unique word
 <br/>
 ### 3.1.3 Word Contexts
 
-We can notice from the table that the 14 appearances of word "mountains" (underlined in the table) in the long poem "New Hampshire". This seems like an important image in Frost's poems as his work exploring complex ideas through scenes and images of rural life. We can go further to look at the word contexts around the word "mountains" by using *Contexts* tool. The [Contexts](https://voyant-tools.org/docs/#!/guide/contexts) (or Keywords in Context) tool shows each occurrence of a keyword with a bit of surrounding text (the context). It can be useful for studying more closely how terms are used in different contexts. Of course, you could do all this with Python or R, but Voyant allows to get at similar analysis with a lower barrier to entry.
+We can notice from the table that the 14 appearances of word "mountains" (underlined in the table) in the long poem "New Hampshire". This seems like an important image in Frost's poems as his work exploring complex ideas through scenes and images of rural life. We can go further to look at the word contexts around the word "mountains" by using *Contexts* tool. The [*Contexts*](https://voyant-tools.org/docs/#!/guide/contexts) (or Keywords in Context) tool shows each occurrence of a keyword with a bit of surrounding text (the context). It can be useful for studying more closely how terms are used in different contexts. Of course, you could do all this with Python or R, but Voyant allows to get at similar analysis with a lower barrier to entry.
 
 
 <br/>
