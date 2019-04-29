@@ -178,7 +178,7 @@ This tutorial seeks to analyze the Themes / Topics that are associated with diff
  Interestingly, our topic modeling findings reveal that different document types do have a variety of themes in general. For the "Hearing transcripts", the main topic is about "Program", identified as a major concern towards Copyright Extension Act. Most of the "Speeches" talk about "Action & Legislation" issues, which are mainly about enforcement of copyright law and relevant practical problems. It is not surprising that "Bills" and "Laws" overlap with each other since Bills is a larger collection than Laws for this case. 
 
 
-Following the main theme of the "Report" text — "Protection", we can analyze the word links for this theme. The left word cloud plot shows the word frequency mentioned from "Report" corpus. The right plot represents the linked words of the word "copyright" (305 mentions), "protection" (147 mentions), and "database" (128 mentions) in the Report corpus.
+Following the main theme of the "Report" text — "Protection", we can analyze the word links for this theme. The left word cloud plot shows the word frequency mentioned from "Report" text. The right plot represents the linked words of the word "copyright" (305 mentions), "protection" (147 mentions), and "database" (128 mentions) in the Report corpus.
  <div class="box"><iframe src='https://voyant-tools.org/?corpus=e0a86ba1531b668a62e410c9e7f43de2&view=Cirrus'
     style='width: 40%; height: 300px' align='left'></iframe></div>
 <div class="box"><iframe src='https://voyant-tools.org/?corpus=e0a86ba1531b668a62e410c9e7f43de2&query=protection&query=copyright&query=database&mode=corpus&context=3&view=CollocatesGraph'
