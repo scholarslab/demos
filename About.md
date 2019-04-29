@@ -22,7 +22,7 @@ There are implicit assumptions about who benefits from the dedication of cultura
 The accompanying tutorials describe how each project was made, advice for navigating relevant copyright law, and some include also thoughts about how instructors could incorporate such projects into the classroom. They assume no prior knowledge or experience, but mean to introduce fundamental skills and critical issues in digital humanities that could be relevant to a wide range of disciplines.  It should be noted that though we are an [interdisciplinary team](http://unclosure.scholarslab.org/credits/), not one of us is a literature scholar. The tutorials will perhaps offer other scholars better equipped for literary analysis with the tools necessary to intervene in other public-domain texts using some of the digitial tools and methods. The hope is that these examples will spark new ideas for reimagining the corpus of art, film, literature, and music that has no reverted to communal ownership.
 
 
-## **Why _New Hampshire_?**
+## Why _New Hampshire_?
 
 *New Hampshire* has a particularly emblematic history when it comes to copyright and the public domain. It is an iconic collection featuring some of Frost's most famous poems, such as “Stopping by Woods on a Snowy Evening” and “Fire and Ice.” In writing the title poem, he drew from the cultural commons, parodying T.S. Eliot’s seminal work of poetry *The Waste Land* (1922) in his use of excessive footnotes (Tuten and Zubizarreta 2000, 230). The collection the won him the 1924 Pulitzer Prize in Poetry and he then went on to serve as Poet Laureate for Vermont. The success of *New Hampshire* led Frost’s estate and publisher to [vigorously defended its copyright](https://ericwhitacre.com/music-catalog/sleep), even as the poems circulated widely through American culture from English textbooks to John F. Kennedy’s campaign speeches. Now, the first edition with its original font and woodcut images has entered the public domain; it exemplifies the life cycle of cultural production which begins and ends with the commons.  
 
@@ -35,7 +35,7 @@ Frost’s poetry portrays a colonized, Euro-American landscape antithetical to t
 Long before European settlers called the place “New Hampshire,” it comprised part of *W8banaki*, the Dawnland (Bruchac and Joubert 2019, 343). This traditional homeland of Abenaki peoples spans from Lake Champlain to the coast of central Maine, and from the St. Lawrence River to northern Massachusetts. The Abenaki comprise sovereign peoples throughout New England, including the following bands and tribes: [The Cowassuck Band of the Penacook Abenaki People](http://www.cowasuck.org/), [The Elnu Abenaki Tribe](http://elnuabenakitribe.org/), [Koasek (Cowasuck) Traditional Band of the Sovereign Abenaki Nation](http://koasek-abenaki.com/), [Abenaki Nation of Missisquoi - St. Francis/Sokoki Band](https://www.abenakination.com/), and the [Nulhegan Band of Coosuck Abenaki Nation](https://abenakitribe.org/). Although Abenaki peoples have inhabited their lands for over 10,000 years, they are conspicuously absent from Robert Frost’s *New Hampshire*.
 
 
-## **Whose domain?**
+## Whose domain?
 
 Abenaki peoples refer to their homeland as *nd’akinna*. You can hear within it the root *aki*, meaning “land.” And you can also hear *n*, used in this construction as an exclusive plural possessive pronoun. The Abenaki historian Lisa Brooks explains the linguistic features of the Abenaki language as well as its political implications for indigenous peoples: 
 
