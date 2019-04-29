@@ -21,7 +21,7 @@ It is noticeable that text datasets are usually unstructured. Unstructured text 
 <br/>
 
 ## 2. Tools
-Basically, tools for text mining tend to fall into three categories: 1) *programming applications*, 2) *open-sourced applications*, and 3) *other software*. 
+Basically, tools for text mining tend to fall into three categories: 1) *programming languages from scratch solution*, 2) *open-sourced applications*, and 3) *other software*. 
 
 ### 2.1 Using Programming Languages from Scratch Solution
 By programming applications, I refer to code written using programming languages such as [Python](https://www.python.org/), [R](https://www.r-project.org/about.html), and high level programming languages like [Java](https://www.java.com/en/) and [C++](http://www.cplusplus.com/). Among all of them, [Python](https://www.python.org/) and [R](https://www.r-project.org/about.html) are the most popular languages for text mining, particularly for teaching. The barrier for entry here is higher, but users can control their projects more carefully.
