@@ -26,7 +26,7 @@ After a literal translation of the poem, I went back in order to try to make the
 
 The second couplet was a little trickier. I understand the joke of the final couplet to be that farming in New England is like plowing rock. So, I took it as important that the final word was “rock,” which serves as a sort of punchline, and gives a comical, bitter tone to the entire poem. My original literal translation of the entire couplet was:
 
-*Se non per amarezza deridere*
+*Se non per amarezza deridere* <br>
 *L’aver coltivato la pietra* 
 
 This is pretty literal. The only word I waffled on was using “per amarezza” (for bitterness) or “in amarezza” (in bitterness). Although “in” was more literal, I thought “per” was necessary to communicate the sense of “in order to” that the “to” in “to mock” gets across. 
